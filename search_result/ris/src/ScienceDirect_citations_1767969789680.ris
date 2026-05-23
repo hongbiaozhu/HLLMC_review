@@ -1,0 +1,395 @@
+TY  - JOUR
+T1  - Enhancing Stock Market Prediction with Temporal Graph Neural Networks and Large Language Model-Based Explainability
+AU  - Wang, Tianye
+JO  - Procedia Computer Science
+VL  - 274
+SP  - 147
+EP  - 160
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 22nd International Multidisciplinary Modeling & Simulation Multiconference (I3M 2025)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.12.015
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925037366
+KW  - Temporal Graph Convolutional Networks
+KW  - Explainable AI
+KW  - Large Language Models
+KW  - Stock Trend Forecasting
+KW  - Financial Analysis Report
+AB  - Interpreting deep learning predictions in financial markets remains a central challenge, as temporal dependencies and inter-stock relations often obscure model reasoning. This paper introduces a unified framework that combines Temporal Graph Convolutional Network for stPGExpla for grapLarge Language Models (LLMs) such as GPT-4o and LLaMA3 to translate structural explanations into natural-language financial reports. Experiments on the S&P 100 and NASDAQ-100 benchmarks show that TGCNs capture spatiotemporal dependencies effectively, achieving test accuracies of 58.9% and 50.6%, respectively. To assess explanation quality, we propose a factual sensitivity protocol and find that GPT-4o generates the most consistent and context-sensitive reports. While predictive accuracy remains moderate due to market volatility, the primary contribution lies in improving model transparency and accessibility, bridging complex GNN outputs with human-readable narratives. The study also outlines directions for future work, including real-time deployment and user-in-the-loop evaluation to better align explainable AI with financial practice.
+ER  - 
+
+TY  - JOUR
+T1  - Starting a synthetic biological intelligence lab from scratch
+AU  - Tanveer, Md Sayed
+AU  - Patel, Dhruvik
+AU  - Schweiger, Hunter E.
+AU  - Abu-Bonsrah, Kwaku Dad
+AU  - Watmuff, Brad
+AU  - Azadi, Azin
+AU  - Pryshchep, Sergey
+AU  - Narayanan, Karthikeyan
+AU  - Puleo, Christopher
+AU  - Natarajan, Kannathal
+AU  - Mostajo-Radji, Mohammed A.
+AU  - Kagan, Brett J.
+AU  - Wang, Ge
+JO  - Patterns
+VL  - 6
+IS  - 5
+SP  - 101232
+PY  - 2025
+DA  - 2025/05/09/
+SN  - 2666-3899
+DO  - https://doi.org/10.1016/j.patter.2025.101232
+UR  - https://www.sciencedirect.com/science/article/pii/S2666389925000807
+KW  - synthetic biological intelligence
+KW  - organoid intelligence
+KW  - electrophysiology
+KW  - biocomputing
+KW  - neuroscience
+KW  - artificial intelligence
+KW  - neuroAI
+AB  - Summary
+Recent advances in artificial intelligence (AI) have led to the development and deployment of gigantic models trained on billions of samples. While training these models consumes enormous energy, the human brain produces similar outputs with dramatically lower data and energy requirements. This has increased interest in synthetic biological intelligence (SBI), which involves training in vitro neurons for goal-directed tasks. This multidisciplinary field requires knowledge of tissue engineering, biomaterials, signal processing, computer programming, neuroscience, and AI. As a result, starting SBI research is highly nontrivial and time-consuming, as most labs specialize in either the biological aspects or the computational ones. Here, we propose how a computational lab can become familiar with the biological aspects of SBI and also discuss computational aspects for biological labs that are interested in SBI. We describe general strategies as well as step-by-step processes, risks, and precautions to mitigate delays and minimize costs.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating the Reasoning Capabilities of Large Language Models for Medical Coding and Hospital Readmission Risk Stratification: Zero-Shot Prompting Approach
+AU  - Naliyatthaliyazchayil, Parvati
+AU  - Muthyala, Raajitha
+AU  - Gichoya, Judy Wawira
+AU  - Purkayastha, Saptarshi
+JO  - Journal of Medical Internet Research
+VL  - 27
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1438-8871
+DO  - https://doi.org/10.2196/74142
+UR  - https://www.sciencedirect.com/science/article/pii/S1438887125010106
+KW  - large language models
+KW  - clinical decision support
+KW  - zero-shot learning
+KW  - medical coding
+KW  - primary diagnosis prediction
+KW  - readmission risk prediction
+KW  - explainability
+AB  - Background
+Large language models (LLMs) such as ChatGPT-4, LLaMA-3.1, Gemini-1.5, DeepSeek-R1, and OpenAI-O3 have shown promising potential in health care, particularly for clinical reasoning and decision support. However, their reliability across critical tasks like diagnosis, medical coding, and risk prediction has received mixed reviews, especially in real-world settings without task-specific training.
+Objective
+This study aims to evaluate and compare the zero-shot performance of reasoning and nonreasoning LLMs in three essential clinical tasks: (1) primary diagnosis generation, (2) ICD-9 (International Classification of Diseases, Ninth Revision) medical code prediction, and (3) hospital readmission risk stratification. The goal is to assess whether these models can serve as general-purpose clinical decision support tools and to identify gaps in current capabilities.
+Methods
+Using the Medical Information Mart for Intensive Care-IV dataset, we selected a random cohort of 300 hospital discharge summaries. Prompts were engineered to include structured clinical content from 5 note sections: chief complaints, past medical history, surgical history, laboratories, and imaging. Prompts were standardized and zero-shot, with no model fine-tuning or repetition across runs. All model interactions were conducted through publicly available web user interfaces, without using application programming interfaces, to simulate real-world accessibility for nontechnical users. We incorporated rationale elicitation into prompts to evaluate model transparency, especially in reasoning models. Ground-truth labels were derived from the primary diagnosis documented in clinical notes, structured ICD-9 codes from diagnosis, and hospital-recorded readmission frequencies for risk stratification. Performance was measured using F1-scores and correctness percentages, and comparative performance was analyzed statistically.
+Results
+Among nonreasoning models, LLaMA-3.1 achieved the highest primary diagnosis accuracy (n=255, 85%), followed by ChatGPT-4 (n=254, 84.7%) and Gemini-1.5 (n=237, 79%). For ICD-9 prediction, correctness dropped significantly across all models: LLaMA-3.1 (n=128, 42.6%), ChatGPT-4 (n=122, 40.6%), and Gemini-1.5 (n=44, 14.6%). Hospital readmission risk prediction showed low performance in nonreasoning models: LLaMA-3.1 (n=124, 41.3%), Gemini-1.5 (n=122, 40.7%), and ChatGPT-4 (n=99, 33%). Among reasoning models, OpenAI-O3 outperformed in diagnosis (n=270, 90%) and ICD-9 coding (n=136, 45.3%), while DeepSeek-R1 performed slightly better in the readmission risk prediction (n=218, 72.6% vs O3’s n=212, 70.6%). Despite improved explainability, reasoning models generated verbose responses. None of the models met clinical standards across all tasks, and performance in medical coding remained the weakest area across all models.
+Conclusions
+Current LLMs exhibit moderate success in zero-shot diagnosis and risk prediction but underperform in ICD-9 code generation, reinforcing findings from prior studies. Reasoning models offer marginally better performance and increased interpretability, with limited reliability. Overall, statistical analysis between the models revealed that OpenAI-O3 outperformed the other models. These results highlight the need for task-specific fine-tuning and need human-in-the-loop checking. Future work will explore fine-tuning, stability through repeated trials, and evaluation on a different subset of deidentified real-world data with a larger sample size.
+ER  - 
+
+TY  - JOUR
+T1  - AI-enabled defect detection in industrial products: A comprehensive survey, key insights and future research challenges
+AU  - Nahar, Lutfun
+AU  - Awrangjeb, Mohammad
+AU  - Islam, Md. Saiful
+JO  - Advanced Engineering Informatics
+VL  - 69
+SP  - 104067
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2025.104067
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034625009607
+KW  - Object defects
+KW  - Defect inspection
+KW  - Defect localisation
+KW  - Machine learning
+KW  - Deep learning
+AB  - Artificial Intelligence (AI) techniques, especially Machine Learning (ML) and Deep Learning (DL), are increasingly used for automated defect inspection in industries like metals, ceramics, glass, and textiles. These methods process high-quality images to detect and localise defects. Inspection approaches range from manual and semi-automated (classical ML) to fully automated (DL), with DL preferred for eliminating manual feature engineering. DL models are typically supervised or unsupervised—supervised models offer high accuracy but require large labelled datasets, while unsupervised models work without labels but often yield lower performance. Emerging alternatives like semi-supervised, weakly supervised, and self-supervised learning show promising results in data-scarce settings. This paper presents a comprehensive taxonomy of DL models for defect classification, detection, and segmentation. For classification, models such as Convolutional Neural Networks (CNNs), transfer learning, and hybrid architectures are discussed. For segmentation tasks, encoder–decoder models, pyramid networks, and attention mechanisms are reviewed. In defect detection, the evolution of YOLO architectures is examined, particularly combinations with pyramid networks and attention modules to enhance feature extraction. Unsupervised approaches, such as Generative Adversarial Networks (GANs) and diffusion models, are explored for their capacity to detect anomalies without extensive labelled datasets. Emerging strategies — including transformer-based models, few-shot learning, large language models (LLMs), and foundation models — are also covered. Despite recent advancements, challenges remain in ensuring model reliability due to overconfidence and poor calibration. We address this by discussing model trustworthiness, human-in-the-loop frameworks, and reliability assessment techniques critical for industrial deployment. This review analyses the current strengths and limitations of existing approaches, identifies ongoing challenges, and highlights future directions in ML and DL-based defect inspection across various materials and defect types.
+ER  - 
+
+TY  - JOUR
+T1  - Vision-language models in diagnostic imaging: review of technical advances, clinical validation, and practical deployment
+AU  - Dutta, Niharika
+AU  - Bose, Kartik
+AU  - Syailendra, Emir
+AU  - Chu, Linda
+AU  - Gupta, Pankaj
+JO  - International Journal of Medical Informatics
+VL  - 208
+SP  - 106227
+PY  - 2026
+DA  - 2026/03/15/
+SN  - 1386-5056
+DO  - https://doi.org/10.1016/j.ijmedinf.2025.106227
+UR  - https://www.sciencedirect.com/science/article/pii/S1386505625004447
+KW  - Artificial intelligence
+KW  - Large language models
+KW  - Vision-language models
+KW  - Radiology
+KW  - Foundation model
+KW  - Medical imaging
+KW  - Report generation
+KW  - Clinical validation
+AB  - Background
+Radiology faces an unprecedented workload crisis, creating demand for AI solutions to enhance efficiency and quality. Vision-language models (VLMs) represent a paradigm shift from narrow AI tools to integrated systems for image interpretation and report generation. However, their rapid technical progress has outpaced rigorous clinical validation, creating a critical gap between their theoretical potential and safe, practical deployment.
+Objective
+To critically review the state of VLMs in diagnostic imaging by evaluating their clinical validation, identifying deployment challenges, and assessing their impact on the radiological workflow. This review provides a roadmap for responsible clinical integration by analyzing the gap between model performance and real-world utility.
+Method
+A narrative review of literature was conducted from January 2017 to May 2025. The search focused on VLM applications in radiology, including automated report generation and visual question answering. We synthesized findings from technical and clinical validation studies, thematically organized around architectural evolution, applications, validation, and implementation barriers.
+Results
+A clear progression from encoder-decoder models to sophisticated LLM-integrated foundation models was identified. While these models achieve high performance on NLP metrics, their clinical utility is limited. Key findings include: (1) Pervasive model hallucination, with factual errors in ∼ 22 % of AI-generated reports; (2) A lack of external validation on diverse, multi-institutional datasets; (3) Significant implementation barriers, including high computational costs, poor workflow integration, and unresolved liability. Human expert evaluations show that while AI-generated reports for routine cases are often acceptable (77.7 % in one study), accuracy declines significantly in complex cases.
+Conclusion
+VLMs hold transformative potential but are not ready for autonomous clinical use. Their primary value lies in augmenting radiologists’ workflow. For successful adoption, the field must shift focus from algorithmic metrics to proving clinical safety and efficacy through rigorous validation, developing robust hallucination mitigation strategies, and designing seamless workflow integrations.
+ER  - 
+
+TY  - JOUR
+T1  - Towards Transparent 6G AI-RAN: A Survey on Explainable Deep Reinforcement Learning for Intelligent Network Slicing
+AU  - Guo, Shuaishuai
+AU  - Zhong, Yutong
+AU  - Feng, Zhenyu
+AU  - Kang, Shengqi
+AU  - Chen, Jichao
+JO  - Journal of Information and Intelligence
+PY  - 2025
+DA  - 2025/12/29/
+SN  - 2949-7159
+DO  - https://doi.org/10.1016/j.jiixd.2025.12.005
+UR  - https://www.sciencedirect.com/science/article/pii/S2949715925000757
+KW  - Explainable deep reinforcement learning (XDRL)
+KW  - 6G AI-RAN
+KW  - intelligent network slicing
+KW  - transparency and interpretability
+KW  - intent-based networking
+AB  - The advent of the sixth generation (6G) wireless networks envisions an artificial intelligence (AI)-native radio access network (AI-RAN), where deep reinforcement learning (DRL) emerges as a key enabler for intelligent and autonomous network slicing. Despite the demonstrated performance gains of DRL-based solutions in dynamic resource allocation and slice orchestration, their opaque decision-making nature raises critical concerns regarding trust, accountability, and operational deployment. To bridge this gap, explainable deep reinforcement learning (XDRL) has recently attracted significant attention as a means to enhance transparency, interpretability, and controllability of AI-RAN slicing policies. This survey provides a comprehensive overview of the state of the art in explainable DRL for intelligent network slicing. We first review the fundamental principles of DRL in the context of RAN slicing and identify the unique explainability challenges posed by high-dimensional, multi-slice environments. We then categorize existing XDRL approaches into post-hoc explanation, symbolic abstraction, and human-in-the-loop steering, analyzing their methodologies, strengths, and limitations. Furthermore, we highlight benchmark environments and experimental testbeds that have been employed to evaluate XDRL in realistic network scenarios. Finally, we outline key open challenges, including scalability, generalization across traffic patterns, integration with large language models (LLMs), and alignment with intent-based networking, and discuss promising research directions toward achieving transparent, trustworthy, and human-centric AI-RAN in 6G.
+ER  - 
+
+TY  - JOUR
+T1  - Insights into wheat science: A bibliometric review using unsupervised machine learning techniques
+AU  - Pérez-Pérez, Martín
+AU  - Ribeiro, Miguel
+AU  - Fdez-Riverola, Florentino
+AU  - Igrejas, Gilberto
+JO  - Journal of Cereal Science
+VL  - 118
+SP  - 103960
+PY  - 2024
+DA  - 2024/07/01/
+SN  - 0733-5210
+DO  - https://doi.org/10.1016/j.jcs.2024.103960
+UR  - https://www.sciencedirect.com/science/article/pii/S0733521024001188
+KW  - Wheat
+KW  - Literature analysis
+KW  - Knowledge extraction
+KW  - Machine learning
+KW  - LLM
+KW  - Clustering
+AB  - Wheat (Triticum spp.) has been one of the most important cereal crops, serving as a source of protein and energy in the human diet. It remains a vital component of global food security, with extensive scientific literature dedicated to its study, although the large volume of literature often hinders global analysis. In this study, different unsupervised machine learning techniques, such as K-Nearest Neighbors (KNN) and Uniform Manifold Approximation and Projection (UMAP), text mining analyses, including word embeddings and statistical word analysis, and graph analysis methodologies, were applied to gain a deeper understanding of the wheat literature. The proposed bibliometric analysis was conducted and integrated with the Journal Citation Reports (JCR) to identify major wheat research trends in the PubMed literature. This analysis examined the evolution of these trends over time, evaluated the geographical distribution, impact, and research domains, and assessed author collaboration networks and the evolving relevance of different countries. Research on disease resistance, genetic modification, and dietary impact demonstrates a consistent increase in output, while interest in topics related to overcoming salt stress and enhancing animal feed appears to be diminishing. Interestingly, research on wheat germ agglutinin saw a surge in interest during the late 2000s, stabilizing thereafter. These trends underscore the dynamic nature of wheat research, driven by evolving priorities and technological advancements, particularly in genetics and omics tools. Moreover, the increasing significance of China in wheat research, including its size, impact, and networking, alongside longstanding leaders such as the United States, signals a shifting landscape in global wheat research.
+ER  - 
+
+TY  - JOUR
+T1  - Comparing the Efficacy and Efficiency of Human and Generative AI: Qualitative Thematic Analyses
+AU  - Prescott, Maximo R
+AU  - Yeager, Samantha
+AU  - Ham, Lillian
+AU  - Rivera Saldana, Carlos D
+AU  - Serrano, Vanessa
+AU  - Narez, Joey
+AU  - Paltin, Dafna
+AU  - Delgado, Jorge
+AU  - Moore, David J
+AU  - Montoya, Jessica
+JO  - JMIR AI
+VL  - 3
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 2817-1705
+DO  - https://doi.org/10.2196/54482
+UR  - https://www.sciencedirect.com/science/article/pii/S2817170524000425
+KW  - GenAI
+KW  - generative artificial intelligence
+KW  - ChatGPT
+KW  - Bard
+KW  - qualitative research
+KW  - thematic analysis
+KW  - digital health
+AB  - Background
+Qualitative methods are incredibly beneficial to the dissemination and implementation of new digital health interventions; however, these methods can be time intensive and slow down dissemination when timely knowledge from the data sources is needed in ever-changing health systems. Recent advancements in generative artificial intelligence (GenAI) and their underlying large language models (LLMs) may provide a promising opportunity to expedite the qualitative analysis of textual data, but their efficacy and reliability remain unknown.
+Objective
+The primary objectives of our study were to evaluate the consistency in themes, reliability of coding, and time needed for inductive and deductive thematic analyses between GenAI (ie, ChatGPT and Bard) and human coders.
+Methods
+The qualitative data for this study consisted of 40 brief SMS text message reminder prompts used in a digital health intervention for promoting antiretroviral medication adherence among people with HIV who use methamphetamine. Inductive and deductive thematic analyses of these SMS text messages were conducted by 2 independent teams of human coders. An independent human analyst conducted analyses following both approaches using ChatGPT and Bard. The consistency in themes (or the extent to which the themes were the same) and reliability (or agreement in coding of themes) between methods were compared.
+Results
+The themes generated by GenAI (both ChatGPT and Bard) were consistent with 71% (5/7) of the themes identified by human analysts following inductive thematic analysis. The consistency in themes was lower between humans and GenAI following a deductive thematic analysis procedure (ChatGPT: 6/12, 50%; Bard: 7/12, 58%). The percentage agreement (or intercoder reliability) for these congruent themes between human coders and GenAI ranged from fair to moderate (ChatGPT, inductive: 31/66, 47%; ChatGPT, deductive: 22/59, 37%; Bard, inductive: 20/54, 37%; Bard, deductive: 21/58, 36%). In general, ChatGPT and Bard performed similarly to each other across both types of qualitative analyses in terms of consistency of themes (inductive: 6/6, 100%; deductive: 5/6, 83%) and reliability of coding (inductive: 23/62, 37%; deductive: 22/47, 47%). On average, GenAI required significantly less overall time than human coders when conducting qualitative analysis (20, SD 3.5 min vs 567, SD 106.5 min).
+Conclusions
+The promising consistency in the themes generated by human coders and GenAI suggests that these technologies hold promise in reducing the resource intensiveness of qualitative thematic analysis; however, the relatively lower reliability in coding between them suggests that hybrid approaches are necessary. Human coders appeared to be better than GenAI at identifying nuanced and interpretative themes. Future studies should consider how these powerful technologies can be best used in collaboration with human coders to improve the efficiency of qualitative research in hybrid approaches while also mitigating potential ethical risks that they may pose.
+ER  - 
+
+TY  - JOUR
+T1  - The McMaster Health Information Research Unit: Over a Quarter-Century of Health Informatics Supporting Evidence-Based Medicine
+AU  - Lokker, Cynthia
+AU  - McKibbon, K Ann
+AU  - Afzal, Muhammad
+AU  - Navarro, Tamara
+AU  - Linkins, Lori-Ann
+AU  - Haynes, R Brian
+AU  - Iorio, Alfonso
+JO  - Journal of Medical Internet Research
+VL  - 26
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 1438-8871
+DO  - https://doi.org/10.2196/58764
+UR  - https://www.sciencedirect.com/science/article/pii/S1438887124004308
+KW  - health informatics
+KW  - evidence-based medicine
+KW  - information retrieval
+KW  - evidence-based
+KW  - health information
+KW  - Boolean
+KW  - natural language processing
+KW  - NLP
+KW  - journal
+KW  - article
+KW  - Health Information Research Unit
+KW  - HiRU
+AB  - Evidence-based medicine (EBM) emerged from McMaster University in the 1980-1990s, which emphasizes the integration of the best research evidence with clinical expertise and patient values. The Health Information Research Unit (HiRU) was created at McMaster University in 1985 to support EBM. Early on, digital health informatics took the form of teaching clinicians how to search MEDLINE with modems and phone lines. Searching and retrieval of published articles were transformed as electronic platforms provided greater access to clinically relevant studies, systematic reviews, and clinical practice guidelines, with PubMed playing a pivotal role. In the early 2000s, the HiRU introduced Clinical Queries—validated search filters derived from the curated, gold-standard, human-appraised Hedges dataset—to enhance the precision of searches, allowing clinicians to hone their queries based on study design, population, and outcomes. Currently, almost 1 million articles are added to PubMed annually. To filter through this volume of heterogenous publications for clinically important articles, the HiRU team and other researchers have been applying classical machine learning, deep learning, and, increasingly, large language models (LLMs). These approaches are built upon the foundation of gold-standard annotated datasets and humans in the loop for active machine learning. In this viewpoint, we explore the evolution of health informatics in supporting evidence search and retrieval processes over the past 25+ years within the HiRU, including the evolving roles of LLMs and responsible artificial intelligence, as we continue to facilitate the dissemination of knowledge, enabling clinicians to integrate the best available evidence into their clinical practice.
+ER  - 
+
+TY  - JOUR
+T1  - The revolution of generative artificial intelligence in psychology: The interweaving of behavior, consciousness, and ethics
+AU  - Chen, Dian
+AU  - Liu, Ying
+AU  - Guo, Yiting
+AU  - Zhang, Yulin
+JO  - Acta Psychologica
+VL  - 251
+SP  - 104593
+PY  - 2024
+DA  - 2024/11/01/
+SN  - 0001-6918
+DO  - https://doi.org/10.1016/j.actpsy.2024.104593
+UR  - https://www.sciencedirect.com/science/article/pii/S0001691824004712
+KW  - Generative artificial intelligence
+KW  - ChatGPT
+KW  - Psychology
+KW  - Natural language processing
+KW  - Ethics
+AB  - In recent years, there have been unparalleled prospects for psychological study due to the swift advancement of generative artificial intelligence (AI) in natural language processing, shown by ChatGPT. This review article looks into the uses and effects of generative artificial intelligence in psychology. We employed a systematic selection process, encompassing papers published between 2015 and 2024 from databases such as Google Scholar, PubMed, and IEEE Xplore, using keywords like “Generative AI in psychology” “ChatGPT and behavior modeling” and “AI in mental health”. First, the paper goes over the fundamental ideas of generative AI and lists its uses in data analysis, behavior modeling, and social interaction simulation. A detailed comparison table has been added to contrast conventional research methodologies with GenAI-based approaches in psychology studies. Next, analyzing the theoretical and ethical issues that generative AI raises for psychological research, it highlights how crucial it is to develop a coherent theoretical framework. This study illustrates the benefits of generative AI in handling vast amounts of data and increasing research efficiency by contrasting traditional research methods with AI-driven methodologies. Regarding particular uses, the study explores how generative AI might be used to simulate social interactions, analyze massive amounts of text, and learn about cognitive processes. Section 5 has been expanded to include discussions on political biases, geographic biases, and other biases. In conclusion, the paper looks forward to the future development of generative AI in psychology research and suggests techniques for improving it. We have included methodological solutions such as the Retrieval Augmented Generation (RAG) approach and human-in-the-loop systems, as well as data privacy solutions like open-source local LLMs. In summary, generative AI has the potential to revolutionize psychological research, but in order to maintain the moral and scientific integrity of the field, ethical and theoretical concerns must be carefully considered before applying the technology.
+ER  - 
+
+TY  - JOUR
+T1  - Procedural knowledge management in Industry 5.0: Challenges and opportunities for knowledge graphs
+AU  - Celino, Irene
+AU  - Carriero, Valentina Anita
+AU  - Azzini, Antonia
+AU  - Baroni, Ilaria
+AU  - Scrocca, Mario
+JO  - Journal of Web Semantics
+VL  - 84
+SP  - 100850
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 1570-8268
+DO  - https://doi.org/10.1016/j.websem.2024.100850
+UR  - https://www.sciencedirect.com/science/article/pii/S1570826824000362
+KW  - Procedural knowledge
+KW  - Industry 5.0
+KW  - Knowledge graphs
+KW  - Artificial Intelligence
+AB  - With digital transformation, industrial companies today are facing the challenges to change and innovate their business, by leveraging digital technologies and tools to support their processes and their operations. One of their main challenges is the management of the company knowledge, especially when tacit and owned by industry workers. In this paper, we illustrate how knowledge graphs can be the turning point to allow industry workers digitize and exploit the knowledge about the “what”, the “how” and the “why” of their everyday activities. In particular, we focus on the “how” by illustrating the challenges related to procedural knowledge management, i.e., the knowledge about processes and workflows that employees need to follow, and comply with, to correctly execute their tasks, in order to improve efficiency and effectiveness, to reduce risks and human errors and to optimize operations. We also explain the relationship in this context between knowledge graphs and sub-symbolic AI approaches.
+ER  - 
+
+TY  - JOUR
+T1  - A Novel Cognitive Behavioral Therapy–Based Generative AI Tool (Socrates 2.0) to Facilitate Socratic Dialogue: Protocol for a Mixed Methods Feasibility Study
+AU  - Held, Philip
+AU  - Pridgen, Sarah A
+AU  - Chen, Yaozhong
+AU  - Akhtar, Zuhaib
+AU  - Amin, Darpan
+AU  - Pohorence, Sean
+JO  - JMIR Research Protocols
+VL  - 13
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 1929-0748
+DO  - https://doi.org/10.2196/58195
+UR  - https://www.sciencedirect.com/science/article/pii/S1929074824006164
+KW  - generative artificial intelligence
+KW  - mental health
+KW  - feasibility
+KW  - cognitive restructuring
+KW  - Socratic dialogue
+KW  - mobile phone
+AB  - Background
+Digital mental health tools, designed to augment traditional mental health treatments, are becoming increasingly important due to a wide range of barriers to accessing mental health care, including a growing shortage of clinicians. Most existing tools use rule-based algorithms, often leading to interactions that feel unnatural compared with human therapists. Large language models (LLMs) offer a solution for the development of more natural, engaging digital tools. In this paper, we detail the development of Socrates 2.0, which was designed to engage users in Socratic dialogue surrounding unrealistic or unhelpful beliefs, a core technique in cognitive behavioral therapies. The multiagent LLM-based tool features an artificial intelligence (AI) therapist, Socrates, which receives automated feedback from an AI supervisor and an AI rater. The combination of multiple agents appeared to help address common LLM issues such as looping, and it improved the overall dialogue experience. Initial user feedback from individuals with lived experiences of mental health problems as well as cognitive behavioral therapists has been positive. Moreover, tests in approximately 500 scenarios showed that Socrates 2.0 engaged in harmful responses in under 1% of cases, with the AI supervisor promptly correcting the dialogue each time. However, formal feasibility studies with potential end users are needed.
+Objective
+This mixed methods study examines the feasibility of Socrates 2.0.
+Methods
+On the basis of the initial data, we devised a formal feasibility study of Socrates 2.0 to gather qualitative and quantitative data about users’ and clinicians’ experience of interacting with the tool. Using a mixed method approach, the goal is to gather feasibility and acceptability data from 100 users and 50 clinicians to inform the eventual implementation of generative AI tools, such as Socrates 2.0, in mental health treatment. We designed this study to better understand how users and clinicians interact with the tool, including the frequency, length, and time of interactions, users’ satisfaction with the tool overall, quality of each dialogue and individual responses, as well as ways in which the tool should be improved before it is used in efficacy trials. Descriptive and inferential analyses will be performed on data from validated usability measures. Thematic analysis will be performed on the qualitative data.
+Results
+Recruitment will begin in February 2024 and is expected to conclude by February 2025. As of September 25, 2024, overall, 55 participants have been recruited.
+Conclusions
+The development of Socrates 2.0 and the outlined feasibility study are important first steps in applying generative AI to mental health treatment delivery and lay the foundation for formal feasibility studies.
+International Registered Report Identifier (IRRID)
+DERR1-10.2196/58195
+ER  - 
+
+TY  - JOUR
+T1  - Transforming legal texts into computational logic: Enhancing next generation public sector automation through explainable AI decision support
+AU  - Bertl, Markus
+AU  - Price, Simon
+AU  - Draheim, Dirk
+JO  - International Journal of Cognitive Computing in Engineering
+VL  - 7
+SP  - 40
+EP  - 57
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 2666-3074
+DO  - https://doi.org/10.1016/j.ijcce.2025.07.003
+UR  - https://www.sciencedirect.com/science/article/pii/S2666307425000336
+KW  - Artificial intelligence
+KW  - Decision support systems
+KW  - Expert systems
+KW  - Inference mechanisms
+KW  - Intelligent automation
+KW  - Law
+KW  - Logic
+KW  - Text mining
+KW  - Text processing
+AB  - This research presents a novel approach for translating legal texts into machine-executable computational logic to support the automation of public sector processes. Recognizing the high-stakes implications of artificial intelligence (AI) in legal domains, the proposed method emphasizes explainability by integrating explainable AI (XAI) techniques with natural language processing (NLP), employing scope-restricted pattern matching and grammatical parsing. The methodology involves several key steps: document structure inference from raw legal text, semantically neutral pre-processing, identification and resolution of internal and external references, contextualization of legal paragraphs, and rule extraction. The extracted rules are formalized as Prolog predicates and visualized as structured textual lists and graphical decision trees to enhance interpretability. To demonstrate the automatic extraction of explainable rules from legal text, we develop a Law-as-Code prototype and validate it through a real-world case study at the Austrian Ministry of Finance. The system successfully extracts executable rules from the Austrian Study Funding Act, confirming the feasibility and effectiveness of the proposed approach. This validation not only underscores the practical applicability of our method, but also highlights promising avenues for future research, particularly the integration of Generative AI and Large Language Models (LLMs) into the rule extraction pipeline, while preserving traceability and explainability.
+ER  - 
+
+TY  - JOUR
+T1  - ORGANA: A robotic assistant for automated chemistry experimentation and characterization
+AU  - Darvish, Kourosh
+AU  - Skreta, Marta
+AU  - Zhao, Yuchi
+AU  - Yoshikawa, Naruki
+AU  - Som, Sagnik
+AU  - Bogdanovic, Miroslav
+AU  - Cao, Yang
+AU  - Hao, Han
+AU  - Xu, Haoping
+AU  - Aspuru-Guzik, Alán
+AU  - Garg, Animesh
+AU  - Shkurti, Florian
+JO  - Matter
+VL  - 8
+IS  - 2
+SP  - 101897
+PY  - 2025
+DA  - 2025/02/05/
+SN  - 2590-2385
+DO  - https://doi.org/10.1016/j.matt.2024.10.015
+UR  - https://www.sciencedirect.com/science/article/pii/S2590238524005423
+KW  - self-driving labs
+KW  - electrochemistry
+KW  - assistive robotics
+KW  - large language models
+KW  - task and motion planning with scheduling
+KW  - automatic report generation
+KW  - computer vision
+AB  - Summary
+Chemistry experiments can be resource- and labor-intensive, often requiring manual tasks like polishing electrodes in electrochemistry. Traditional lab automation infrastructure faces challenges adapting to new experiments. To address this, we introduce ORGANA, an assistive robotic system that automates diverse chemistry experiments using decision-making and perception tools. It makes decisions with chemists in the loop to control robots and lab devices. ORGANA interacts with chemists using large language models (LLMs) to derive experiment goals, handle disambiguation, and provide experiment logs. ORGANA plans and executes complex tasks with visual feedback while supporting scheduling and parallel task execution. We demonstrate ORGANA’s capabilities in solubility, pH measurement, recrystallization, and electrochemistry experiments. In electrochemistry, it executes a 19-step plan in parallel to characterize quinone derivatives for flow batteries. Our user study shows ORGANA reduces frustration and physical demand by over 50%, with users saving an average of 80.3% of their time when using it.
+ER  - 

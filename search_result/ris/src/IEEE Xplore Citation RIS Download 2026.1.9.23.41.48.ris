@@ -1,0 +1,2062 @@
+TY  - CONF
+TI  - Large Language Model-supported Intelligent Evaluation of Open-ended Tasks: Case Studies and Reflections Based on SOU
+T2  - 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+SP  - 601
+EP  - 607
+AU  - D. Lin
+AU  - Z. Wei
+AU  - R. H. Sun
+AU  - Q. Liu
+PY  - 2025
+DO  - 10.1109/CSTE64638.2025.11091932
+JO  - 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 7th International Conference on Computer Science and Technologies in Education (CSTE)
+Y1  - 18-20 April 2025
+ER  - 
+
+TY  - CONF
+TI  - Creative-Agent: A Creative Prototype Generation System Driven by Objectives and Key Results
+T2  - 2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+SP  - 316
+EP  - 321
+AU  - Y. Zheng
+AU  - H. Huang
+AU  - C. Ma
+AU  - K. Shi
+AU  - J. Chen
+AU  - H. Yan
+AU  - X. Huang
+PY  - 2025
+DO  - 10.1109/CSCWD64889.2025.11033384
+JO  - 2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+IS  - 
+SN  - 2768-1904
+VO  - 
+VL  - 
+JA  - 2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+Y1  - 5-7 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Management of Safety-Critical AI Services in the Compute Continuum
+T2  - 2025 21st International Conference on Network and Service Management (CNSM)
+SP  - 1
+EP  - 4
+AU  - L. Colombi
+AU  - M. Tortonesi
+PY  - 2025
+DO  - 10.23919/CNSM67658.2025.11297570
+JO  - 2025 21st International Conference on Network and Service Management (CNSM)
+IS  - 
+SN  - 2165-963X
+VO  - 
+VL  - 
+JA  - 2025 21st International Conference on Network and Service Management (CNSM)
+Y1  - 27-31 Oct. 2025
+ER  - 
+
+TY  - JOUR
+TI  - AdversaFlow: Visual Red Teaming for Large Language Models with Multi-Level Adversarial Flow
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 492
+EP  - 502
+AU  - D. Deng
+AU  - C. Zhang
+AU  - H. Zheng
+AU  - Y. Pu
+AU  - S. Ji
+AU  - Y. Wu
+PY  - 2025
+DO  - 10.1109/TVCG.2024.3456150
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 1
+SN  - 1941-0506
+VO  - 31
+VL  - 31
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Jan. 2025
+ER  - 
+
+TY  - JOUR
+TI  - TriGen: A Semantic-Feedback Collaborative LLM Test Case Generation Model
+T2  - IEEE Access
+SP  - 209556
+EP  - 209574
+AU  - P. Han
+AU  - Y. Chen
+AU  - J. Wang
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3635218
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - Not Just Imitation: Enhancing Role-Playing Through Retrieve Fine-Tuned Collaborative Large Language Model
+T2  - 2024 IEEE Smart World Congress (SWC)
+SP  - 1234
+EP  - 1241
+AU  - Y. Zeng
+AU  - B. Guo
+AU  - Y. Jing
+AU  - H. Wang
+AU  - Y. Ding
+AU  - Y. Liang
+AU  - Z. Yu
+PY  - 2024
+DO  - 10.1109/SWC62898.2024.00194
+JO  - 2024 IEEE Smart World Congress (SWC)
+IS  - 
+SN  - 2993-396X
+VO  - 
+VL  - 
+JA  - 2024 IEEE Smart World Congress (SWC)
+Y1  - 2-7 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Personalized Recommender System for E-Commerce
+T2  - 2024 International Conference on Emerging Research in Computational Science (ICERCS)
+SP  - 1
+EP  - 8
+AU  - N. S
+AU  - S. S
+AU  - S. K. A N
+PY  - 2024
+DO  - 10.1109/ICERCS63125.2024.10895315
+JO  - 2024 International Conference on Emerging Research in Computational Science (ICERCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Emerging Research in Computational Science (ICERCS)
+Y1  - 12-14 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - AI-Powered Hybrid Recommendation System for E-Commerce
+T2  - 2025 Third International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)
+SP  - 1672
+EP  - 1681
+AU  - R. K. M
+AU  - S. S
+AU  - S. K. A N
+AU  - K. P
+PY  - 2025
+DO  - 10.1109/ICAISS61471.2025.11042218
+JO  - 2025 Third International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 Third International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)
+Y1  - 21-23 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Brief State of the Art on Human-AI in Software Engineering: Impact, Ethical Challenges, and Academic Evolution
+T2  - 2024 13th International Conference On Software Process Improvement (CIMPS)
+SP  - 117
+EP  - 124
+AU  - Y. V. Morales M.
+AU  - B. D. Valenzuela R.
+AU  - R. S. Salgado
+AU  - G. G. Serna
+AU  - N. A. C. Sánchez
+PY  - 2024
+DO  - 10.1109/CIMPS65195.2024.11095939
+JO  - 2024 13th International Conference On Software Process Improvement (CIMPS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 13th International Conference On Software Process Improvement (CIMPS)
+Y1  - 16-18 Oct. 2024
+ER  - 
+
+TY  - CONF
+TI  - MultiFuzz: A Dense Retrieval-based Multi-Agent System for Network Protocol Fuzzing
+T2  - 2025 IEEE/ACS 22nd International Conference on Computer Systems and Applications (AICCSA)
+SP  - 1
+EP  - 8
+AU  - Y. Maklad
+AU  - F. Wael
+AU  - A. Hamdi
+AU  - W. Elsersy
+AU  - K. Shaban
+PY  - 2025
+DO  - 10.1109/AICCSA66935.2025.11315267
+JO  - 2025 IEEE/ACS 22nd International Conference on Computer Systems and Applications (AICCSA)
+IS  - 
+SN  - 2161-5330
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACS 22nd International Conference on Computer Systems and Applications (AICCSA)
+Y1  - 19-22 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - Development of AI Agent Based on Large Language Model Platforms
+T2  - 2025 8th International Conference on Artificial Intelligence and Big Data (ICAIBD)
+SP  - 864
+EP  - 868
+AU  - J. Chen
+AU  - Y. Peng
+PY  - 2025
+DO  - 10.1109/ICAIBD64986.2025.11082094
+JO  - 2025 8th International Conference on Artificial Intelligence and Big Data (ICAIBD)
+IS  - 
+SN  - 2769-3554
+VO  - 
+VL  - 
+JA  - 2025 8th International Conference on Artificial Intelligence and Big Data (ICAIBD)
+Y1  - 23-26 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Harnessing Multi-Agent LLMs for Complex Engineering Problem-Solving: A Framework for Senior Design Projects
+T2  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1
+EP  - 10
+AU  - A. Mushtaq
+AU  - R. Naeem
+AU  - I. Ghaznavi
+AU  - I. Taj
+AU  - I. Hashmi
+AU  - J. Qadir
+PY  - 2025
+DO  - 10.1109/EDUCON62633.2025.11016653
+JO  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 22-25 April 2025
+ER  - 
+
+TY  - CONF
+TI  - Empowering Recommendations: Survey of LLM-Based Recommendation Systems
+T2  - 2025 8th International Conference on Electronics, Materials Engineering & Nano-Technology (IEMENTech)
+SP  - 1
+EP  - 6
+AU  - R. Kumar
+AU  - T. Dey
+AU  - S. Das
+PY  - 2025
+DO  - 10.1109/IEMENTech65115.2025.10959591
+JO  - 2025 8th International Conference on Electronics, Materials Engineering & Nano-Technology (IEMENTech)
+IS  - 
+SN  - 2767-9934
+VO  - 
+VL  - 
+JA  - 2025 8th International Conference on Electronics, Materials Engineering & Nano-Technology (IEMENTech)
+Y1  - 31 Jan.-2 Feb. 2025
+ER  - 
+
+TY  - CONF
+TI  - Security, Privacy, and Ethical Challenges of Artificial Intelligence in Large Language Model Scope: A Comprehensive Survey
+T2  - 2024 1st International Conference On Cryptography And Information Security (VCRIS)
+SP  - 1
+EP  - 6
+AU  - T. T. Nguyen
+AU  - H. T. T. Vu
+AU  - H. N. Nguyen
+PY  - 2024
+DO  - 10.1109/VCRIS63677.2024.10813382
+JO  - 2024 1st International Conference On Cryptography And Information Security (VCRIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 1st International Conference On Cryptography And Information Security (VCRIS)
+Y1  - 3-4 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Quality Assurance for LLM-Generated Test Cases: A Systematic Literature Review
+T2  - 2024 8th SLAAI International Conference on Artificial Intelligence (SLAAI-ICAI)
+SP  - 1
+EP  - 6
+AU  - H. Edirisinghe
+AU  - D. Wickramaarachchi
+PY  - 2024
+DO  - 10.1109/SLAAI-ICAI63667.2024.10844968
+JO  - 2024 8th SLAAI International Conference on Artificial Intelligence (SLAAI-ICAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 8th SLAAI International Conference on Artificial Intelligence (SLAAI-ICAI)
+Y1  - 18-19 Dec. 2024
+ER  - 
+
+TY  - JOUR
+TI  - LLM-Based Dynamic Event-Triggered Communication for Multi-UAV Formation Control in Urban Environments
+T2  - IEEE Transactions on Cognitive Communications and Networking
+SP  - 1
+EP  - 1
+AU  - J. Gu
+AU  - Y. Wang
+AU  - W. Ji
+AU  - Z. Wei
+AU  - J. Wang
+PY  - 2025
+DO  - 10.1109/TCCN.2025.3644040
+JO  - IEEE Transactions on Cognitive Communications and Networking
+IS  - 
+SN  - 2332-7731
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Cognitive Communications and Networking
+Y1  - 
+ER  - 
+
+TY  - CONF
+TI  - An Agentic AI-based Multi-Agent Framework for Recommender Systems
+T2  - 2024 IEEE International Conference on Big Data (BigData)
+SP  - 5375
+EP  - 5382
+AU  - I. D. S. Portugal
+AU  - P. Alencar
+AU  - D. Cowan
+PY  - 2024
+DO  - 10.1109/BigData62323.2024.10825765
+JO  - 2024 IEEE International Conference on Big Data (BigData)
+IS  - 
+SN  - 2573-2978
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Big Data (BigData)
+Y1  - 15-18 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - DeepTriFix: An LLM-Based Code Defect Detection Framework Guided Abstract Syntax Tree and Prompt Reasoning
+T2  - 2025 4th International Conference on Artificial Intelligence, Internet of Things and Cloud Computing Technology (AIoTC)
+SP  - 708
+EP  - 713
+AU  - Z. Wan
+AU  - L. Wei
+PY  - 2025
+DO  - 10.1109/AIoTC66747.2025.11198685
+JO  - 2025 4th International Conference on Artificial Intelligence, Internet of Things and Cloud Computing Technology (AIoTC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 4th International Conference on Artificial Intelligence, Internet of Things and Cloud Computing Technology (AIoTC)
+Y1  - 8-10 Aug. 2025
+ER  - 
+
+TY  - CONF
+TI  - Using LLM for Learning Objects Metadata Extraction on Educational Robotics Content
+T2  - 2025 Brazilian Symposium on Robotics (SBR) and 2025 Workshop on Robotics in Education (WRE)
+SP  - 489
+EP  - 494
+AU  - G. B. U. Lopes
+AU  - R. R. M. De Santana Costa
+AU  - S. E. A. Filho
+PY  - 2025
+DO  - 10.1109/SBR/WRE66973.2025.11249539
+JO  - 2025 Brazilian Symposium on Robotics (SBR) and 2025 Workshop on Robotics in Education (WRE)
+IS  - 
+SN  - 2643-685X
+VO  - 
+VL  - 
+JA  - 2025 Brazilian Symposium on Robotics (SBR) and 2025 Workshop on Robotics in Education (WRE)
+Y1  - 13-15 Oct. 2025
+ER  - 
+
+TY  - JOUR
+TI  - Leveraging RAG With Transformer for Context-Based Personalized Recommendations
+T2  - IEEE Access
+SP  - 97472
+EP  - 97486
+AU  - F. S. Alamri
+AU  - A. Rehman
+AU  - B. Alghofaily
+AU  - A. Ahmed
+AU  - K. Saleem
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3574073
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - User-aware LLM-based Framework for Enhancing Contractual Clauses Compliance
+T2  - 2025 International Conference on Computing, Networking and Communications (ICNC)
+SP  - 265
+EP  - 270
+AU  - B. Boi
+AU  - I. A. Caggiano
+AU  - C. Esposito
+AU  - L. Gatt
+PY  - 2025
+DO  - 10.1109/ICNC64010.2025.10993802
+JO  - 2025 International Conference on Computing, Networking and Communications (ICNC)
+IS  - 
+SN  - 2473-7585
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Computing, Networking and Communications (ICNC)
+Y1  - 17-20 Feb. 2025
+ER  - 
+
+TY  - CONF
+TI  - Mitigating Bias in Large Language Models Leveraging Multi-Agent Scenarios
+T2  - 2025 7th International Conference on Natural Language Processing (ICNLP)
+SP  - 14
+EP  - 18
+AU  - J. Lünstedt
+AU  - T. Schlippe
+PY  - 2025
+DO  - 10.1109/ICNLP65360.2025.11108428
+JO  - 2025 7th International Conference on Natural Language Processing (ICNLP)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 7th International Conference on Natural Language Processing (ICNLP)
+Y1  - 21-23 March 2025
+ER  - 
+
+TY  - CONF
+TI  - Words to Matter: A Comparative Study for Developing Intelligent Design and Manufacturing of 3D Materials Based on Large Language Models
+T2  - 2024 IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)
+SP  - 600
+EP  - 605
+AU  - R. Pugliese
+AU  - S. Badini
+AU  - S. Regondi
+PY  - 2024
+DO  - 10.1109/MetroXRAINE62247.2024.10796454
+JO  - 2024 IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)
+Y1  - 21-23 Oct. 2024
+ER  - 
+
+TY  - JOUR
+TI  - HypoChainer: a Collaborative System Combining LLMs and Knowledge Graphs for Hypothesis-Driven Scientific Discovery
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 1
+EP  - 11
+AU  - H. Jiang
+AU  - S. Shi
+AU  - Y. Yao
+AU  - C. Jiang
+AU  - Q. Li
+PY  - 2025
+DO  - 10.1109/TVCG.2025.3633887
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 
+SN  - 1941-0506
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 
+ER  - 
+
+TY  - JOUR
+TI  - RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms
+T2  - IEEE Open Journal of Vehicular Technology
+SP  - 2693
+EP  - 2708
+AU  - Z. Wang
+AU  - R. Li
+AU  - S. Li
+AU  - Y. Xiang
+AU  - H. Wang
+AU  - Z. Zhao
+AU  - H. Zhang
+PY  - 2025
+DO  - 10.1109/OJVT.2025.3610852
+JO  - IEEE Open Journal of Vehicular Technology
+IS  - 
+SN  - 2644-1330
+VO  - 6
+VL  - 6
+JA  - IEEE Open Journal of Vehicular Technology
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - Enhancing User-centered Design with Large Language Models
+T2  - 2025 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+SP  - 367
+EP  - 372
+AU  - B. Gadelha
+AU  - T. Queiroz
+AU  - C. R. B. de Souza
+AU  - T. Conte
+AU  - I. Steinmacher
+PY  - 2025
+DO  - 10.1109/VL-HCC65237.2025.00047
+JO  - 2025 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+IS  - 
+SN  - 1943-6106
+VO  - 
+VL  - 
+JA  - 2025 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+Y1  - 7-10 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - LLM Coach: Reward Shaping for Reinforcement Learning-Based Navigation Agent
+T2  - 2025 Joint International Conference on Automation-Intelligence-Safety (ICAIS) & International Symposium on Autonomous Systems (ISAS)
+SP  - 1
+EP  - 6
+AU  - H. Yifan
+AU  - H. Bin-Bin
+AU  - Y. Bowen
+AU  - Z. Hai-Tao
+PY  - 2025
+DO  - 10.1109/ICAISISAS64483.2025.11051677
+JO  - 2025 Joint International Conference on Automation-Intelligence-Safety (ICAIS) & International Symposium on Autonomous Systems (ISAS)
+IS  - 
+SN  - 2996-3850
+VO  - 
+VL  - 
+JA  - 2025 Joint International Conference on Automation-Intelligence-Safety (ICAIS) & International Symposium on Autonomous Systems (ISAS)
+Y1  - 23-25 May 2025
+ER  - 
+
+TY  - CONF
+TI  - A Human-in-Multi-Agent-Loop Intent Refinement Method for Task Offloading in Mobile Edge Computing
+T2  - 2025 IEEE 2nd International Conference on Electronics, Communications and Intelligent Science (ECIS)
+SP  - 1
+EP  - 6
+AU  - S. Yuan
+AU  - W. Ni
+AU  - B. Han
+AU  - Z. Dai
+AU  - Y. Yu
+PY  - 2025
+DO  - 10.1109/ECIS65594.2025.11086847
+JO  - 2025 IEEE 2nd International Conference on Electronics, Communications and Intelligent Science (ECIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE 2nd International Conference on Electronics, Communications and Intelligent Science (ECIS)
+Y1  - 23-25 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Direct Preference Optimization for LLM-Enhanced Recommendation Systems
+T2  - 2025 IEEE International Conference on Multimedia and Expo (ICME)
+SP  - 1
+EP  - 6
+AU  - C. Sun
+AU  - Y. Liang
+AU  - Y. Yang
+AU  - S. Xu
+AU  - T. Yang
+AU  - Y. Tong
+PY  - 2025
+DO  - 10.1109/ICME59968.2025.11209929
+JO  - 2025 IEEE International Conference on Multimedia and Expo (ICME)
+IS  - 
+SN  - 1945-788X
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Multimedia and Expo (ICME)
+Y1  - 30 June-4 July 2025
+ER  - 
+
+TY  - CONF
+TI  - The Emergence of Artificial Intelligence in Education and its Impact on Individual Literacy in Higher Education
+T2  - 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
+SP  - 83
+EP  - 88
+AU  - I. Farkas
+AU  - A. Kovari
+AU  - M. Rajcsanyi-Molnar
+PY  - 2024
+DO  - 10.1109/CANDO-EPE65072.2024.10772819
+JO  - 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
+IS  - 
+SN  - 2831-4506
+VO  - 
+VL  - 
+JA  - 2024 IEEE 7th International Conference and Workshop Óbuda on Electrical and Power Engineering (CANDO-EPE)
+Y1  - 17-18 Oct. 2024
+ER  - 
+
+TY  - CONF
+TI  - Designing an Educational Virtual Assistant Based on Agentic AI for Student Diagnosis and Individualized Remediation
+T2  - 2025 IEEE 8th Congress on Information Science and Technology (CiSt)
+SP  - 406
+EP  - 415
+AU  - Y. Fahmi
+AU  - M. Bousmah
+PY  - 2025
+DO  - 10.1109/CiSt65886.2025.11224281
+JO  - 2025 IEEE 8th Congress on Information Science and Technology (CiSt)
+IS  - 
+SN  - 2327-1884
+VO  - 
+VL  - 
+JA  - 2025 IEEE 8th Congress on Information Science and Technology (CiSt)
+Y1  - 4-10 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement
+T2  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+SP  - 1319
+EP  - 1331
+AU  - H. Zhang
+AU  - W. Cheng
+AU  - Y. Wu
+AU  - W. Hu
+PY  - 2024
+DO  - 
+JO  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+IS  - 
+SN  - 2643-1572
+VO  - 
+VL  - 
+JA  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+Y1  - 27 Oct.-1 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Large Language Models for Challenge Solving in Capture-the-Flag
+T2  - 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)
+SP  - 1541
+EP  - 1550
+AU  - Y. Zou
+AU  - Y. Hong
+AU  - J. Xu
+AU  - L. Liu
+AU  - W. Fan
+PY  - 2024
+DO  - 10.1109/TrustCom63139.2024.00213
+JO  - 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)
+IS  - 
+SN  - 2324-9013
+VO  - 
+VL  - 
+JA  - 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)
+Y1  - 17-21 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Stimulating Brainstorming Activities with Generative AI in Higher Education
+T2  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1
+EP  - 10
+AU  - J. La Scala
+AU  - S. Sahli
+AU  - D. Gillet
+PY  - 2025
+DO  - 10.1109/EDUCON62633.2025.11016340
+JO  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2025 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 22-25 April 2025
+ER  - 
+
+TY  - CONF
+TI  - InsightGUIDE: An Opinionated AI Assistant for Guided Critical Reading of Scientific Literature
+T2  - 2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI)
+SP  - 1163
+EP  - 1167
+AU  - P. Koloveas
+AU  - S. Chatzopoulos
+AU  - T. Vergoulis
+AU  - C. Tryfonopoulos
+PY  - 2025
+DO  - 10.1109/ICTAI66417.2025.00169
+JO  - 2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI)
+IS  - 
+SN  - 2375-0197
+VO  - 
+VL  - 
+JA  - 2025 IEEE 37th International Conference on Tools with Artificial Intelligence (ICTAI)
+Y1  - 3-5 Nov. 2025
+ER  - 
+
+TY  - CONF
+TI  - Educational and Competitive Algorithmic Platform Providing Personalized Recommendations
+T2  - 2024 IEEE 19th International Conference on Computer Science and Information Technologies (CSIT)
+SP  - 1
+EP  - 4
+AU  - M. Hirnyi
+AU  - Y. Levus
+PY  - 2024
+DO  - 10.1109/CSIT65290.2024.10982648
+JO  - 2024 IEEE 19th International Conference on Computer Science and Information Technologies (CSIT)
+IS  - 
+SN  - 2766-3639
+VO  - 
+VL  - 
+JA  - 2024 IEEE 19th International Conference on Computer Science and Information Technologies (CSIT)
+Y1  - 16-19 Oct. 2024
+ER  - 
+
+TY  - CONF
+TI  - FutureGen: A RAG-based Approach to Generate the Future Work of Scientific Article
+T2  - 2025 IEEE International Conference on eScience (eScience)
+SP  - 427
+EP  - 438
+AU  - I. A. Azher
+AU  - M. Jannat Mokarrama
+AU  - Z. Guo
+AU  - S. R. Choudhury
+AU  - H. Alhoori
+PY  - 2025
+DO  - 10.1109/eScience65000.2025.00087
+JO  - 2025 IEEE International Conference on eScience (eScience)
+IS  - 
+SN  - 2325-3703
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on eScience (eScience)
+Y1  - 15-18 Sept. 2025
+ER  - 
+
+TY  - CONF
+TI  - Prompt4VFD: A Visual Analytic System for Fault Diagnosis of Power Equipment with LLMs
+T2  - 2025 IEEE 2nd International Conference on Big Data Science and Engineering (ICBDSE)
+SP  - 1
+EP  - 8
+AU  - J. Wen
+AU  - X. Guo
+AU  - X. Zhu
+AU  - J. Cao
+AU  - Q. Guo
+AU  - Z. Zhang
+AU  - H. Wang
+PY  - 2025
+DO  - 10.1109/ICBDSE65491.2025.11220030
+JO  - 2025 IEEE 2nd International Conference on Big Data Science and Engineering (ICBDSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE 2nd International Conference on Big Data Science and Engineering (ICBDSE)
+Y1  - 13-15 June 2025
+ER  - 
+
+TY  - CONF
+TI  - Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation
+T2  - 2024 IEEE 40th International Conference on Data Engineering (ICDE)
+SP  - 1435
+EP  - 1448
+AU  - B. Zheng
+AU  - Y. Hou
+AU  - H. Lu
+AU  - Y. Chen
+AU  - W. X. Zhao
+AU  - M. Chen
+AU  - J. -R. Wen
+PY  - 2024
+DO  - 10.1109/ICDE60146.2024.00118
+JO  - 2024 IEEE 40th International Conference on Data Engineering (ICDE)
+IS  - 
+SN  - 2375-026X
+VO  - 
+VL  - 
+JA  - 2024 IEEE 40th International Conference on Data Engineering (ICDE)
+Y1  - 13-16 May 2024
+ER  - 
+
+TY  - CONF
+TI  - DramaGAT: A Hierarchical Multi-Agent Collaborative Framework for Long-Form Script Generation
+T2  - 2025 6th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+SP  - 150
+EP  - 154
+AU  - T. Li
+AU  - Z. Chen
+AU  - J. Chai
+AU  - C. Zhang
+PY  - 2025
+DO  - 10.1109/ICBASE66587.2025.11181381
+JO  - 2025 6th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 6th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+Y1  - 18-20 July 2025
+ER  - 
+
+TY  - JOUR
+TI  - Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 1
+EP  - 11
+AU  - S. Ruan
+AU  - R. Sheng
+AU  - X. Wen
+AU  - J. Wang
+AU  - T. Zhang
+AU  - Y. Wang
+AU  - T. Dwyer
+AU  - J. Li
+PY  - 2025
+DO  - 10.1109/TVCG.2025.3634820
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 
+SN  - 1941-0506
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 
+ER  - 
+
+TY  - CONF
+TI  - OSS-GPT: An LLM-Powered Intent-Driven Operations Support System for 6G Networks
+T2  - 2025 IEEE 11th International Conference on Network Softwarization (NetSoft)
+SP  - 155
+EP  - 163
+AU  - A. Mekrache
+AU  - A. Ksentini
+AU  - C. Verikoukis
+PY  - 2025
+DO  - 10.1109/NetSoft64993.2025.11080632
+JO  - 2025 IEEE 11th International Conference on Network Softwarization (NetSoft)
+IS  - 
+SN  - 2693-9789
+VO  - 
+VL  - 
+JA  - 2025 IEEE 11th International Conference on Network Softwarization (NetSoft)
+Y1  - 23-27 June 2025
+ER  - 
+
+TY  - CONF
+TI  - AgentFusion: A Multi-Agent Approach to Accurate Text Generation
+T2  - 2024 International Conference on Electrical and Computer Engineering Researches (ICECER)
+SP  - 1
+EP  - 8
+AU  - Y. Saeid
+AU  - T. Kopinski
+PY  - 2024
+DO  - 10.1109/ICECER62944.2024.10920460
+JO  - 2024 International Conference on Electrical and Computer Engineering Researches (ICECER)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Electrical and Computer Engineering Researches (ICECER)
+Y1  - 4-6 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - Developer Behaviors in Validating and Repairing LLM-Generated Code Using IDE and Eye Tracking
+T2  - 2024 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+SP  - 40
+EP  - 46
+AU  - N. Tang
+AU  - M. Chen
+AU  - Z. Ning
+AU  - A. Bansal
+AU  - Y. Huang
+AU  - C. McMillan
+AU  - T. J. -J. Li
+PY  - 2024
+DO  - 10.1109/VL/HCC60511.2024.00015
+JO  - 2024 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+IS  - 
+SN  - 1943-6106
+VO  - 
+VL  - 
+JA  - 2024 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)
+Y1  - 2-6 Sept. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Towards Autonomous Reinforcement Learning for Real-World Robotic Manipulation With Large Language Models
+T2  - IEEE Robotics and Automation Letters
+SP  - 8850
+EP  - 8857
+AU  - N. Turcato
+AU  - M. Iovino
+AU  - A. Synodinos
+AU  - A. Dalla Libera
+AU  - R. Carli
+AU  - P. Falco
+PY  - 2025
+DO  - 10.1109/LRA.2025.3589162
+JO  - IEEE Robotics and Automation Letters
+IS  - 9
+SN  - 2377-3766
+VO  - 10
+VL  - 10
+JA  - IEEE Robotics and Automation Letters
+Y1  - Sept. 2025
+ER  - 
+
+TY  - CONF
+TI  - Modeling Collaborator: Enabling Subjective Vision Classification with Minimal Human Effort via LLM Tool-Use
+T2  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+SP  - 17553
+EP  - 17563
+AU  - I. E. Toubal
+AU  - A. Avinash
+AU  - N. G. Alldrin
+AU  - J. Dlabal
+AU  - W. Zhou
+AU  - E. Luo
+AU  - O. Stretcu
+AU  - H. Xiong
+AU  - C. -T. Lu
+AU  - H. Zhou
+AU  - R. Krishna
+AU  - A. Fuxman
+AU  - T. Duerig
+PY  - 2024
+DO  - 10.1109/CVPR52733.2024.01662
+JO  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+IS  - 
+SN  - 2575-7075
+VO  - 
+VL  - 
+JA  - 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+Y1  - 16-22 June 2024
+ER  - 
+
+TY  - JOUR
+TI  - Explainable XR: Understanding User Behaviors of XR Environments Using LLM-Assisted Analytics Framework
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 2756
+EP  - 2766
+AU  - Y. Kim
+AU  - Z. Aamir
+AU  - M. Singh
+AU  - S. Boorboor
+AU  - K. Mueller
+AU  - A. E. Kaufman
+PY  - 2025
+DO  - 10.1109/TVCG.2025.3549537
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 5
+SN  - 1941-0506
+VO  - 31
+VL  - 31
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - May 2025
+ER  - 
+
+TY  - JOUR
+TI  - On the Effectiveness of LLM-as-a-Judge for Code Generation and Summarization
+T2  - IEEE Transactions on Software Engineering
+SP  - 2329
+EP  - 2345
+AU  - G. Crupi
+AU  - R. Tufano
+AU  - A. Velasco
+AU  - A. Mastropaolo
+AU  - D. Poshyvanyk
+AU  - G. Bavota
+PY  - 2025
+DO  - 10.1109/TSE.2025.3586082
+JO  - IEEE Transactions on Software Engineering
+IS  - 8
+SN  - 1939-3520
+VO  - 51
+VL  - 51
+JA  - IEEE Transactions on Software Engineering
+Y1  - Aug. 2025
+ER  - 
+
+TY  - CONF
+TI  - Generating Troubleshooting Trees With FMEA Using Large Language Models (LLM)
+T2  - 2025 IEEE International Conference on Prognostics and Health Management (ICPHM)
+SP  - 1
+EP  - 10
+AU  - L. Vidyaratne
+AU  - H. Shao
+AU  - T. Watanabe
+AU  - A. Farahat
+AU  - C. Gupta
+PY  - 2025
+DO  - 10.1109/ICPHM65385.2025.11062049
+JO  - 2025 IEEE International Conference on Prognostics and Health Management (ICPHM)
+IS  - 
+SN  - 2166-5656
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Prognostics and Health Management (ICPHM)
+Y1  - 9-11 June 2025
+ER  - 
+
+TY  - CONF
+TI  - SmartMLVs: LLM-enabled Multiple Linked Views Generation for Interactive Visualization
+T2  - 2025 IEEE 18th Pacific Visualization Conference (PacificVis)
+SP  - 58
+EP  - 68
+AU  - T. Qiu
+AU  - F. Wang
+AU  - S. Huang
+AU  - M. Guo
+AU  - Y. Zhao
+AU  - J. Li
+AU  - S. Chen
+PY  - 2025
+DO  - 10.1109/PacificVis64226.2025.00012
+JO  - 2025 IEEE 18th Pacific Visualization Conference (PacificVis)
+IS  - 
+SN  - 2165-8773
+VO  - 
+VL  - 
+JA  - 2025 IEEE 18th Pacific Visualization Conference (PacificVis)
+Y1  - 22-25 April 2025
+ER  - 
+
+TY  - JOUR
+TI  - When Large Language Model Agents Meet 6G Networks: Perception, Grounding, and Alignment
+T2  - IEEE Wireless Communications
+SP  - 63
+EP  - 71
+AU  - M. Xu
+AU  - D. Niyato
+AU  - J. Kang
+AU  - Z. Xiong
+AU  - S. Mao
+AU  - Z. Han
+AU  - D. I. Kim
+AU  - K. B. Letaief
+PY  - 2024
+DO  - 10.1109/MWC.005.2400019
+JO  - IEEE Wireless Communications
+IS  - 6
+SN  - 1558-0687
+VO  - 31
+VL  - 31
+JA  - IEEE Wireless Communications
+Y1  - December 2024
+ER  - 
+
+TY  - JOUR
+TI  - Operator-in-the-Loop Multi-Objective Scheduling of Multi-Energy Microgrids via LLM-Guided Reinforcement Learning
+T2  - IEEE Transactions on Industry Applications
+SP  - 1
+EP  - 13
+AU  - C. Liu
+AU  - Y. Wang
+AU  - Z. Yan
+AU  - C. Konstantinou
+AU  - K. Xie
+PY  - 2025
+DO  - 10.1109/TIA.2025.3647602
+JO  - IEEE Transactions on Industry Applications
+IS  - 
+SN  - 1939-9367
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Industry Applications
+Y1  - 
+ER  - 
+
+TY  - CONF
+TI  - CRDA: Content Risk Drift Assessment of Large Language Models through Adversarial Multi-Agent Interaction
+T2  - 2024 International Joint Conference on Neural Networks (IJCNN)
+SP  - 1
+EP  - 8
+AU  - Z. Liu
+AU  - G. Li
+AU  - B. Shi
+AU  - X. Zhang
+AU  - J. Ge
+AU  - Y. Wu
+AU  - H. Lyu
+PY  - 2024
+DO  - 10.1109/IJCNN60899.2024.10650172
+JO  - 2024 International Joint Conference on Neural Networks (IJCNN)
+IS  - 
+SN  - 2161-4407
+VO  - 
+VL  - 
+JA  - 2024 International Joint Conference on Neural Networks (IJCNN)
+Y1  - 30 June-5 July 2024
+ER  - 
+
+TY  - CONF
+TI  - LLMGCL: Graph Contrastive Learning with Large Language Models for Recommendation
+T2  - 2025 IEEE International Conference on Web Services (ICWS)
+SP  - 1
+EP  - 10
+AU  - S. Ge
+AU  - S. Meng
+AU  - J. Zhou
+AU  - L. Qi
+AU  - X. Xu
+AU  - X. Zhang
+PY  - 2025
+DO  - 10.1109/ICWS67624.2025.00016
+JO  - 2025 IEEE International Conference on Web Services (ICWS)
+IS  - 
+SN  - 2836-3868
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Web Services (ICWS)
+Y1  - 7-12 July 2025
+ER  - 
+
+TY  - JOUR
+TI  - CD-LLMCARS: Cross Domain Fine-Tuned Large Language Model for Context-Aware Recommender Systems
+T2  - IEEE Open Journal of the Computer Society
+SP  - 49
+EP  - 59
+AU  - A. A. Cheema
+AU  - M. S. Sarfraz
+AU  - U. Habib
+AU  - Q. U. Zaman
+AU  - E. Boonchieng
+PY  - 2025
+DO  - 10.1109/OJCS.2024.3509221
+JO  - IEEE Open Journal of the Computer Society
+IS  - 
+SN  - 2644-1268
+VO  - 6
+VL  - 6
+JA  - IEEE Open Journal of the Computer Society
+Y1  - 2025
+ER  - 
+
+TY  - JOUR
+TI  - Bidirectionally Guided Large Language Models for Consumer-Centric Personalized Recommendation
+T2  - IEEE Transactions on Consumer Electronics
+SP  - 7341
+EP  - 7351
+AU  - L. Yu
+AU  - P. Xiao
+AU  - L. Xu
+AU  - S. Kumari
+AU  - M. J. F. Alenazi
+PY  - 2025
+DO  - 10.1109/TCE.2025.3540780
+JO  - IEEE Transactions on Consumer Electronics
+IS  - 2
+SN  - 1558-4127
+VO  - 71
+VL  - 71
+JA  - IEEE Transactions on Consumer Electronics
+Y1  - May 2025
+ER  - 
+
+TY  - CONF
+TI  - Disrupting Large Language Models with Hidden Prompt Injection Attacks Embedded in HTML Pages
+T2  - 2025 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2025 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM)
+SP  - 1
+EP  - 10
+AU  - I. -V. Dinu
+AU  - G. -M. Danciu
+AU  - R. C. Vintilă
+AU  - T. -C. Bălan
+PY  - 2025
+DO  - 10.1109/OPTIM-ACEMP62776.2025.11075247
+JO  - 2025 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2025 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM)
+IS  - 
+SN  - 2643-3958
+VO  - 
+VL  - 
+JA  - 2025 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2025 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM)
+Y1  - 14-17 May 2025
+ER  - 
+
+TY  - CONF
+TI  - Autonomous Driving Planning Based on Large Language Model: Collaborative Driving
+T2  - 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring)
+SP  - 1
+EP  - 6
+AU  - J. Vilho
+AU  - T. Liang
+AU  - C. Guo
+AU  - T. Zhang
+PY  - 2025
+DO  - 10.1109/VTC2025-Spring65109.2025.11174944
+JO  - 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring)
+IS  - 
+SN  - 2577-2465
+VO  - 
+VL  - 
+JA  - 2025 IEEE 101st Vehicular Technology Conference (VTC2025-Spring)
+Y1  - 17-20 June 2025
+ER  - 
+
+TY  - CONF
+TI  - Analyzing the Performance of Sentiment Analysis Using BERT, DistilBERT, RoBERTa and GPT-2
+T2  - 2024 6th International Conference on Sustainable Technologies for Industry 5.0 (STI)
+SP  - 1
+EP  - 6
+AU  - S. Imtiaz
+AU  - E. K. Hashi
+PY  - 2024
+DO  - 10.1109/STI64222.2024.10951049
+JO  - 2024 6th International Conference on Sustainable Technologies for Industry 5.0 (STI)
+IS  - 
+SN  - 2996-170X
+VO  - 
+VL  - 
+JA  - 2024 6th International Conference on Sustainable Technologies for Industry 5.0 (STI)
+Y1  - 14-15 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - AI for Becoming Fluent: Designing an App for Advanced Bilingual Speakers
+T2  - 2025 IEEE Conference on Artificial Intelligence (CAI)
+SP  - 236
+EP  - 243
+AU  - C. Delgado-Solorzano
+AU  - S. Mendoza
+AU  - F. Morales-Flores
+AU  - J. Martinez-Garcia
+AU  - N. E. Briones-Ramirez
+AU  - E. A. Zarazua-Rubio
+AU  - V. Rivera-Robles
+AU  - A. H. Rangel-Ortiz
+AU  - C. Toxtli
+PY  - 2025
+DO  - 10.1109/CAI64502.2025.00044
+JO  - 2025 IEEE Conference on Artificial Intelligence (CAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE Conference on Artificial Intelligence (CAI)
+Y1  - 5-7 May 2025
+ER  - 
+
+TY  - CONF
+TI  - BoilerTAI: A Platform for Enhancing Instruction Using Generative AI in Educational Forums
+T2  - 2024 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 8
+AU  - A. Sinha
+AU  - S. Goyal
+AU  - Z. Sy
+AU  - R. Kuperus
+AU  - E. Dickey
+AU  - A. Bejarano
+PY  - 2024
+DO  - 10.1109/FIE61694.2024.10893137
+JO  - 2024 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2024 IEEE Frontiers in Education Conference (FIE)
+Y1  - 13-16 Oct. 2024
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Medical Libraries: AI-Driven Tools and Techniques for Digital Transformation and Sustainable Innovation
+T2  - 2025 International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)
+SP  - 1182
+EP  - 1186
+AU  - T. Jothi
+AU  - J. Dominic
+AU  - J. Jaganbabu
+PY  - 2025
+DO  - 10.1109/ICMSCI62561.2025.10893904
+JO  - 2025 International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI)
+Y1  - 20-22 Jan. 2025
+ER  - 
+
+TY  - CONF
+TI  - Implementation of RAG-LLM Based AI Agents for Public Service Innovation: RAG System Architecture Analysis and A Cross-National Case Study
+T2  - 2025 IEEE/ACIS 29th International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD)
+SP  - 308
+EP  - 321
+AU  - J. Ryu
+AU  - Y. Woo
+AU  - K. Lee
+PY  - 2025
+DO  - 10.1109/SNPD65828.2025.11252835
+JO  - 2025 IEEE/ACIS 29th International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD)
+IS  - 
+SN  - 2693-8421
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACIS 29th International Conference on Software Engineering, Artificial Intelligence, Networking and Parallel/Distributed Computing (SNPD)
+Y1  - 25-27 June 2025
+ER  - 
+
+TY  - CONF
+TI  - Llama-Recipe — Fine-Tuned Meta's Llama LLM, PBOM and NFT Enabled 5G Network-Slice Orchestration and End-to-End Supply-Chain Verification Platform
+T2  - 2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC)
+SP  - 1
+EP  - 6
+AU  - E. Bandara
+AU  - S. H. Bouk
+AU  - S. Shetty
+AU  - S. Roy
+AU  - R. Mukkamala
+AU  - A. Rahman
+AU  - P. Foytik
+AU  - X. Liang
+AU  - N. W. Keong
+AU  - K. De Zoysa
+PY  - 2025
+DO  - 10.1109/CCNC54725.2025.10976116
+JO  - 2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC)
+IS  - 
+SN  - 2331-9860
+VO  - 
+VL  - 
+JA  - 2025 IEEE 22nd Consumer Communications & Networking Conference (CCNC)
+Y1  - 10-13 Jan. 2025
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Domain Modeling with Language Models: A Multi-Agent Approach to Task Planning
+T2  - 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)
+SP  - 1701
+EP  - 1708
+AU  - H. Babu
+AU  - P. Schillinger
+AU  - T. Asfour
+PY  - 2025
+DO  - 10.1109/CASE58245.2025.11164110
+JO  - 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)
+Y1  - 17-21 Aug. 2025
+ER  - 
+
+TY  - CONF
+TI  - Virtual Co-Pilot: Multimodal Large Language Model-enabled Quick-access Procedures for Single Pilot Operations
+T2  - 2024 IEEE Conference on Artificial Intelligence (CAI)
+SP  - 1501
+EP  - 1506
+AU  - F. Li
+AU  - S. Feng
+AU  - Y. Yan
+AU  - C. -H. Lee
+AU  - Y. S. Ong
+PY  - 2024
+DO  - 10.1109/CAI59869.2024.00270
+JO  - 2024 IEEE Conference on Artificial Intelligence (CAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE Conference on Artificial Intelligence (CAI)
+Y1  - 25-27 June 2024
+ER  - 
+
+TY  - CONF
+TI  - Embracing Foundation Models for Advancing Scientific Discovery
+T2  - 2024 IEEE International Conference on Big Data (BigData)
+SP  - 1746
+EP  - 1755
+AU  - S. Guo
+AU  - A. H. Shariatmadari
+AU  - G. Xiong
+AU  - A. Zhang
+PY  - 2024
+DO  - 10.1109/BigData62323.2024.10825618
+JO  - 2024 IEEE International Conference on Big Data (BigData)
+IS  - 
+SN  - 2573-2978
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Big Data (BigData)
+Y1  - 15-18 Dec. 2024
+ER  - 
+
+TY  - CONF
+TI  - LLMSQLi: A Black-Box Web SQLi Detection Tool Based on Large Language Model
+T2  - 2024 5th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+SP  - 629
+EP  - 633
+AU  - T. Yang
+AU  - Z. Jiang
+AU  - Y. Wang
+PY  - 2024
+DO  - 10.1109/ICBASE63199.2024.10762654
+JO  - 2024 5th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 5th International Conference on Big Data & Artificial Intelligence & Software Engineering (ICBASE)
+Y1  - 20-22 Sept. 2024
+ER  - 
+
+TY  - CONF
+TI  - An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project
+T2  - 2024 IEEE/ACM International Workshop on Large Language Models for Code (LLM4Code)
+SP  - 111
+EP  - 118
+AU  - S. Rasnayaka
+AU  - G. Wang
+AU  - R. Shariffdeen
+AU  - G. N. Iyer
+PY  - 2024
+DO  - 
+JO  - 2024 IEEE/ACM International Workshop on Large Language Models for Code (LLM4Code)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE/ACM International Workshop on Large Language Models for Code (LLM4Code)
+Y1  - 20-20 April 2024
+ER  - 
+
+TY  - CONF
+TI  - Towards Trustworthy Agentic IoEV: AI Agents for Explainable Cyberthreat Mitigation and State Analytics
+T2  - 2025 IEEE 50th Conference on Local Computer Networks (LCN)
+SP  - 1
+EP  - 10
+AU  - M. M. Dif
+AU  - M. A. Bouchiha
+AU  - A. A. Korba
+AU  - Y. Ghamri-Doudane
+PY  - 2025
+DO  - 10.1109/LCN65610.2025.11146357
+JO  - 2025 IEEE 50th Conference on Local Computer Networks (LCN)
+IS  - 
+SN  - 2832-1421
+VO  - 
+VL  - 
+JA  - 2025 IEEE 50th Conference on Local Computer Networks (LCN)
+Y1  - 13-16 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - Capturing Bias Diversity in LLMs
+T2  - 2024 2nd International Conference on Foundation and Large Language Models (FLLM)
+SP  - 593
+EP  - 598
+AU  - P. P. Gosavi
+AU  - V. M. Kulkarni
+AU  - A. F. Smeaton
+PY  - 2024
+DO  - 10.1109/FLLM63129.2024.10852459
+JO  - 2024 2nd International Conference on Foundation and Large Language Models (FLLM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 2nd International Conference on Foundation and Large Language Models (FLLM)
+Y1  - 26-29 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Neural Architecture Search with LLM-Based Autonomous Agents for Efficient Network Optimisation
+T2  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+SP  - 383
+EP  - 386
+AU  - Q. Chen
+PY  - 2025
+DO  - 10.1109/AIAHPC66801.2025.11290487
+JO  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 5th International Conference on Artificial Intelligence, Automation and High Performance Computing (AIAHPC)
+Y1  - 19-21 Sept. 2025
+ER  - 
+
+TY  - CONF
+TI  - Streamlining of Event Management for Attendees and Organizers
+T2  - 2024 International Conference on Emerging Technologies in Computer Science for Interdisciplinary Applications (ICETCS)
+SP  - 1
+EP  - 7
+AU  - A. Kishan
+AU  - S. Jyotiraditya
+AU  - A. Mujeeb
+AU  - N. Pranav
+AU  - M. L. Vandana
+PY  - 2024
+DO  - 10.1109/ICETCS61022.2024.10543966
+JO  - 2024 International Conference on Emerging Technologies in Computer Science for Interdisciplinary Applications (ICETCS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Emerging Technologies in Computer Science for Interdisciplinary Applications (ICETCS)
+Y1  - 22-23 April 2024
+ER  - 
+
+TY  - JOUR
+TI  - Harnessing Language for Coordination: A Framework and Benchmark for LLM-Driven Multiagent Control
+T2  - IEEE Transactions on Games
+SP  - 933
+EP  - 943
+AU  - T. Anne
+AU  - N. Syrkis
+AU  - M. Elhosni
+AU  - F. Turati
+AU  - F. Legendre
+AU  - A. Jaquier
+AU  - S. Risi
+PY  - 2025
+DO  - 10.1109/TG.2025.3564042
+JO  - IEEE Transactions on Games
+IS  - 4
+SN  - 2475-1510
+VO  - 17
+VL  - 17
+JA  - IEEE Transactions on Games
+Y1  - Dec. 2025
+ER  - 
+
+TY  - CONF
+TI  - MenTeR: A fully-automated Multi-agenT workflow for end-to-end RF/Analog Circuits Netlist Design
+T2  - 2025 IEEE International Conference on LLM-Aided Design (ICLAD)
+SP  - 124
+EP  - 132
+AU  - P. -H. Chen
+AU  - Y. -S. Lin
+AU  - W. -C. Lee
+AU  - T. -Y. Leu
+AU  - P. -H. Hsu
+AU  - A. Dissanayake
+AU  - S. Oh
+AU  - C. -S. Chiu
+PY  - 2025
+DO  - 10.1109/ICLAD65226.2025.00015
+JO  - 2025 IEEE International Conference on LLM-Aided Design (ICLAD)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on LLM-Aided Design (ICLAD)
+Y1  - 26-27 June 2025
+ER  - 
+
+TY  - CONF
+TI  - Enhancing Telecom Operation Support Systems with Multi-Agent Large Language Models
+T2  - 2025 11th International Conference on Computing and Artificial Intelligence (ICCAI)
+SP  - 309
+EP  - 316
+AU  - K. -Y. Lee
+AU  - P. -A. Tseng
+AU  - W. -C. Chen
+PY  - 2025
+DO  - 10.1109/ICCAI66501.2025.00055
+JO  - 2025 11th International Conference on Computing and Artificial Intelligence (ICCAI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 11th International Conference on Computing and Artificial Intelligence (ICCAI)
+Y1  - 28-31 March 2025
+ER  - 
+
+TY  - CONF
+TI  - PENTEST-AI, an LLM-Powered Multi-Agents Framework for Penetration Testing Automation Leveraging Mitre Attack
+T2  - 2024 IEEE International Conference on Cyber Security and Resilience (CSR)
+SP  - 763
+EP  - 770
+AU  - S. G. Bianou
+AU  - R. G. Batogna
+PY  - 2024
+DO  - 10.1109/CSR61664.2024.10679480
+JO  - 2024 IEEE International Conference on Cyber Security and Resilience (CSR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Cyber Security and Resilience (CSR)
+Y1  - 2-4 Sept. 2024
+ER  - 
+
+TY  - CONF
+TI  - Improving Industrial Question Answering Chatbots with Domain-Specific LLMs Fine-Tuning
+T2  - 2024 20th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA)
+SP  - 1
+EP  - 7
+AU  - R. Rosati
+AU  - F. Antonini
+AU  - N. Muralikrishna
+AU  - F. Tonetto
+AU  - A. Mancini
+PY  - 2024
+DO  - 10.1109/MESA61532.2024.10704843
+JO  - 2024 20th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA)
+IS  - 
+SN  - 2835-902X
+VO  - 
+VL  - 
+JA  - 2024 20th IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (MESA)
+Y1  - 2-4 Sept. 2024
+ER  - 
+
+TY  - JOUR
+TI  - NLI4VolVis: Natural Language Interaction for Volume Visualization via LLM Multi-Agents and Editable 3D Gaussian Splatting
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 1
+EP  - 11
+AU  - K. Ai
+AU  - K. Tang
+AU  - C. Wang
+PY  - 2025
+DO  - 10.1109/TVCG.2025.3633888
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 
+SN  - 1941-0506
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - 
+ER  - 
+
+TY  - CONF
+TI  - NivTA: Towards a Naturally Interactable Edu-Metaverse Teaching Assistant for CAVE
+T2  - 2024 IEEE International Conference on Metaverse Computing, Networking, and Applications (MetaCom)
+SP  - 57
+EP  - 64
+AU  - Y. Jia
+AU  - Z. P. T. Sin
+AU  - X. E. Wang
+AU  - C. Li
+AU  - P. H. F. Ng
+AU  - X. Huang
+AU  - J. Dong
+AU  - Y. Wang
+AU  - G. Baciu
+AU  - J. Cao
+AU  - Q. Li
+PY  - 2024
+DO  - 10.1109/MetaCom62920.2024.00023
+JO  - 2024 IEEE International Conference on Metaverse Computing, Networking, and Applications (MetaCom)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE International Conference on Metaverse Computing, Networking, and Applications (MetaCom)
+Y1  - 12-14 Aug. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Traj-LLM: A New Exploration for Empowering Trajectory Prediction With Pre-Trained Large Language Models
+T2  - IEEE Transactions on Intelligent Vehicles
+SP  - 794
+EP  - 807
+AU  - Z. Lan
+AU  - L. Liu
+AU  - B. Fan
+AU  - Y. Lv
+AU  - Y. Ren
+AU  - Z. Cui
+PY  - 2025
+DO  - 10.1109/TIV.2024.3418522
+JO  - IEEE Transactions on Intelligent Vehicles
+IS  - 2
+SN  - 2379-8904
+VO  - 10
+VL  - 10
+JA  - IEEE Transactions on Intelligent Vehicles
+Y1  - Feb. 2025
+ER  - 
+
+TY  - CONF
+TI  - Can LLMs Generate Architectural Design Decisions? - An Exploratory Empirical Study
+T2  - 2024 IEEE 21st International Conference on Software Architecture (ICSA)
+SP  - 79
+EP  - 89
+AU  - R. Dhar
+AU  - K. Vaidhyanathan
+AU  - V. Varma
+PY  - 2024
+DO  - 10.1109/ICSA59870.2024.00016
+JO  - 2024 IEEE 21st International Conference on Software Architecture (ICSA)
+IS  - 
+SN  - 2835-7043
+VO  - 
+VL  - 
+JA  - 2024 IEEE 21st International Conference on Software Architecture (ICSA)
+Y1  - 4-8 June 2024
+ER  - 
+
+TY  - JOUR
+TI  - LightVA: Lightweight Visual Analytics With LLM Agent-Based Task Planning and Execution
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 6162
+EP  - 6177
+AU  - Y. Zhao
+AU  - J. Wang
+AU  - L. Xiang
+AU  - X. Zhang
+AU  - Z. Guo
+AU  - C. Turkay
+AU  - Y. Zhang
+AU  - S. Chen
+PY  - 2025
+DO  - 10.1109/TVCG.2024.3496112
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 9
+SN  - 1941-0506
+VO  - 31
+VL  - 31
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Sept. 2025
+ER  - 
+
+TY  - JOUR
+TI  - Emotion-Aware Conversational Music Recommendation With Multiagent System
+T2  - IEEE Transactions on Computational Social Systems
+SP  - 1
+EP  - 14
+AU  - J. Wang
+AU  - J. Wu
+AU  - M. Tan
+AU  - L. Zhu
+PY  - 2025
+DO  - 10.1109/TCSS.2025.3599008
+JO  - IEEE Transactions on Computational Social Systems
+IS  - 
+SN  - 2329-924X
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Computational Social Systems
+Y1  - 
+ER  - 
+
+TY  - JOUR
+TI  - Save It for the “Hot” Day: An LLM-Empowered Visual Analytics System for Heat Risk Management
+T2  - IEEE Transactions on Visualization and Computer Graphics
+SP  - 8928
+EP  - 8943
+AU  - H. Li
+AU  - W. Kam-Kwai
+AU  - Y. Luo
+AU  - J. Chen
+AU  - C. Liu
+AU  - Y. Zhang
+AU  - A. K. H. Lau
+AU  - H. Qu
+AU  - D. Liu
+PY  - 2025
+DO  - 10.1109/TVCG.2025.3586689
+JO  - IEEE Transactions on Visualization and Computer Graphics
+IS  - 10
+SN  - 1941-0506
+VO  - 31
+VL  - 31
+JA  - IEEE Transactions on Visualization and Computer Graphics
+Y1  - Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - Hybridizing Large Language Models and Dual-Layer Retrieval for Context-Aware Movie Rating Prediction: A Case Study with Gemma 2 (9B) and MovieLens
+T2  - 2025 10th International Conference on Computer Science and Engineering (UBMK)
+SP  - 28
+EP  - 33
+AU  - Y. Çelik
+AU  - A. Bilge
+PY  - 2025
+DO  - 10.1109/UBMK67458.2025.11206808
+JO  - 2025 10th International Conference on Computer Science and Engineering (UBMK)
+IS  - 
+SN  - 2521-1641
+VO  - 
+VL  - 
+JA  - 2025 10th International Conference on Computer Science and Engineering (UBMK)
+Y1  - 17-21 Sept. 2025
+ER  - 
+
+TY  - CONF
+TI  - Supporting Text Entry in Virtual Reality with Large Language Models
+T2  - 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+SP  - 524
+EP  - 534
+AU  - L. Chen
+AU  - Y. Cai
+AU  - R. Wang
+AU  - S. Ding
+AU  - Y. Tang
+AU  - P. Hansen
+AU  - L. Sun
+PY  - 2024
+DO  - 10.1109/VR58804.2024.00073
+JO  - 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+IS  - 
+SN  - 2642-5254
+VO  - 
+VL  - 
+JA  - 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR)
+Y1  - 16-21 March 2024
+ER  - 
+
+TY  - JOUR
+TI  - Point-of-Interest Recommendations and Large Language Models: A Powerful Combination
+T2  - IEEE Intelligent Systems
+SP  - 5
+EP  - 9
+AU  - T. Wang
+AU  - C. Wang
+PY  - 2025
+DO  - 10.1109/MIS.2025.3561473
+JO  - IEEE Intelligent Systems
+IS  - 3
+SN  - 1941-1294
+VO  - 40
+VL  - 40
+JA  - IEEE Intelligent Systems
+Y1  - May-June 2025
+ER  - 
+
+TY  - CONF
+TI  - Contextual Recommendation System: A Revolutionary Approach Using Hadoop, Spark, NLP and LLMs
+T2  - 2024 International Conference on Electrical Electronics and Computing Technologies (ICEECT)
+SP  - 1
+EP  - 4
+AU  - B. Reddy Kandula
+AU  - L. Jacob
+PY  - 2024
+DO  - 10.1109/ICEECT61758.2024.10738951
+JO  - 2024 International Conference on Electrical Electronics and Computing Technologies (ICEECT)
+IS  - 
+SN  - 
+VO  - 1
+VL  - 1
+JA  - 2024 International Conference on Electrical Electronics and Computing Technologies (ICEECT)
+Y1  - 29-31 Aug. 2024
+ER  - 
+
+TY  - CONF
+TI  - Carfin: Car Recommender System Based on Conversational Recommender System Using Large Language Model
+T2  - 2025 International Conference on Advancement in Data Science, E-learning and Information System (ICADEIS)
+SP  - 1
+EP  - 6
+AU  - A. W. Wirawan
+AU  - Z. K. A. Baizal
+PY  - 2025
+DO  - 10.1109/ICADEIS65852.2025.10933065
+JO  - 2025 International Conference on Advancement in Data Science, E-learning and Information System (ICADEIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Advancement in Data Science, E-learning and Information System (ICADEIS)
+Y1  - 3-4 Feb. 2025
+ER  - 
+
+TY  - CONF
+TI  - SI-Agent: An Agentic Framework for Feedback-Driven Generation and Tuning of Human-Readable System Instructions for Large Language Models
+T2  - 2025 16th International Conference on Information, Intelligence, Systems & Applications (IISA)
+SP  - 1
+EP  - 9
+AU  - J. Challagundla
+AU  - M. Singh
+AU  - S. Raina
+AU  - S. Behl
+AU  - F. Harsh
+AU  - J. Jarsania
+PY  - 2025
+DO  - 10.1109/IISA66859.2025.11311216
+JO  - 2025 16th International Conference on Information, Intelligence, Systems & Applications (IISA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 16th International Conference on Information, Intelligence, Systems & Applications (IISA)
+Y1  - 10-12 July 2025
+ER  - 
+
+TY  - CONF
+TI  - LLM-Based Generation of Low-Code Development Platforms
+T2  - 2025 ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+SP  - 59
+EP  - 64
+AU  - B. Schenkenfelder
+PY  - 2025
+DO  - 10.1109/MODELS-C68889.2025.00015
+JO  - 2025 ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+Y1  - 5-10 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - (Invited Paper) AnaFlow: Agentic LLM-based Workflow for Reasoning-Driven Explainable and Sample-Efficient Analog Circuit Sizing
+T2  - 2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)
+SP  - 1
+EP  - 7
+AU  - M. Ahmadzadeh
+AU  - K. Chen
+AU  - G. Gielen
+PY  - 2025
+DO  - 10.1109/ICCAD66269.2025.11240818
+JO  - 2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)
+IS  - 
+SN  - 1558-2434
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM International Conference On Computer Aided Design (ICCAD)
+Y1  - 26-30 Oct. 2025
+ER  - 
+
+TY  - CONF
+TI  - The Software Genome Project: Unraveling Software Through Genetic Principles
+T2  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+SP  - 2319
+EP  - 2323
+AU  - Y. Wu
+AU  - C. Liu
+AU  - Z. Xu
+AU  - L. Zhang
+AU  - Y. Zhang
+AU  - Z. Zhu
+AU  - Y. Liu
+PY  - 2024
+DO  - 
+JO  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+IS  - 
+SN  - 2643-1572
+VO  - 
+VL  - 
+JA  - 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE)
+Y1  - 27 Oct.-1 Nov. 2024
+ER  - 
+
+TY  - CONF
+TI  - Evaluation of the Choice of LLM in a Multi-Agent Solution for GUI-Test Generation
+T2  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+SP  - 487
+EP  - 497
+AU  - S. Tomic
+AU  - E. Alégroth
+AU  - M. Isaac
+PY  - 2025
+DO  - 10.1109/ICST62969.2025.10989038
+JO  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+IS  - 
+SN  - 2159-4848
+VO  - 
+VL  - 
+JA  - 2025 IEEE Conference on Software Testing, Verification and Validation (ICST)
+Y1  - 31 March-4 April 2025
+ER  - 
+
+TY  - JOUR
+TI  - Advancing Visible-Infrared Person Re-Identification: Synergizing Visual-Textual Reasoning and Cross-Modal Feature Alignment
+T2  - IEEE Transactions on Information Forensics and Security
+SP  - 2184
+EP  - 2196
+AU  - Y. Qiu
+AU  - L. Wang
+AU  - W. Song
+AU  - J. Liu
+AU  - Z. Shi
+AU  - N. Jiang
+PY  - 2025
+DO  - 10.1109/TIFS.2025.3539946
+JO  - IEEE Transactions on Information Forensics and Security
+IS  - 
+SN  - 1556-6021
+VO  - 20
+VL  - 20
+JA  - IEEE Transactions on Information Forensics and Security
+Y1  - 2025
+ER  - 
+
+TY  - CONF
+TI  - Generating Context-Aware Cyberbullying Dialogues: A Structured LLM-Based Dataset
+T2  - 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud)
+SP  - 1
+EP  - 6
+AU  - M. S. Islam
+AU  - S. Sutton
+AU  - R. I. Rafiq
+PY  - 2025
+DO  - 10.1109/CSCloud66326.2025.00035
+JO  - 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud)
+IS  - 
+SN  - 2693-8928
+VO  - 
+VL  - 
+JA  - 2025 IEEE 12th International Conference on Cyber Security and Cloud Computing (CSCloud)
+Y1  - 7-9 Nov. 2025
+ER  - 
+
+TY  - JOUR
+TI  - Language Model Evolutionary Algorithms for Recommender Systems: Benchmarks and Algorithm Comparisons
+T2  - IEEE Transactions on Evolutionary Computation
+SP  - 1
+EP  - 1
+AU  - J. Liu
+AU  - Z. Sun
+AU  - S. Feng
+AU  - C. Chen
+AU  - Y. -S. Ong
+PY  - 2025
+DO  - 10.1109/TEVC.2025.3609058
+JO  - IEEE Transactions on Evolutionary Computation
+IS  - 
+SN  - 1941-0026
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Evolutionary Computation
+Y1  - 
+ER  - 
+
+TY  - CONF
+TI  - Towards AI-Augmented Co-Compilation for Smart IoT Systems Through Domain-Specific LLMs
+T2  - 2025 10th International Conference on Smart and Sustainable Technologies (SpliTech)
+SP  - 1
+EP  - 4
+AU  - F. Ciccozzi
+PY  - 2025
+DO  - 10.23919/SpliTech65624.2025.11091755
+JO  - 2025 10th International Conference on Smart and Sustainable Technologies (SpliTech)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 10th International Conference on Smart and Sustainable Technologies (SpliTech)
+Y1  - 16-20 June 2025
+ER  - 
+
+TY  - CONF
+TI  - Exploring NLP-Based Methods for Generating Engineering Ethics Assessment Qualitative Codebooks
+T2  - 2023 IEEE Frontiers in Education Conference (FIE)
+SP  - 1
+EP  - 8
+AU  - A. Hingle
+AU  - A. Katz
+AU  - A. Johri
+PY  - 2023
+DO  - 10.1109/FIE58773.2023.10342985
+JO  - 2023 IEEE Frontiers in Education Conference (FIE)
+IS  - 
+SN  - 2377-634X
+VO  - 
+VL  - 
+JA  - 2023 IEEE Frontiers in Education Conference (FIE)
+Y1  - 18-21 Oct. 2023
+ER  - 
+
+

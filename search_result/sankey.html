@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+                <script type="text/javascript" src="https://assets.pyecharts.org/assets/v6/echarts.min.js"></script>
+
+    
+</head>
+<body >
+    <div id="50b29733e9794fb89e3c0f441aadd3a1" class="chart-container" style="width:900px; height:500px; "></div>
+    <script>
+        var chart_50b29733e9794fb89e3c0f441aadd3a1 = echarts.init(
+            document.getElementById('50b29733e9794fb89e3c0f441aadd3a1'), 'white', {renderer: 'canvas', locale: 'ZH'});
+        var option_50b29733e9794fb89e3c0f441aadd3a1 = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "aria": {
+        "enabled": false
+    },
+    "series": [
+        {
+            "type": "sankey",
+            "data": [
+                {
+                    "name": "Software Engineering"
+                },
+                {
+                    "name": "Scientific Research"
+                },
+                {
+                    "name": "Education"
+                },
+                {
+                    "name": "Robotics (Embodied Intelligence)"
+                },
+                {
+                    "name": "Healthy Care"
+                },
+                {
+                    "name": "Manufacturing"
+                },
+                {
+                    "name": "Society Simulation"
+                },
+                {
+                    "name": "Annotation / Data Labeling"
+                },
+                {
+                    "name": "Cybersecurity"
+                },
+                {
+                    "name": "Industry 5.0"
+                },
+                {
+                    "name": "Prompt Engineering"
+                },
+                {
+                    "name": "Multi-Agent"
+                },
+                {
+                    "name": "finetune"
+                },
+                {
+                    "name": "multimodal"
+                },
+                {
+                    "name": "RAG"
+                },
+                {
+                    "name": "Reasoning"
+                },
+                {
+                    "name": "Tool Use"
+                },
+                {
+                    "name": "Other"
+                },
+                {
+                    "name": "GraphRAG"
+                },
+                {
+                    "name": "Large Language Models"
+                }
+            ],
+            "links": [
+                {
+                    "source": "Annotation / Data Labeling",
+                    "target": "finetune",
+                    "value": 10
+                },
+                {
+                    "source": "Healthy Care",
+                    "target": "finetune",
+                    "value": 21
+                },
+                {
+                    "source": "Software Engineering",
+                    "target": "finetune",
+                    "value": 51
+                },
+                {
+                    "source": "Manufacturing",
+                    "target": "Multi-Agent",
+                    "value": 31
+                },
+                {
+                    "source": "Manufacturing",
+                    "target": "RAG",
+                    "value": 9
+                },
+                {
+                    "source": "Manufacturing",
+                    "target": "Prompt Engineering",
+                    "value": 18
+                },
+                {
+                    "source": "Robotics (Embodied Intelligence)",
+                    "target": "Reasoning",
+                    "value": 13
+                },
+                {
+                    "source": "Scientific Research",
+                    "target": "Prompt Engineering",
+                    "value": 67
+                },
+                {
+                    "source": "Annotation / Data Labeling",
+                    "target": "Reasoning",
+                    "value": 2
+                },
+                {
+                    "source": "Manufacturing",
+                    "target": "multimodal",
+                    "value": 15
+                },
+                {
+                    "source": "Education",
+                    "target": "Prompt Engineering",
+                    "value": 112
+                },
+                {
+                    "source": "Healthy Care",
+                    "target": "Multi-Agent",
+                    "value": 25
+                },
+                {
+                    "source": "Robotics (Embodied Intelligence)",
+                    "target": "Multi-Agent",
+                    "value": 50
+                },
+                {
+                    "source": "Scientific Research",
+                    "target": "RAG",
+                    "value": 17
+                },
+                {
+                    "source": "Healthy Care",
+                    "target": "multimodal",
+                    "value": 24
+                },
+                {
+                    "source": "Scientific Research",
+                    "target": "multimodal",
+                    "value": 15
+                },
+                {
+                    "source": "Software Engineering",
+                    "target": "RAG",
+                    "value": 10
+                },
+                {
+                    "source": "Robotics (Embodied Intelligence)",
+                    "target": "Prompt Engineering",
+                    "value": 26
+                },
+                {
+                    "source": "Software Engineering",
+                    "target": "Prompt Engineering",
+                    "value": 115
+                },
+                {
+                    "source": "Cybersecurity",
+                    "target": "Multi-Agent",
+                    "value": 12
+                },
+                {
+                    "source": "Scientific Research",
+                    "target": "GraphRAG",
+                    "value": 2
+                },
+                {
+                    "source": "Software Engineering",
+                    "target": "Multi-Agent",
+                    "value": 100
+                },
+                {
+                    "source": "Software Engineering",
+                    "target": "Other",
+                    "value": 4
+                },
+                {
+                    "source": "Scientific Research",
+                    "target": "Multi-Agent",
+                    "value": 67
+                },
+                {
+                    "source": "Healthy Care",
+                    "target": "Prompt Engineering",
+                    "value": 30
+                },
+                {
+                    "source": "Society Simulation",
+                    "target": "Reasoning",
+                    "value": 3
+                },
+                {
+                    "source": "Education",
+                    "target": "Multi-Agent",
+                    "value": 38
+                },
+                {
+                    "source": "Scientific Research",
+                    "target": "finetune",
+                    "value": 38
+                },
+                {
+                    "source": "Manufacturing",
+                    "target": "finetune",
+                    "value": 9
+                },
+                {
+                    "source": "Industry 5.0",
+                    "target": "multimodal",
+                    "value": 3
+                },
+                {
+                    "source": "Annotation / Data Labeling",
+                    "target": "RAG",
+                    "value": 3
+                },
+                {
+                    "source": "Society Simulation",
+                    "target": "Prompt Engineering",
+                    "value": 18
+                },
+                {
+                    "source": "Robotics (Embodied Intelligence)",
+                    "target": "multimodal",
+                    "value": 35
+                },
+                {
+                    "source": "Industry 5.0",
+                    "target": "RAG",
+                    "value": 1
+                },
+                {
+                    "source": "Cybersecurity",
+                    "target": "Tool Use",
+                    "value": 1
+                },
+                {
+                    "source": "Society Simulation",
+                    "target": "Multi-Agent",
+                    "value": 29
+                },
+                {
+                    "source": "Cybersecurity",
+                    "target": "Prompt Engineering",
+                    "value": 14
+                },
+                {
+                    "source": "Industry 5.0",
+                    "target": "Multi-Agent",
+                    "value": 12
+                },
+                {
+                    "source": "Manufacturing",
+                    "target": "Reasoning",
+                    "value": 5
+                },
+                {
+                    "source": "Society Simulation",
+                    "target": "multimodal",
+                    "value": 5
+                },
+                {
+                    "source": "Education",
+                    "target": "multimodal",
+                    "value": 16
+                },
+                {
+                    "source": "Scientific Research",
+                    "target": "Tool Use",
+                    "value": 4
+                },
+                {
+                    "source": "Annotation / Data Labeling",
+                    "target": "Prompt Engineering",
+                    "value": 21
+                },
+                {
+                    "source": "Scientific Research",
+                    "target": "Reasoning",
+                    "value": 13
+                },
+                {
+                    "source": "Healthy Care",
+                    "target": "Tool Use",
+                    "value": 3
+                },
+                {
+                    "source": "Industry 5.0",
+                    "target": "Reasoning",
+                    "value": 1
+                },
+                {
+                    "source": "Software Engineering",
+                    "target": "Tool Use",
+                    "value": 7
+                },
+                {
+                    "source": "Manufacturing",
+                    "target": "GraphRAG",
+                    "value": 6
+                },
+                {
+                    "source": "Annotation / Data Labeling",
+                    "target": "Multi-Agent",
+                    "value": 12
+                },
+                {
+                    "source": "Cybersecurity",
+                    "target": "finetune",
+                    "value": 11
+                },
+                {
+                    "source": "Robotics (Embodied Intelligence)",
+                    "target": "finetune",
+                    "value": 12
+                },
+                {
+                    "source": "Software Engineering",
+                    "target": "Reasoning",
+                    "value": 12
+                },
+                {
+                    "source": "Education",
+                    "target": "finetune",
+                    "value": 19
+                },
+                {
+                    "source": "Industry 5.0",
+                    "target": "GraphRAG",
+                    "value": 1
+                },
+                {
+                    "source": "Cybersecurity",
+                    "target": "multimodal",
+                    "value": 1
+                },
+                {
+                    "source": "Healthy Care",
+                    "target": "Other",
+                    "value": 1
+                },
+                {
+                    "source": "Manufacturing",
+                    "target": "Tool Use",
+                    "value": 3
+                },
+                {
+                    "source": "Education",
+                    "target": "RAG",
+                    "value": 8
+                },
+                {
+                    "source": "Society Simulation",
+                    "target": "RAG",
+                    "value": 2
+                },
+                {
+                    "source": "Robotics (Embodied Intelligence)",
+                    "target": "Tool Use",
+                    "value": 3
+                },
+                {
+                    "source": "Healthy Care",
+                    "target": "RAG",
+                    "value": 10
+                },
+                {
+                    "source": "Education",
+                    "target": "Reasoning",
+                    "value": 1
+                },
+                {
+                    "source": "Software Engineering",
+                    "target": "multimodal",
+                    "value": 7
+                },
+                {
+                    "source": "Software Engineering",
+                    "target": "GraphRAG",
+                    "value": 2
+                },
+                {
+                    "source": "Robotics (Embodied Intelligence)",
+                    "target": "Other",
+                    "value": 1
+                },
+                {
+                    "source": "Education",
+                    "target": "Other",
+                    "value": 3
+                },
+                {
+                    "source": "Cybersecurity",
+                    "target": "RAG",
+                    "value": 5
+                },
+                {
+                    "source": "Society Simulation",
+                    "target": "Large Language Models",
+                    "value": 1
+                },
+                {
+                    "source": "Annotation / Data Labeling",
+                    "target": "multimodal",
+                    "value": 3
+                },
+                {
+                    "source": "Industry 5.0",
+                    "target": "finetune",
+                    "value": 2
+                },
+                {
+                    "source": "Industry 5.0",
+                    "target": "Tool Use",
+                    "value": 2
+                },
+                {
+                    "source": "Society Simulation",
+                    "target": "Other",
+                    "value": 3
+                },
+                {
+                    "source": "Cybersecurity",
+                    "target": "Large Language Models",
+                    "value": 1
+                },
+                {
+                    "source": "Scientific Research",
+                    "target": "Other",
+                    "value": 3
+                },
+                {
+                    "source": "Industry 5.0",
+                    "target": "Prompt Engineering",
+                    "value": 3
+                },
+                {
+                    "source": "Healthy Care",
+                    "target": "Reasoning",
+                    "value": 1
+                },
+                {
+                    "source": "Healthy Care",
+                    "target": "Large Language Models",
+                    "value": 1
+                },
+                {
+                    "source": "Cybersecurity",
+                    "target": "Other",
+                    "value": 1
+                },
+                {
+                    "source": "Society Simulation",
+                    "target": "finetune",
+                    "value": 2
+                },
+                {
+                    "source": "Manufacturing",
+                    "target": "Other",
+                    "value": 1
+                },
+                {
+                    "source": "Industry 5.0",
+                    "target": "Other",
+                    "value": 1
+                },
+                {
+                    "source": "Annotation / Data Labeling",
+                    "target": "Other",
+                    "value": 1
+                },
+                {
+                    "source": "Software Engineering",
+                    "target": "Large Language Models",
+                    "value": 1
+                },
+                {
+                    "source": "Scientific Research",
+                    "target": "Large Language Models",
+                    "value": 2
+                },
+                {
+                    "source": "Education",
+                    "target": "Tool Use",
+                    "value": 1
+                },
+                {
+                    "source": "Education",
+                    "target": "Large Language Models",
+                    "value": 1
+                }
+            ],
+            "left": "5%",
+            "top": "5%",
+            "right": "20%",
+            "bottom": "5%",
+            "nodeWidth": 20,
+            "nodeGap": 20,
+            "nodeAlign": "justify",
+            "orient": "horizontal",
+            "draggable": true,
+            "zoom": 1,
+            "roam": false,
+            "label": {
+                "show": true,
+                "position": "right",
+                "margin": 8,
+                "formatter": "{b}: {c}",
+                "textBorderWidth": 0,
+                "richInheritPlainLabel": true,
+                "valueAnimation": false
+            },
+            "lineStyle": {
+                "show": false,
+                "opacity": 0.2,
+                "curveness": 0.5,
+                "color": "source"
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                ""
+            ],
+            "selected": {},
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14,
+            "backgroundColor": "transparent",
+            "borderColor": "#ccc",
+            "borderRadius": 0,
+            "pageButtonItemGap": 5,
+            "pageButtonPosition": "end",
+            "pageFormatter": "{current}/{total}",
+            "pageIconColor": "#2f4554",
+            "pageIconInactiveColor": "#aaa",
+            "pageIconSize": 15,
+            "animationDurationUpdate": 800,
+            "selector": false,
+            "selectorPosition": "auto",
+            "selectorItemGap": 7,
+            "selectorButtonGap": 10,
+            "triggerEvent": false
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "enterable": false,
+        "confine": false,
+        "appendToBody": false,
+        "transitionDuration": 0.4,
+        "displayTransition": true,
+        "textStyle": {
+            "fontSize": 14,
+            "richInheritPlainLabel": true
+        },
+        "borderWidth": 0,
+        "padding": 5,
+        "order": "seriesAsc"
+    },
+    "title": [
+        {
+            "show": true,
+            "text": "Domain to Technology Sankey (Sorted by Size)",
+            "target": "blank",
+            "subtarget": "blank",
+            "padding": 5,
+            "itemGap": 10,
+            "textAlign": "auto",
+            "textVerticalAlign": "auto",
+            "triggerEvent": false
+        }
+    ]
+};
+        chart_50b29733e9794fb89e3c0f441aadd3a1.setOption(option_50b29733e9794fb89e3c0f441aadd3a1);
+    </script>
+</body>
+</html>

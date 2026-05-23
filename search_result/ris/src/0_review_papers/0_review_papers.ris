@@ -1,0 +1,2215 @@
+TY  - JOUR
+TI  - NL2Vis Transformed: From Linguistic Abstraction to Visual Specification in the Generative AI Era
+AU  - Luong, H.T.M.
+AU  - Nguyen, V.T.
+T2  - SN Computer Science
+AB  - Natural Language to Visualization (NL2Vis) constitutes a rapidly evolving subfield situated at the intersection of natural language processing, data visualization, and human–computer interaction. It operationalizes the transduction of free-form textual queries into semantically coherent visual representations over structured datasets. In contrast to conventional data exploration paradigms—where users must explicitly construct charts or formulate formal queries—NL2Vis systems abstract these tasks via intuitive, language-driven interfaces. Despite substantial progress, the research landscape remains epistemologically fragmented, exhibiting heterogeneity across architectural design, dataset curation, evaluation methodology, and system scalability. This study conducts a systematic literature review encompassing 98 peer-reviewed publications from 2019 to early 2025, following PRISMA-compliant protocols. The surveyed corpus is analytically deconstructed along five orthogonal dimensions: method typology, system workflow architecture, dataset provenance, reported technical challenges, and articulated future trajectories. Our analysis reveals that while transformer-based models and retrieval-augmented generation (RAG) paradigms dominate recent advancements, prevailing systems are constrained by persistent challenges in semantic intent resolution, syntactic validity of visualization specifications, schema generalizability, and dialog contextualization. In addition, we identify systemic deficits in benchmark diversity, multilingual robustness, and evaluation metrics grounded in human-centered design. To mitigate these limitations, emerging research proposes the adoption of open-weight LLMs, dynamic prompt engineering, multi-turn interaction modeling, and schema-aware representation learning. Furthermore, the development of ambiguity-tolerant benchmarks with multi-gold annotations and interactive protocols is deemed critical. This review synthesizes methodological foundations and delineates a trajectory for future NL2Vis advancement under generative paradigms. © The Author(s), under exclusive licence to Springer Nature Singapore Pte Ltd. 2025.
+DA  - 2026///
+PY  - 2026
+DO  - 10.1007/s42979-025-04636-4
+VL  - 7
+IS  - 1
+J2  - SN COMPUT. SCI.
+LA  - English
+PB  - Springer
+SN  - 2662995X (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105025353016&doi=10.1007%2Fs42979-025-04636-4&partnerID=40&md5=ec2c331a4c4d8c76596168f78cf64c25
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 0; Correspondence Address: V.T. Nguyen; Thai Nguyen University of Information and Communication Technology, Thai Nguyen, Z115, Quyet Thang, Viet Nam; email: vinhnt@ictu.edu.vn</p>
+KW  - Human-in-the-loop visualization
+KW  - LLM-based chart generation
+KW  - Natural language to visualization
+KW  - Semantic mapping
+KW  - Systematic review
+ER  - 
+
+TY  - JOUR
+TI  - Psycholinguistic analyses in software engineering text: A systematic mapping study
+AU  - Sajadi, A.
+AU  - Damevski, K.
+AU  - Chatterjee, P.
+T2  - Information and Software Technology
+AB  - Context: A deeper understanding of human factors in software engineering (SE) is essential for improving team collaboration, decision-making, and productivity. Communication channels like code reviews and chats provide insights into developers’ psychological and emotional states. While large language models excel at text analysis, they often lack transparency and precision. Psycholinguistic tools like Linguistic Inquiry and Word Count (LIWC) offer clearer, interpretable insights into cognitive and emotional processes exhibited in text. Despite its wide use in SE research, no comprehensive mapping study of LIWC’s use has been conducted. Objective: We examine the importance of psycholinguistic tools, particularly LIWC, and provide a thorough analysis of its current and potential future applications in SE research. Methods: We conducted a systematic mapping study of six prominent databases, identifying 43 SE-related papers using LIWC. Our analysis focuses on five research questions: RQ1. How was LIWC employed in SE studies, and for what purposes?, RQ2. What datasets were analyzed using LIWC?, RQ3: What Behavioral Software Engineering (BSE) concepts were studied using LIWC? RQ4: How often has LIWC been evaluated in SE research?, RQ5: What concerns were raised about adopting LIWC in SE? Results: Our findings reveal a wide range of applications, including analyzing team communication to detect developer emotions and personality, developing ML models to predict deleted Stack Overflow posts, and more recently comparing AI-generated and human-written text. LIWC has been primarily used with data from project management platforms (e.g., GitHub) and Q&A forums (e.g., Stack Overflow). Key BSE concepts include Communication, Organizational Climate, and Positive Psychology. 26 of 43 papers did not formally evaluate LIWC. Concerns were raised about some limitations, including difficulty handling SE-specific vocabulary. Conclusion: We highlight the potential of psycholinguistic tools and their limitations, and present new use cases for advancing research on human factors in SE (e.g., bias in human-LLM conversations). © 2025 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license. http://creativecommons.org/licenses/by/4.0/
+DA  - 2026///
+PY  - 2026
+DO  - 10.1016/j.infsof.2025.107913
+VL  - 189
+J2  - Inf Software Technol
+LA  - English
+PB  - Elsevier B.V.
+SN  - 09505849 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105020069966&doi=10.1016%2Fj.infsof.2025.107913&partnerID=40&md5=c24831882c0516e573e12bfe14b71e83
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 0; Correspondence Address: A. Sajadi; Drexel University, Philadelphia, United States; email: amirali.sajadi@drexel.edu; CODEN: ISOTE</p>
+KW  - Decision making
+KW  - Computational linguistics
+KW  - Behavioral research
+KW  - Human computer interaction
+KW  - Information management
+KW  - Communications channels
+KW  - Decisions makings
+KW  - Engineering concepts
+KW  - Human engineering
+KW  - Information systems
+KW  - Linguistic inquiry and word count
+KW  - Mapping
+KW  - Project management
+KW  - Psycholinguistic
+KW  - Software engineering
+KW  - Software engineering research
+KW  - Stack overflow
+KW  - Systematic mapping studies
+KW  - Team collaboration
+KW  - Text analysis
+KW  - Text processing
+KW  - LIWC
+KW  - Psycholinguistics
+KW  - Systematic mapping study
+ER  - 
+
+TY  - JOUR
+TI  - Tailoring treatment in the age of AI: A systematic review of large language models in personalized healthcare
+AU  - Souza, G.D.P.
+AU  - Melo, G.
+AU  - Schneider, D.
+T2  - Informatics
+AB  - Large Language Models (LLMs) are increasingly proposed to personalize healthcare delivery, yet their real-world readiness remains uncertain. We conducted a systematic literature review to assess how LLM-based systems are designed and used to enhance patient engagement and personalization, while identifying open challenges these tools pose. Four digital libraries (Scopus, IEEE Xplore, ACM, and Nature) were searched, yielding 3787 studies; 16 met the inclusion criteria. Most studies, published in 2024, span different types of motivations, architectures, limitations and privacy-preserving approaches. While LLMs show potential in automating patient data collection, recommendation/therapy generation, and continuous conversational support, their clinical reliability is limited. Most evaluations use synthetic or retrospective data, with only a few employing user studies or scalable simulation environments. This review highlights the tension between innovation and clinical applicability, emphasizing the need for robust evaluation protocols and human-in-the-loop systems to guide the safe and equitable deployment of LLMs in healthcare. © 2025 by the authors.
+DA  - 2025///
+PY  - 2025
+DO  - 10.3390/informatics12040113
+VL  - 12
+IS  - 4
+J2  - Informatics
+LA  - English
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105025938984&doi=10.3390%2Finformatics12040113&partnerID=40&md5=fb6b8e266e4e8c1ffcf9905cea78275f
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 0; Correspondence Address: G.D.P. Souza; Graduate Program in Informatics, Federal University of Rio de Janeiro, Rio de Janeiro, RJ, 21941-853, Brazil; email: giordano@ufrj.br</p>
+KW  - large language models
+KW  - healthcare
+KW  - systematic literature review
+KW  - personalized healthcare
+KW  - tailored treatment
+ER  - 
+
+TY  - JOUR
+TI  - A systematic review of the impact of generative AI on postgraduate research: Opportunities, challenges, and ethical implications
+AU  - Mabirizi, V.
+AU  - Katushabe, C.
+AU  - Muhoza, G.
+AU  - Rugasira, J.
+T2  - Discover Artificial Intelligence
+AB  - The rapid improvement of generative artificial intelligence particularly large language models like ChatGPT, and GPT-4, has presented transformative possibilities in postgraduate research. This systematic review investigates the impact of generative artificial intelligence tools on the quality, efficiency, ethics, and innovation of postgraduate research. A comprehensive literature search across four databases: Google Scholar, Web of Science, IEEE explore, and Scopus was carried out. Following the PRISMA guidelines, a total of 20 peer reviewed published articles between 2019 and 2025 were selected for a detailed review analysis and these were selected based on relevance to the postgraduate research context, explicit declaration of generative AI application, and reported outcomes. The review identified four thematic areas: (i) research productivity and efficiency, where generative AI has improved academic writing, data analysis, and literature reviews; (ii) cognitive and creative support, where AI helps formulate hypotheses, generate ideas, and refine language; (iii) academic integrity and ethical concerns, highlighting the dangers of plagiarism, data fabrication, and an over-reliance on artificial intelligence outputs; and (iv) capacity gaps and skills transformation, pointing out the growing demand for postgraduate researchers to receive ethical and AI literacy training. Despite the potential benefits of generative AI tools in democratizing access to research tools and improving productivity among postgraduate researchers, the review discovered that most academic institutions lack robust regulatory frameworks and institutional guidelines. Additional concerns arise from disparities in regional access to cutting-age AI tools, hence compromising the global research equity. The review concludes with a recommendation for a tailored framework for the responsible integration of GenAI into postgraduate research with a focus on institutional oversight, human-AI collaboration, and ethical application. The findings contribute to the current discussion over the future of AI and provide scholars, researchers and policymakers with evidence-based guidance on how to maximize AI’s potential while safeguarding academic integrity. © The Author(s) 2025.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1007/s44163-025-00495-3
+VL  - 5
+IS  - 1
+J2  - Discov. Artif. Intell.
+LA  - English
+PB  - Springer Nature
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105017571139&doi=10.1007%2Fs44163-025-00495-3&partnerID=40&md5=a0b31e4175492d4d38996963fb86a255
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 0; Correspondence Address: V. Mabirizi; Department of Information Technology, Kabale University, Kabale, Uganda; email: vmabirizi@kab.ac.ug</p>
+KW  - Artificial intelligence
+KW  - Generative AI
+KW  - Efficiency
+KW  - LLM
+KW  - Academic integrity
+KW  - AI integration framework
+KW  - Cutting tools
+KW  - Ethical implications
+KW  - Ethical technology
+KW  - Integration frameworks
+KW  - Metadata
+KW  - Post-graduate research
+KW  - Research ethics
+KW  - Research opportunities
+KW  - Systematic Review
+KW  - LLMs
+KW  - Postgraduate research
+ER  - 
+
+TY  - JOUR
+TI  - Large language models in bio-ontology research: A review
+AU  - Manda, P.
+T2  - Bioengineering
+AB  - Biomedical ontologies are critical for structuring domain knowledge and enabling integrative analyses in the life sciences. Traditional ontology development is labor-intensive, requiring extensive expert curation. Recent advances in artificial intelligence, particularly large language models (LLMs), have opened new possibilities to automate and enhance various aspects of bio-ontology research. This review article synthesizes findings from recent studies on LLM-assisted ontology creation, mapping, integration, and semantic search, while addressing challenges such as bias, reliability, and ethical concerns. We also discuss promising future directions and emerging trends that may further transform the way biomedical ontologies are developed, maintained, and used. © 2025 by the author.
+DA  - 2025///
+PY  - 2025
+DO  - 10.3390/bioengineering12111260
+VL  - 12
+IS  - 11
+J2  - Bioeng.
+LA  - English
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105023210959&doi=10.3390%2Fbioengineering12111260&partnerID=40&md5=04e40c167509b9a579ad050448fe7201
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 0; Correspondence Address: P. Manda; Department of Computer Science, University of Nebraska at Omaha, Omaha, 68182, United States; email: pmanda@nebraska.edu</p>
+KW  - large language models
+KW  - artificial intelligence
+KW  - knowledge graphs
+KW  - text mining
+KW  - biological ontology
+KW  - human-in-the-loop curation
+KW  - ontology mapping
+KW  - semantic search
+ER  - 
+
+TY  - JOUR
+TI  - LLMs for cybersecurity in the big data era: A comprehensive review of applications, challenges, and future directions
+AU  - Karras, A.
+AU  - Theodorakopoulos, L.
+AU  - Karras, C.
+AU  - Theodoropoulou, A.
+AU  - Kalliampakou, I.
+AU  - Kalogeratos, G.
+T2  - Information (Switzerland)
+AB  - This paper presents a systematic review of research (2020–2025) on the role of Large Language Models (LLMs) in cybersecurity, with emphasis on their integration into Big Data infrastructures. Based on a curated corpus of 235 peer-reviewed studies, this review synthesizes evidence across multiple domains to evaluate how models such as GPT-4, BERT, and domain-specific variants support threat detection, incident response, vulnerability assessment, and cyber threat intelligence. The findings confirm that LLMs, particularly when coupled with scalable Big Data pipelines, improve detection accuracy and reduce response latency compared with traditional approaches. However, challenges persist, including adversarial susceptibility, risks of data leakage, computational overhead, and limited transparency. The contribution of this study lies in consolidating fragmented research into a unified taxonomy, identifying sector-specific gaps, and outlining future research priorities: enhancing robustness, mitigating bias, advancing explainability, developing domain-specific models, and optimizing distributed integration. In doing so, this review provides a structured foundation for both academic inquiry and practical adoption of LLM-enabled cyberdefense strategies. Last search: 30 April 2025; methods followed: PRISMA-2020; risk of bias was assessed; random-effects syntheses were conducted. © 2025 by the authors.
+DA  - 2025///
+PY  - 2025
+DO  - 10.3390/info16110957
+VL  - 16
+IS  - 11
+J2  - Information
+LA  - English
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105023160557&doi=10.3390%2Finfo16110957&partnerID=40&md5=f7cccbc2870653f14526cb7c0cc30577
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 1; Correspondence Address: A. Karras; Computer Engineering and Informatics Department, University of Patras, Patras, 26504, Greece; email: akarras@ceid.upatras.gr</p>
+KW  - Artificial intelligence
+KW  - Decision making
+KW  - Language model
+KW  - Large language model
+KW  - Decisions makings
+KW  - Data integration
+KW  - Human–AI collaboration
+KW  - Big data
+KW  - Cyber security
+KW  - Computer crime
+KW  - cyber threat intelligence
+KW  - cybersecurity
+KW  - large language models (LLMs)
+KW  - Ethical AI
+KW  - human–AI collaboration
+KW  - decision-making
+KW  - adversarial attacks
+KW  - Risk assessment
+KW  - Network security
+KW  - AI-powered cybercrime
+KW  - big data
+KW  - Cybe threat intelligence
+KW  - Cyber attacks
+KW  - Cyber threats
+KW  - Cyber-crimes
+KW  - ethical AI
+KW  - explainable AI (XAI)
+KW  - Explainable AI (XAI)
+KW  - governance
+KW  - Governance
+KW  - incident response
+KW  - Incident response
+KW  - Public policy
+KW  - Random processes
+KW  - security analytics
+KW  - Security Analytics
+KW  - threat detection
+KW  - Threat detection
+ER  - 
+
+TY  - JOUR
+TI  - Large language model agents for biomedicine: A comprehensive review of methods, evaluations, challenges, and future directions
+AU  - Xu, X.
+AU  - Sankar, R.
+T2  - Information (Switzerland)
+AB  - Large language model (LLM)-based agents are rapidly emerging as transformative tools across biomedical research and clinical applications. By integrating reasoning, planning, memory, and tool use capabilities, these agents go beyond static language models to operate autonomously or collaboratively within complex healthcare settings. This review provides a comprehensive survey of biomedical LLM agents, spanning their core system architectures, enabling methodologies, and real-world use cases such as clinical decision making, biomedical research automation, and patient simulation. We further examine emerging benchmarks designed to evaluate agent performance under dynamic, interactive, and multimodal conditions. In addition, we systematically analyze key challenges, including hallucinations, interpretability, tool reliability, data bias, and regulatory gaps, and discuss corresponding mitigation strategies. Finally, we outline future directions in areas such as continual learning, federated adaptation, robust multi-agent coordination, and human AI collaboration. This review aims to establish a foundational understanding of biomedical LLM agents and provide a forward-looking roadmap for building trustworthy, reliable, and clinically deployable intelligent systems. © 2025 by the authors.
+DA  - 2025///
+PY  - 2025
+DO  - 10.3390/info16100894
+VL  - 16
+IS  - 10
+J2  - Information
+LA  - English
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105020025225&doi=10.3390%2Finfo16100894&partnerID=40&md5=edfb782285affcdc3d7b0299914625b6
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 1; Correspondence Address: R. Sankar; Department of Electrical Engineering, University of South Florida, Tampa, 33620, United States; email: sankar@usf.edu</p>
+KW  - large language models
+KW  - Decision making
+KW  - Language model
+KW  - Large language model
+KW  - Intelligent agents
+KW  - Autonomous agents
+KW  - Model agents
+KW  - Model-based OPC
+KW  - Multi agent systems
+KW  - Multiagent systems (MASs)
+KW  - Information use
+KW  - Benchmarking
+KW  - Bioinformatics
+KW  - Biomedical agent
+KW  - Biomedical research
+KW  - Clinical research
+KW  - Method evaluation
+KW  - Tool-augmented reasoning
+KW  - Trustworthiness AI
+KW  - multi-agent systems
+KW  - biomedical agents
+KW  - tool-augmented reasoning
+KW  - trustworthiness AI
+ER  - 
+
+TY  - JOUR
+TI  - Leveraging large language models in next generation intelligent manufacturing: Retrospect and prospect
+AU  - Ma, Y.
+AU  - Zheng, S.
+AU  - Yang, Z.
+AU  - Zheng, P.
+AU  - Leng, J.
+AU  - Hong, J.
+T2  - Journal of Manufacturing Systems
+AB  - Industry 5.0, as the guiding ideology of the new generation intelligent manufacturing, points the way for global industrial transformation. It emphasizes the collaborative cooperation between humans, machines and intelligent systems, and places humans at the core of the industrial production process, aiming to create a more flexible, personalized and sustainable production paradigm. Large language model, as an advanced natural language processing technology, has received attention from researchers related to Industry 5.0 due to its ease of use and powerful language processing capability. LLM is considered to be one of the key enabling technologies to drive the development of Industry 5.0 and has great application potential. After a rigorous review of existing approaches, we find there is few existing survey papers that focuses on how LLM will drive the development of Industry 5.0 applications. Therefore, this paper provides a comprehensive review of the application of LLM in the field of Industry 5.0. Firstly, we conduct a literature review to explore the current state of research related to Industry 5.0. Subsequently, we analyze LLM-based technologies, synergizing LLMs with Industry 5.0 enablers and the applications of LLM in various domains of intelligent manufacturing. Finally, we explore the challenges of LLM in real-world scenarios and future research directions in the context of Industry 5.0. It is hoped that this study will contribute to the further development of LLM-based solutions in the context of Industry 5.0 and unite various efforts to achieve the vision of Industry 5.0. © 2025 The Society of Manufacturing Engineers
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.jmsy.2025.07.019
+VL  - 82
+SP  - 809
+EP  - 840
+J2  - J Manuf Syst
+LA  - English
+PB  - Elsevier B.V.
+SN  - 02786125 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105012384960&doi=10.1016%2Fj.jmsy.2025.07.019&partnerID=40&md5=5d99c28e144d715b394cc6a84def2a76
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 3; Correspondence Address: S. Zheng; School of Software Engineering, Xi'an Jiaotong University, Xi'an, Shannxi, 710049, China; email: shuaizheng@xjtu.edu.cn; CODEN: JMSYE</p>
+KW  - Intelligent Manufacturing
+KW  - Industry 5.0
+KW  - Language model
+KW  - Large language model
+KW  - Human-robot collaboration
+KW  - Intelligent robots
+KW  - Smart manufacturing
+KW  - Language processing
+KW  - Natural language processing systems
+KW  - Human-machine
+KW  - Intelligent systems
+KW  - Industry 4.0
+KW  - Human–robot collaboration
+KW  - Industrial research
+KW  - Flexible manufacturing systems
+KW  - Human centered intelligent manufacturing
+KW  - Industrial production
+KW  - Industrial transformations
+ER  - 
+
+TY  - JOUR
+TI  - Large language models for structured and semi-structured data, recommender systems and knowledge base engineering: A survey of recent techniques and architectures
+AU  - Smajić, A.
+AU  - Karlović, R.
+AU  - Bobanović Dasko, M.
+AU  - Lorencin, I.
+T2  - Electronics (Switzerland)
+AB  - Large Language Models (LLMs) are reshaping recommendation systems through enhanced language understanding, reasoning, and integration with structured data. This systematic review analyzes 88 studies published between 2023 and 2025, categorized into three thematic areas: data processing, technical identification, and LLM-based recommendation architectures. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, the review highlights key trends such as the use of knowledge graphs, Retrieval-Augmented Generation (RAG), domain-specific fine-tuning, and robustness improvements. Findings reveal that while LLMs significantly advance semantic reasoning and personalization, challenges remain in hallucination mitigation, fairness, and domain adaptation. Technical innovations, including graph-augmented retrieval methods and human-in-the-loop validation, show promise in addressing these limitations. The review also considers the broader macroeconomic implications associated with the deployment of LLM-based systems, particularly as they relate to scalability, labor dynamics, and resource-intensive implementation in real-world recommendation contexts, emphasizing both productivity gains and potential labor market shifts. This work provides a structured overview of current methods and outlines future directions for developing reliable and efficient LLM-based recommendation systems. © 2025 by the authors.
+DA  - 2025///
+PY  - 2025
+DO  - 10.3390/electronics14153153
+VL  - 14
+IS  - 15
+J2  - Electronics (Switzerland)
+LA  - English
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105013266528&doi=10.3390%2Felectronics14153153&partnerID=40&md5=15653bfbe843b4e086a0d1bf141c7412
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 2; Correspondence Address: I. Lorencin; Faculty of Informatics, Juraj Dobrila University of Pula, Pula, Alda Negrija 6, 52100, Croatia; email: ivan.lorencin@unipu.hr</p>
+KW  - Prompt engineering
+KW  - Semantics
+KW  - Language model
+KW  - Large language model
+KW  - Model-based OPC
+KW  - Search engines
+KW  - Data mining
+KW  - Knowledge graph
+KW  - Systematic Review
+KW  - Recommender systems
+KW  - Data handling
+KW  - Employment
+KW  - Information extraction
+KW  - Knowledge-base engineerings
+KW  - Retrieval-augmented generation
+KW  - Semistructured data
+KW  - Vector database
+KW  - prompt engineering
+KW  - recommender systems
+KW  - large language models (LLMs)
+KW  - Retrieval-Augmented Generation (RAG)
+KW  - information extraction
+KW  - vector databases
+ER  - 
+
+TY  - JOUR
+TI  - A survey of large language model-augmented knowledge graphs for advanced complex product design
+AU  - Liang, X.
+AU  - Wang, Z.
+AU  - Liu, J.
+T2  - Journal of Manufacturing Systems
+AB  - In the Human-AI collaboration rapid development era, the design and development of knowledge-intensive complex products should enable the design process with the help of advanced AI technology, and enhance the reasoning and application of design domain knowledge. Extracting and reusing domain knowledge would greatly facilitate the success of complex product design. Knowledge graphs (KGs), a powerful knowledge representation and storage technology, have been widely deployed in advanced complex product design because of their advantages in mining and applying large-scale, complex, and specialized domain knowledge. But merely KG and its related reasoning approaches still cannot fully support the ill-defined product design tasks. In the future complex product design, Human-AI collaboration will become a mainstream prevention trend. Large language models (LLMs) have outstanding performance in natural language understanding and generation, showing promising potential to collaborate with KGs in complex product design and development. Till 2024/03/04, only a few studies have systematically reviewed the current status of LLM and KG applications in the engineering field, not to mention a further detailed review in the complex product design field, leaving many issues not covered or fully examined. To fill this gap, 100 articles published in the last 4 years (i.e., 2021–2024) were screened and surveyed. This study provides a statistical analysis of the screened research articles, mainstream techniques of LLM & KG, and LLM & KG applications were analyze. To understand how KG and LLM could support complex product design, a framework of LLMs-augmented KG in advanced complex product design was proposed, which contains data layer, KG & LLM collaboration layer, enhanced design capability layer, and design task layer. Furthermore, we also discussed the challenges and future research directions of the LLM-KG-collaborated complex product design paradigm. As an exploratory review paper, it provides insightful ideas for implementing more specialized domain KGs in product design field. © 2025 The Society of Manufacturing Engineers
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.jmsy.2025.04.016
+VL  - 80
+SP  - 883
+EP  - 901
+J2  - J Manuf Syst
+LA  - English
+PB  - Elsevier B.V.
+SN  - 02786125 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105003951309&doi=10.1016%2Fj.jmsy.2025.04.016&partnerID=40&md5=424b5018062168a69f00c505836c1c58
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 8; Correspondence Address: Z. Wang; School of Mechanical Engineering and Automation, Beihang University, Beijing, China; email: Zuoxu_Wang@buaa.edu.cn; CODEN: JMSYE</p>
+KW  - Complex Product Design
+KW  - Intelligent Manufacturing
+KW  - Knowledge Graph
+KW  - Large Language Model
+KW  - Language model
+KW  - Large language model
+KW  - Knowledge graphs
+KW  - Knowledge graph
+KW  - Domain knowledge
+KW  - Intellectual property core
+KW  - Model knowledge
+KW  - Complex products
+KW  - Complex product design
+KW  - Design and Development
+KW  - Design tasks
+KW  - Image representation
+KW  - Integrated circuit layout
+ER  - 
+
+TY  - JOUR
+TI  - Applications of large language models in the field of suicide prevention: Scoping review
+AU  - Holmes, G.
+AU  - Tang, B.
+AU  - Gupta, S.
+AU  - Venkatesh, S.
+AU  - Christensen, H.
+AU  - Whitton, A.
+T2  - Journal of Medical Internet Research
+AB  - Background: Prevention of suicide is a global health priority. Approximately 800,000 individuals die by suicide yearly, and for every suicide death, there are another 20 estimated suicide attempts. Large language models (LLMs) hold the potential to enhance scalable, accessible, and affordable digital services for suicide prevention and self-harm interventions. However, their use also raises clinical and ethical questions that require careful consideration. Objective: This scoping review aims to identify emergent trends in LLM applications in the field of suicide prevention and self-harm research. In addition, it summarizes key clinical and ethical considerations relevant to this nascent area of research. Methods: Searches were conducted in 4 databases (PsycINFO, Embase, PubMed, and IEEE Xplore) in February 2024. Eligible studies described the application of LLMs for suicide or self-harm prevention, detection, or management. English-language peer-reviewed articles and conference proceedings were included, without date restrictions. Narrative synthesis was used to synthesize study characteristics, objectives, models, data sources, proposed clinical applications, and ethical considerations. This review adhered to the PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) standards. Results: Of the 533 studies identified, 36 (6.8%) met the inclusion criteria. An additional 7 studies were identified through citation chaining, resulting in 43 studies for review. The studies showed a bifurcation of publication fields, with varying publication norms between computer science and mental health. While most of the studies (33/43, 77%) focused on identifying suicide risk, newer applications leveraging generative functions (eg, support, education, and training) are emerging. Social media was the most common source of LLM training data. Bidirectional Encoder Representations from Transformers (BERT) was the predominant model used, although generative pretrained transformers (GPTs) featured prominently in generative applications. Clinical LLM applications were reported in 60% (26/43) of the studies, often for suicide risk detection or as clinical assistance tools. Ethical considerations were reported in 33% (14/43) of the studies, with privacy, confidentiality, and consent strongly represented. Conclusions: This evolving research area, bridging computer science and mental health, demands a multidisciplinary approach. While open access models and datasets will likely shape the field of suicide prevention, documenting their limitations and potential biases is crucial. High-quality training data are essential for refining these models and mitigating unwanted biases. Policies that address ethical concerns—particularly those related to privacy and security when using social media data—are imperative. Limitations include high variability across disciplines in how LLMs and study methodology are reported. The emergence of generative artificial intelligence signals a shift in approach, particularly in applications related to care, support, and education, such as improved crisis care and gatekeeper training methods, clinician copilot models, and improved educational practices. Ongoing human oversight—through human-in-the-loop testing or expert external validation—is essential for responsible development and use. © Glenn Holmes, Biya Tang, Sunil Gupta, Svetha Venkatesh, Helen Christensen, Alexis Whitton.
+DA  - 2025///
+PY  - 2025
+DO  - 10.2196/63126
+VL  - 27
+J2  - J. Med. Internet Res.
+LA  - English
+PB  - JMIR Publications Inc.
+SN  - 14388871 (ISSN); 14394456 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85215975831&doi=10.2196%2F63126&partnerID=40&md5=08ae1f184071122a5d14a96ace437277
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 12; Correspondence Address: A. Whitton; Black Dog Institute, University of New South Wales, Sydney, Randwick, Australia; email: a.whitton@unsw.edu.au</p>
+KW  - large language model
+KW  - artificial intelligence
+KW  - human
+KW  - Humans
+KW  - social media
+KW  - generative pretrained transformer
+KW  - automutilation
+KW  - education
+KW  - English (language)
+KW  - mental health
+KW  - Review
+KW  - suicide
+KW  - suicide prevention
+KW  - Suicide Prevention
+KW  - systematic review
+KW  - AI
+KW  - PRISMA
+KW  - self-harm
+ER  - 
+
+TY  - JOUR
+TI  - Knowledge-practice performance gap in clinical large language models: Systematic review of 39 benchmarks
+AU  - Gong, E.J.
+AU  - Bang, C.S.
+AU  - Lee, J.J.
+AU  - Baik, G.H.
+T2  - Journal of Medical Internet Research
+AB  - Background: The evaluation of large language models (LLMs) in medicine has undergone a shift from knowledge-based testing to practice-based assessment, representing an evolution in how we measure artificial intelligence readiness for clinical deployment. While LLMs now routinely exceed human performance on medical licensing examinations, their translation to clinical practice remains poorly characterized. Objective: This systematic review aims to categorize and analyze medical LLM benchmarks, examining performance patterns across different evaluation paradigms and identifying gaps in current assessment methodologies. Methods: The protocol was registered at PROSPERO (CRD420251139729). Four databases (MEDLINE/PubMed, Embase/Ovid, Cochrane Library, and arXiv) were searched from inception to August 31, 2025, using keywords related to clinical medicine benchmarks in LLMs. Studies were included if they (1) investigated clinical medicine benchmarks in LLMs, (2) were published in English, and (3) were available in full-text. Studies were excluded if they evaluated nonmedical domains or lacked benchmark validation. Methodological quality was assessed using the Mixed Methods Appraisal Tool (version 2018) by 2 independent reviewers (κ=0.91). Due to heterogeneity in evaluation metrics preventing meta-analysis, narrative synthesis was conducted using structured categorization of benchmark types. Results: From 3917 screened records, 39 medical LLM benchmarks were identified and categorized into 21 (54%) knowledge-based, 15 (38%) practice-based, and 3 (8%) hybrid frameworks. These benchmarks collectively encompass over 2.3 million questions across 45 languages and 172 medical specialties. Traditional knowledge-based benchmarks show saturation with leading models achieving 84%-90% accuracy on USMLE (United States Medical Licensing Examination)–style examinations, approaching or exceeding average physician performance. However, practice-based assessments reveal performance challenges, with specific benchmarks showing varied results: DiagnosisArena 45.82% (95% CI 42.9%-48.8%), MedAgentBench 69.67% (95% CI 64.2%-74.6%), and HealthBench 60% (95% CI 58.6%-61.3%) success rates, with practice-based benchmarks showing lower performance (45%-69%) compared to knowledge benchmarks (84%-90%). Task-specific analysis revealed differential performance patterns: factual retrieval maintained 85%-93% accuracy, clinical reasoning dropped to 50%-60%, diagnostic tasks achieved 45%-55% success, and safety assessment showed significant gaps at 40%-50% accuracy despite being life-critical. Geographic representation spans 6 continents with 18 (46%) benchmarks, incorporating non-English content. Quality assessment revealed 26% (10/39) of benchmarks had insufficient methodological reporting for complete evaluation. Conclusions: This systematic review provides the first comprehensive analysis quantifying the significant “knowledge-practice gap” in medical artificial intelligence: high performance on knowledge-based examinations (84%-90%) does not translate to clinical competence (45%-69%), with safety assessments at 40%-50%. Our findings provide quantitative evidence for regulators and health systems that examination scores are insufficient and misleading proxies for clinical readiness. This review concludes that autonomous deployment is not currently justifiable and that all evidence-based implementation strategies must mandate practice-oriented validation and robust human-in-the-loop oversight to ensure patient safety. ©Eun Jeong Gong, Chang Seok Bang, Jae Jun Lee, Gwang Ho Baik.
+DA  - 2025///
+PY  - 2025
+DO  - 10.2196/84120
+VL  - 27
+J2  - J. Med. Internet Res.
+LA  - English
+PB  - JMIR Publications Inc.
+SN  - 14388871 (ISSN); 14394456 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105023453613&doi=10.2196%2F84120&partnerID=40&md5=7679e3905d99ccd05060f80d09513989
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 0; Correspondence Address: C.S. Bang; Department of Internal Medicine, Hallym University College of Medicine, Chuncheon, Gangwon, South Korea; email: csbang@hallym.ac.kr</p>
+KW  - large language model
+KW  - artificial intelligence
+KW  - Large Language Models
+KW  - language
+KW  - human
+KW  - Humans
+KW  - LLM
+KW  - benchmarking
+KW  - Cochrane Library
+KW  - Benchmarking
+KW  - Language
+KW  - clinical competence
+KW  - Clinical Competence
+KW  - Artificial Intelligence
+KW  - information retrieval
+KW  - systematic review
+KW  - quality control
+KW  - benchmark
+KW  - clinical practice
+KW  - clinical reasoning
+KW  - physician
+KW  - knowledge
+KW  - clinical medicine
+KW  - evidence based practice
+KW  - licensing
+KW  - meta analysis
+KW  - patient safety
+KW  - practice gap
+KW  - review
+KW  - safety assessment
+ER  - 
+
+TY  - JOUR
+TI  - Leveraging large language models for thematic analysis: A case study in the charity sector
+AU  - Wen, C.
+AU  - Clough, P.
+AU  - Paton, R.
+AU  - Middleton, R.
+T2  - AI and Society
+AB  - This study explores how large language models (LLMs) can support deductive and inductive thematic coding in real-life contexts, balancing AI-driven efficiency with essential human oversight. Using three datasets from Tearfund, a UK-based Christian charity, we propose a dual-role human–LLM collaborative framework where the LLM functions as an initial annotator and a validator. In the deductive phase, GPT-4o and GPT-4o-mini were compared against human coders. GPT-4o achieved a substantial agreement in multi-label thematic categorization (κ = 0.61–0.65), while GPT-4o-mini showed a moderate agreement (κ = 0.41–0.58). Both models excelled in sentiment analysis (κ = 0.91–0.95), but struggled with evaluating evidence of impact due to contextual complexity (κ ≤ 0.01). GPT-4o-mini exhibited greater output variability and instability than GPT-4o, but benefited more from few-shot learning to mitigate hallucinations. In the inductive phase, GPT-4o demonstrated a strong semantic alignment with human-generated themes (cosine similarity = 0.76–0.79) though its tendency toward broad themes required human refinement. Despite their potential to streamline thematic analysis, LLMs also pose limitations and implementation challenges, including inconsistencies in excerpt extraction (precision = 0.41, recall = 0.53) and the trade-off between the time saved in coding and the time required for human validation. To facilitate practical implementation, we provide reusable prompt templates for four stages: context, instructions, data processing, and verification. Our findings underline the indispensable role of human expertise—from prompt engineering and managing hallucinations to final verification—to ensure accurate and trustworthy AI-assisted analyses. While LLMs can enhance qualitative analysis, their full potential is only realized under skilled human guidance. © The Author(s) 2025.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1007/s00146-025-02487-4
+J2  - AI Soc.
+LA  - English
+PB  - Springer Science and Business Media Deutschland GmbH
+SN  - 09515666 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-105013507441&doi=10.1007%2Fs00146-025-02487-4&partnerID=40&md5=9eba5bf75ff464e28b5453b1d13a37cd
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 0; Correspondence Address: P. Clough; University of Sheffield, Sheffield, United Kingdom; email: p.d.clough@sheffield.ac.uk</p>
+KW  - Large language models (LLMs)
+KW  - Prompt engineering
+KW  - Semantics
+KW  - Generative AI
+KW  - Language model
+KW  - Large language model
+KW  - Computational linguistics
+KW  - Data mining
+KW  - Codes (symbols)
+KW  - Thematic analysis
+KW  - Case-studies
+KW  - Computer software reusability
+KW  - Economic and social effects
+KW  - Human oversight
+KW  - Christians
+KW  - GPT-4o
+KW  - Real-life contexts
+KW  - Sentiment analysis
+KW  - Generative AI (GenAI)
+ER  - 
+
+TY  - JOUR
+TI  - The transformative impact of large language models on medical writing and publishing: Current applications, challenges and future directions
+AU  - Ahn, S.
+T2  - Korean Journal of Physiology and Pharmacology
+AB  - Large language models (LLMs) are rapidly transforming medical writing and publishing. This review article focuses on experimental evidence to provide a comprehensive overview of the current applications, challenges, and future implications of LLMs in various stages of academic research and publishing process. Global surveys reveal a high prevalence of LLM usage in scientific writing, with both potential benefits and challenges associated with its adoption. LLMs have been successfully applied in literature search, research design, writing assistance, quality assessment, citation generation, and data analysis. LLMs have also been used in peer review and publication processes, including manuscript screening, generating review comments, and identifying potential biases. To ensure the integrity and quality of scholarly work in the era of LLM-assisted research, responsible artificial intelligence (AI) use is crucial. Researchers should prioritize verifying the accuracy and reliability of AI-generated content, maintain transparency in the use of LLMs, and develop collaborative human-AI workflows. Reviewers should focus on higher-order reviewing skills and be aware of the potential use of LLMs in manuscripts. Editorial offices should develop clear policies and guidelines on AI use and foster open dialogue within the academic community. Future directions include addressing the limitations and biases of current LLMs, exploring innovative applications, and continuously updating policies and practices in response to technological advancements. Collaborative efforts among stakeholders are necessary to harness the transformative potential of LLMs while maintaining the integrity of medical writing and publishing. © © Korean J Physiol Pharmacol,
+DA  - 2024///
+PY  - 2024
+DO  - 10.4196/kjpp.2024.28.5.393
+VL  - 28
+IS  - 5
+SP  - 393
+EP  - 401
+J2  - Korean J. Physiol. Pharmacol.
+LA  - English
+PB  - Korean Physiological Soc. and Korean Soc. of Pharmacology
+SN  - 12264512 (ISSN)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85203299264&doi=10.4196%2Fkjpp.2024.28.5.393&partnerID=40&md5=6b016b1827e670c3f0d73402e3bc84ac
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 17; Correspondence Address: S. Ahn; Department of Pharmacology and PharmacoGenomics Research Center, Inje University College of Medicine, Busan, 47392, South Korea; email: sangzinahn@inje.ac.kr; CODEN: KJPPF</p>
+KW  - large language model
+KW  - Artificial intelligence
+KW  - human
+KW  - prevalence
+KW  - ChatGPT
+KW  - Review
+KW  - data analysis
+KW  - methodology
+KW  - citation analysis
+KW  - data accuracy
+KW  - medical literature
+KW  - peer review
+KW  - productivity
+KW  - publication
+KW  - publishing
+KW  - quality control
+KW  - reading
+KW  - responsible artificial intelligence
+KW  - writing
+KW  - Ethics, research
+KW  - Medical writing
+KW  - Scholarly communication
+KW  - Scientific misconduct
+ER  - 
+
+TY  - JOUR
+TI  - Human–AI collaboration for remote sighted assistance: Perspectives from the LLM era †
+AU  - Yu, R.
+AU  - Lee, S.
+AU  - Xie, J.
+AU  - Billah, S.M.
+AU  - Carroll, J.M.
+T2  - Future Internet
+AB  - Remote sighted assistance (RSA) has emerged as a conversational technology aiding people with visual impairments (VI) through real-time video chat communication with sighted agents. We conducted a literature review and interviewed 12 RSA users to understand the technical and navigational challenges faced by both agents and users. The technical challenges were categorized into four groups: agents’ difficulties in orienting and localizing users, acquiring and interpreting users’ surroundings and obstacles, delivering information specific to user situations, and coping with poor network connections. We also presented 15 real-world navigational challenges, including 8 outdoor and 7 indoor scenarios. Given the spatial and visual nature of these challenges, we identified relevant computer vision problems that could potentially provide solutions. We then formulated 10 emerging problems that neither human agents nor computer vision can fully address alone. For each emerging problem, we discussed solutions grounded in human–AI collaboration. Additionally, with the advent of large language models (LLMs), we outlined how RSA can integrate with LLMs within a human–AI collaborative framework, envisioning the future of visual prosthetics. © 2024 by the authors.
+DA  - 2024///
+PY  - 2024
+DO  - 10.3390/fi16070254
+VL  - 16
+IS  - 7
+J2  - Future Internet
+LA  - English
+PB  - Multidisciplinary Digital Publishing Institute (MDPI)
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85199646731&doi=10.3390%2Ffi16070254&partnerID=40&md5=b63c17de798576fdcb238b70d228b8f0
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 9; Correspondence Address: R. Yu; Department of Computer Science and Engineering, University of Louisville, Louisville, 40208, United States; email: rui.yu@louisville.edu; J.M. Carroll; College of Information Sciences and Technology, Pennsylvania State University, University Park, 16802, United States; email: jmc56@psu.edu</p>
+KW  - large language models
+KW  - artificial intelligence
+KW  - Language model
+KW  - Large language model
+KW  - Computational linguistics
+KW  - Visual languages
+KW  - Literature reviews
+KW  - Human–AI collaboration
+KW  - Computer vision
+KW  - Conversational assistance
+KW  - Conversational technologies
+KW  - Indoor positioning systems
+KW  - People with visual impairment
+KW  - Real time videos
+KW  - Remote sighted assistance
+KW  - Visual impairment
+KW  - computer vision
+KW  - human–AI collaboration
+KW  - conversational assistance
+KW  - people with visual impairments
+KW  - remote sighted assistance
+ER  - 
+
+TY  - JOUR
+TI  - Advancing the democratization of generative artificial intelligence in healthcare: A narrative review
+AU  - Chen, A.
+AU  - Liu, L.
+AU  - Zhu, T.
+T2  - Journal of Hospital Management and Health Policy
+AB  - Background and Objective: The emergence of ChatGPT-like generative artificial intelligence (GenAI) has dramatically transformed the healthcare landscape, bringing new hope for the democratization of artificial intelligence (AI) in healthcare—a topic that has not been comprehensively reviewed. This review aims to analyze the reasons propelling the democratization of healthcare GenAI, outline the initial evidence in the literature, and propose future directions to advance GenAI democratization. Methods: We conducted a deep literature search for GenAI studies using Google Scholar, PubMed, ChatGPT, Journal of the American Medical Association (JAMA), Nature, Springer Link, and Journal of Medical Internet Research (JMIR). We performed an abstraction analysis on the nature of GenAI versus traditional AI and the applications of GenAI in medical education and clinical care. Key Content and Findings: (I) A detailed comparison of traditional and GenAI in healthcare reveals that large language model (LLM)-based GenAI’s unprecedent general-purpose capabilities and natural language interaction ability, coupled with its free public availability, make GenAI ideal for democratization in healthcare. (II) We have identified plenty of initial evidence for GenAI democratization in medical education and clinical care, marking the start of the emerging trend of GenAI democratization in a host of impactful applications. Applications in medical education include medical exam preparation, medical teaching and training, and simulation. Applications in clinical care include diagnosis assistance, disease risk prediction, new generalist chatbots, treatment decision support, surgery support, medical image analysis, patient communication, physician communication, documentation automation, clinical trial automation, informatics tasks automation, and specialized or custom LLMs. (III) Responsible AI is essential for the future of healthcare GenAI. National initiatives and regulatory efforts are working to ensure safety, efficacy, accountability, equity, security and privacy are built into healthcare GenAI. Responsible GenAI requires a human-machine collaboration approach, where AI augments human expertise rather than replaces it. Conclusions: The democratization of GenAI in healthcare has just begun, driven by the nature of GenAI and guided by the principle of human-machine collaboration. To further advance GenAI democratization, we propose three key future directions: integrating GenAI in medical education curricula, democratizing GenAI clinical evaluation research, and building learning health systems (LHS) with GenAI for system-level enforcement of democratization. Democratizing GenAI in healthcare will revolutionize medicine and significantly impact care delivery and health policies. © Journal of Hospital Management and Health Policy. All rights reserved.
+DA  - 2024///
+PY  - 2024
+DO  - 10.21037/jhmhp-24-54
+VL  - 8
+J2  - J. Hosp. Manag. Health. Policy.
+LA  - English
+PB  - AME Publishing Company
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85197036816&doi=10.21037%2Fjhmhp-24-54&partnerID=40&md5=9a03df8a948edeff091daa1fb5639caf
+DB  - Scopus
+N1  - <p>Export Date: 16 January 2026; Cited By: 22; Correspondence Address: A. Chen; ELHS Institute, Palo Alto, United States; email: aj@elhsi.org</p>
+KW  - ChatGPT
+KW  - healthcare
+KW  - Generative AI (GenAI)
+KW  - AI democratization
+KW  - learning health system (LHS)
+ER  - 
+
+TY  - JOUR
+TI  - S2AF: An action framework to self-check the understanding self-consistency of large language models
+AU  - Shao, Huihui
+AU  - Wang, Fanyu
+AU  - Xie, Zhenping
+T2  - Neural Networks
+AB  - Large Language Models (LLMs), which are trained on massive text data, have demonstrated remarkable advancements in language understanding capabilities. Nevertheless, it remains unclear to what extent LLMs have effectively captured and utilized the implicit relationships inherent in the text. This study introduces ‘Understanding Self-Consistency’, a new perspective that reflects LLMs’ ability to grasp in-depth knowledge relationships through their consistency performance. Specifically, Understanding Self-Consistency refers to the model’s capacity to maintain logical and contextual consistency between inputs and responses. Inspired by human cognitive behavior, we design a self-check action framework named S2AF. Wherein, a self-question and answering mechanism is emphasized and forms a logically closed loop including four classes of actions, allowing our S2AF to generate, question, answer, and evaluate autonomously. Experimental results on six LLMs across two datasets show that LLMs exhibit objective ability values of the understanding self-consistency and demonstrate their differentiated grasp of knowledge relationships across different reasoning paradigms. Moreover, our findings reveal that LLMs’ performance can be improved with their own outputs (which we call ‘self-enhanced Feedforward’). Notably, S2AF merely relies on factual logical relationships, showcasing its potential to advance the development of embodied artificial intelligence (EAI).
+DA  - 2025/07/01/
+PY  - 2025
+DO  - 10.1016/j.neunet.2025.107365
+VL  - 187
+SP  - 107365
+J2  - Neural Networks
+SN  - 0893-6080
+UR  - https://www.sciencedirect.com/science/article/pii/S0893608025002448
+KW  - Large language models
+KW  - Grasp of knowledge relationships
+KW  - Self-check
+KW  - Self-consistency
+KW  - Self-question and answering
+ER  - 
+
+TY  - JOUR
+TI  - HealthCare 5.0: An industry 5.0 perspective for next-generation medical systems with synergistic integration of IoT, AI, and 6G
+AU  - Younesi, Abolfazl
+AU  - Oustad, Elyas
+AU  - Ansari, Mohsen
+AU  - Fahringer, Thomas
+AU  - Buyya, Rajkumar
+T2  - Internet of Things
+AB  - The rising demand for personalized, reliable, and sustainable health services requires a significant shift beyond current technology barriers. This paper introduces HealthCare 5.0, a transformative vision for next-generation medical systems. It brings the Internet of Things (IoT), Artificial Intelligence (AI), and 6G communications together under the human-centered, sustainable, and resilient principles of Industry 5.0. HealthCare 5.0 showcases the convergence of IoT for continuous health monitoring, AI for intelligent reasoning, and 6G for dependable, low-latency connectivity. These elements work together to provide real-time, personalized, and proactive care. The analysis looks into how this collaboration supports advancements like remote diagnostics, digital twins, federated learning, explainable AI (XAI), and medical large language models (MedLLMs). It also addresses challenges in interoperability, energy efficiency, data privacy, and ethical AI. The framework stresses the importance of digital twins, ambient sensing, and wearable devices in facilitating predictive and patient-centered care. Despite progress, there are still gaps in standardization, clinician adoption, and the ethical use of these technologies. To overcome these issues, we propose a complete approach that combines IoT, AI, and 6G based on Industry 5.0 principles. This closed-loop model of “sense, transmit, reason, act” is backed by key performance indicators, real-world case studies, and a roadmap for compliance and regulatory support. By merging innovation with human values and systemic resilience, HealthCare 5.0 offers a forward-thinking plan for smart, safe, and fair healthcare systems.
+DA  - 2026/01/01/
+PY  - 2026
+DO  - 10.1016/j.iot.2025.101815
+VL  - 35
+SP  - 101815
+J2  - Internet of Things
+SN  - 2542-6605
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660525003294
+KW  - Artificial intelligence
+KW  - Industry 5.0
+KW  - HealthCare 5.0
+KW  - 6G communication
+KW  - Internet of things
+KW  - Medical large language models (MedLLMs)
+ER  - 
+
+TY  - JOUR
+TI  - Humanoid dexterous hands from structure to gesture semantics for enhanced human–robot interaction: A review
+AU  - Li, Xin
+AU  - Xu, Wenfu
+AU  - Ye, Zaiqiao
+AU  - Yuan, Han
+T2  - Biomimetic Intelligence and Robotics
+AB  - As human–robot interaction (HRI) technology advances, dexterous robotic hands are playing a dual role—serving both as tools for manipulation and as channels for non-verbal communication. While much of the existing research emphasizes improving grasping and structural dexterity, the semantic dimension of gestures and its impact on user experience has been relatively overlooked. Studies from HRI and cognitive psychology consistently show that the naturalness and cognitive empathy of gestures significantly influence user trust, satisfaction, and engagement. This shift reflects a broader transition from mechanically driven designs toward cognitively empathic interactions — robots’​ ability to infer human affect, intent, and social context to generate appropriate nonverbal responses. In this paper, we argue that large language models (LLMs) enable a paradigm shift in gesture control — from rule-based execution to semantic-driven, context-aware generation. By leveraging LLMs and visual-language models, robots can interpret environmental and social cues, dynamically map emotions, and generate gestures aligned with human communication norms. We conducted a comprehensive review of research in dexterous hand mechanics, gesture semantics, and user experience evaluation, integrating insights from linguistics and cognitive science. Furthermore, we propose a closed-loop framework — “perception–cognition–generation–assessment” — to guide gesture design through iterative, multimodal feedback. This framework lays the conceptual foundation for building universal, adaptive, and emotionally intelligent gesture systems in future human–robot interaction.
+DA  - 2025/12/01/
+PY  - 2025
+DO  - 10.1016/j.birob.2025.100258
+VL  - 5
+IS  - 4
+SP  - 100258
+J2  - Biomimetic Intelligence and Robotics
+SN  - 2667-3797
+UR  - https://www.sciencedirect.com/science/article/pii/S266737972500049X
+KW  - Large language models
+KW  - Gesture
+KW  - Communication
+KW  - Dexterous hand
+KW  - Human–robot interaction (HRI)
+ER  - 
+
+TY  - JOUR
+TI  - Toward large reasoning models: A survey of reinforced reasoning with large language models
+AU  - Xu, Fengli
+AU  - Hao, Qianyue
+AU  - Shao, Chenyang
+AU  - Zong, Zefang
+AU  - Li, Yu
+AU  - Wang, Jingwei
+AU  - Zhang, Yunke
+AU  - Wang, Jingyi
+AU  - Lan, Xiaochong
+AU  - Gong, Jiahui
+AU  - Ouyang, Tianjian
+AU  - Meng, Fanjin
+AU  - Yan, Yuwei
+AU  - Yang, Qinglong
+AU  - Song, Yiwen
+AU  - Ren, Sijian
+AU  - Hu, Xinyuan
+AU  - Feng, Jie
+AU  - Gao, Chen
+AU  - Li, Yong
+T2  - Patterns
+AB  - Summary
+Language has long been an essential tool for human reasoning. The rise of large language models (LLMs) has led to research on their application in complex reasoning tasks. Researchers are exploring the concept of “thought,” which represents intermediate reasoning steps, allowing LLMs to emulate humanlike reasoning processes. Recent work has applied reinforcement learning (RL) to train LLMs by searching for high-quality reasoning trajectories through trial-and-error exploration. In parallel, studies also demonstrate that allowing LLMs to “think” with longer chains of intermediate tokens at test time can also substantially improve reasoning accuracy. The combination of training and test-time advancements outlines a path toward large reasoning models. This survey reviews recent progress in LLM reasoning. It covers foundational concepts behind LLMs and the key technical components that contribute to the development of large reasoning models, and it highlights popular open-source projects for building these models. The survey concludes by discussing ongoing challenges and future research directions in this field.
+DA  - 2025/10/10/
+PY  - 2025
+DO  - 10.1016/j.patter.2025.101370
+VL  - 6
+IS  - 10
+SP  - 101370
+J2  - Patterns
+SN  - 2666-3899
+UR  - https://www.sciencedirect.com/science/article/pii/S2666389925002181
+KW  - large language model
+KW  - LLM
+KW  - LLM reasoning
+KW  - reinforcement learning
+KW  - neural scaling law
+ER  - 
+
+TY  - JOUR
+TI  - Large language models and their applications in roadway safety and mobility enhancement: A comprehensive review
+AU  - Karim, Muhammad Monjurul
+AU  - Shi, Yan
+AU  - Zhang, Shucheng
+AU  - Wang, Bingzhang
+AU  - Nasri, Mehrdad
+AU  - Wang, Yinhai
+T2  - Artificial Intelligence for Transportation
+AB  - Roadway safety and mobility remain critical challenges for modern transportation systems, demanding innovative analytical frameworks capable of addressing complex, dynamic, and heterogeneous environments. While traditional engineering methods have made progress, the complexity and dynamism of real-world traffic necessitate more advanced analytical frameworks. Large Language Models (LLMs), with their unprecedented capabilities in natural language understanding, knowledge integration, and reasoning, represent a promising paradigm shift. This paper comprehensively reviews the application and customization of LLMs for enhancing roadway safety and mobility. A key focus is how LLMs are adapted—via architectural, training, prompting, and multimodal strategies—to bridge the “modality gap” with transportation’s unique spatio-temporal and physical data. The review systematically analyzes diverse LLM applications in mobility (e.g., traffic flow prediction, signal control, simulation) and safety (e.g., crash analysis, driver behavior assessment, rule formalization). Enabling technologies such as V2X integration, domain-specific foundation models, explainability frameworks, and edge computing are also examined. Despite significant potential, challenges persist regarding inherent LLM limitations (hallucinations, reasoning deficits), data governance (privacy, bias), deployment complexities (sim-to-real, latency), and rigorous safety assurance. Promising future research directions are highlighted, including advanced multimodal fusion, enhanced spatio-temporal reasoning, human-AI collaboration, continuous learning, and the development of efficient, verifiable systems. This review provides a structured roadmap of current capabilities, limitations, and opportunities, underscoring LLMs’ transformative potential while emphasizing the need for responsible innovation to realize safer, more intelligent transportation systems.
+DA  - 2025/07/01/
+PY  - 2025
+DO  - 10.1016/j.ait.2025.100004
+VL  - 1
+SP  - 100004
+J2  - Artificial Intelligence for Transportation
+SN  - 3050-8606
+UR  - https://www.sciencedirect.com/science/article/pii/S3050860625000043
+KW  - Multimodal large language model
+KW  - AI in transportation
+KW  - Intelligent transportation systems
+KW  - LLMs in transportation
+KW  - Mobility
+KW  - Road safety
+ER  - 
+
+TY  - JOUR
+TI  - Exploring medical co-design in the AI era: A scoping review
+AU  - Jiang, Yue
+AU  - Chen, Jing
+AU  - Liu, Long
+AU  - Clarkson, P. John
+T2  - Design and Artificial Intelligence
+AB  - Objective
+This study explores the current development and findings of medical co-design (MCD) in the era of artificial intelligence (AI). As design objects evolve from products addressing single-function needs to complex systems catering to diverse stakeholders' values, medical designers face the challenges of overcoming high knowledge barriers and coordinating multiple interests. MCD is regarded as an effective approach to addressing these challenges.
+Methods
+This study adopts a scoping review approach to analyse the progress and limitations of existing research in the field of MCD, with a particular focus on overcoming knowledge barriers. Additionally, the study examines the integration of AI technologies, particularly the application of large language models (LLMs), exploring their evolving roles in co-design and their impact on participants, providing new insights into human–AI co-design.
+Results
+The study reveals that traditional human-centred co-design has gradually evolved into human–AI co-design and even AI–AI co-design. This paper presents a theoretical framework for multi-agent collaboration, preliminarily identifying the interaction patterns between humans and AI agents during the design process and their potential impact on design outcomes.
+Conclusion
+This study offers a theoretical foundation and practical guidance for future AI-assisted MCD practices. The findings contribute to a better understanding of the intrinsic mechanisms of human–AI co-design and provide insights for optimising knowledge integration and innovation processes in MCD.
+DA  - 2025/12/01/
+PY  - 2025
+DO  - 10.1016/j.daai.2025.100040
+VL  - 1
+IS  - 4
+SP  - 100040
+J2  - Design and Artificial Intelligence
+SN  - 3050-7413
+UR  - https://www.sciencedirect.com/science/article/pii/S3050741325000400
+KW  - Artificial intelligence
+KW  - Human-AI collaboration
+KW  - Collective intelligence
+KW  - Design innovation
+KW  - Knowledge barriers
+KW  - Medical co-design
+ER  - 
+
+TY  - JOUR
+TI  - Large language models in gastroenterology: Systematic review
+AU  - Gong, Eun Jeong
+AU  - Bang, Chang Seok
+AU  - Lee, Jae Jun
+AU  - Park, Jonghyung
+AU  - Kim, Eunsil
+AU  - Kim, Subeen
+AU  - Kimm, Minjae
+AU  - Choi, Seoung-Ho
+T2  - Journal of Medical Internet Research
+AB  - Background
+As health care continues to evolve with technological advancements, the integration of artificial intelligence into clinical practices has shown promising potential to enhance patient care and operational efficiency. Among the forefront of these innovations are large language models (LLMs), a subset of artificial intelligence designed to understand, generate, and interact with human language at an unprecedented scale.
+Objective
+This systematic review describes the role of LLMs in improving diagnostic accuracy, automating documentation, and advancing specialist education and patient engagement within the field of gastroenterology and gastrointestinal endoscopy.
+Methods
+Core databases including MEDLINE through PubMed, Embase, and Cochrane Central registry were searched using keywords related to LLMs (from inception to April 2024). Studies were included if they satisfied the following criteria: (1) any type of studies that investigated the potential role of LLMs in the field of gastrointestinal endoscopy or gastroenterology, (2) studies published in English, and (3) studies in full-text format. The exclusion criteria were as follows: (1) studies that did not report the potential role of LLMs in the field of gastrointestinal endoscopy or gastroenterology, (2) case reports and review papers, (3) ineligible research objects (eg, animals or basic research), and (4) insufficient data regarding the potential role of LLMs. Risk of Bias in Non-Randomized Studies—of Interventions was used to evaluate the quality of the identified studies.
+Results
+Overall, 21 studies on the potential role of LLMs in gastrointestinal disorders were included in the systematic review, and narrative synthesis was done because of heterogeneity in the specified aims and methodology in each included study. The overall risk of bias was low in 5 studies and moderate in 16 studies. The ability of LLMs to spread general medical information, offer advice for consultations, generate procedure reports automatically, or draw conclusions about the presumptive diagnosis of complex medical illnesses was demonstrated by the systematic review. Despite promising benefits, such as increased efficiency and improved patient outcomes, challenges related to data privacy, accuracy, and interdisciplinary collaboration remain.
+Conclusions
+We highlight the importance of navigating these challenges to fully leverage LLMs in transforming gastrointestinal endoscopy practices.
+Trial Registration
+PROSPERO 581772; https://www.crd.york.ac.uk/prospero/
+DA  - 2024/01/01/
+PY  - 2024
+DO  - 10.2196/66648
+VL  - 26
+J2  - Journal of Medical Internet Research
+SN  - 1438-8871
+UR  - https://www.sciencedirect.com/science/article/pii/S1438887124009907
+KW  - large language model
+KW  - artificial intelligence
+KW  - LLM
+KW  - diagnosis
+KW  - accuracy
+KW  - deep learning
+KW  - systematic review
+KW  - AI
+KW  - patient engagement
+KW  - clinical practice
+KW  - clinical reasoning
+KW  - data privacy
+KW  - diagnostic
+KW  - emotional support
+KW  - endoscopy
+KW  - gastroenterology
+ER  - 
+
+TY  - JOUR
+TI  - From ontologies to knowledge augmented large language models for automation: A decision-making guidance for achieving human–robot collaboration in industry 5.0
+AU  - Oyekan, John
+AU  - Turner, Christopher
+AU  - Bax, Michael
+AU  - Graf, Erich
+T2  - Computers in Industry
+AB  - The rapid advancement of Large Language Models (LLMs) has resulted in interest in their potential applications within manufacturing systems, particularly in the context of Industry 5.0. However, determining when to implement LLMs versus other Natural Language Processing (NLP) techniques, ontologies or knowledge graphs, remains an open question. This paper offers decision-making guidance for selecting the most suitable technique in various industrial contexts, emphasizing human–robot collaboration and resilience in manufacturing. We examine the origins and unique strengths of LLMs, ontologies, and knowledge graphs, assessing their effectiveness across different industrial scenarios based on the number of domains or disciplines required to bring a product from design to manufacture. Through this comparative framework, we explore specific use cases where LLMs could enhance robotics for human–robot collaboration, while underscoring the continued relevance of ontologies and knowledge graphs in low-dependency or resource-constrained sectors. Additionally, we address the practical challenges of deploying these technologies, such as computational cost and interpretability, providing a roadmap for manufacturers to navigate the evolving landscape of Language based AI tools in Industry 5.0. Our findings offer a foundation for informed decision-making, helping industry professionals optimize the use of Language Based models for sustainable, resilient, and human-centric manufacturing. We also propose a Large Knowledge Language Model architecture that offers the potential for transparency and configuration based on complexity of task and computing resources available.
+DA  - 2025/10/01/
+PY  - 2025
+DO  - 10.1016/j.compind.2025.104329
+VL  - 171
+SP  - 104329
+J2  - Computers in Industry
+SN  - 0166-3615
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361525000946
+KW  - Generative pre-trained transformers
+KW  - Language models
+KW  - Manufacturing
+KW  - Reasoning
+KW  - Robotics
+ER  - 
+
+TY  - JOUR
+TI  - A survey of large language model-augmented knowledge graphs for advanced complex product design
+AU  - Liang, Xinxin
+AU  - Wang, Zuoxu
+AU  - Liu, Jihong
+T2  - Journal of Manufacturing Systems
+AB  - In the Human-AI collaboration rapid development era, the design and development of knowledge-intensive complex products should enable the design process with the help of advanced AI technology, and enhance the reasoning and application of design domain knowledge. Extracting and reusing domain knowledge would greatly facilitate the success of complex product design. Knowledge graphs (KGs), a powerful knowledge representation and storage technology, have been widely deployed in advanced complex product design because of their advantages in mining and applying large-scale, complex, and specialized domain knowledge. But merely KG and its related reasoning approaches still cannot fully support the ill-defined product design tasks. In the future complex product design, Human-AI collaboration will become a mainstream prevention trend. Large language models (LLMs) have outstanding performance in natural language understanding and generation, showing promising potential to collaborate with KGs in complex product design and development. Till 2024/03/04, only a few studies have systematically reviewed the current status of LLM and KG applications in the engineering field, not to mention a further detailed review in the complex product design field, leaving many issues not covered or fully examined. To fill this gap, 100 articles published in the last 4 years (i.e., 2021–2024) were screened and surveyed. This study provides a statistical analysis of the screened research articles, mainstream techniques of LLM & KG, and LLM & KG applications were analyze. To understand how KG and LLM could support complex product design, a framework of LLMs-augmented KG in advanced complex product design was proposed, which contains data layer, KG & LLM collaboration layer, enhanced design capability layer, and design task layer. Furthermore, we also discussed the challenges and future research directions of the LLM-KG-collaborated complex product design paradigm. As an exploratory review paper, it provides insightful ideas for implementing more specialized domain KGs in product design field.
+DA  - 2025/06/01/
+PY  - 2025
+DO  - 10.1016/j.jmsy.2025.04.016
+VL  - 80
+SP  - 883
+EP  - 901
+J2  - Journal of Manufacturing Systems
+SN  - 0278-6125
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612525001050
+KW  - Complex Product Design
+KW  - Intelligent Manufacturing
+KW  - Knowledge Graph
+KW  - Large Language Model
+ER  - 
+
+TY  - JOUR
+TI  - Data engineering for AI applications in energetic materials
+AU  - Zang, Xiaowei
+AU  - Feng, Quan
+AU  - Zhu, Peng
+AU  - Ye, Yinghua
+AU  - Shen, Ruiqi
+T2  - FirePhysChem
+AB  - The application of artificial intelligence (AI) in the field of energetic materials (EMs) has progressed from traditional machine learning to deep learning techniques, driving improvements in property prediction, molecular design, and combustion modeling. Despite these algorithmic advances, data engineering in EMs remains underdeveloped. Challenges related to data heterogeneity, inconsistency, and sensitivity continue to hinder the effective transition of AI from exploratory research to engineering practice and production-level deployment. This review examines the key bottlenecks in EM data engineering and discusses potential strategies, including the identification of reliable data sources, data augmentation, and automated annotation. Recent advances in large language models (LLMs), autonomous robotic chemists, and AI agents are highlighted for their potential in enhancing data acquisition, processing, labeling, and sharing. To address current limitations, we propose the development of a unified, secure, and open data infrastructure to support the scalable and trustworthy growth of data assets in the EM domain.
+DA  - 2025/11/27/
+PY  - 2025
+DO  - 10.1016/j.fpc.2025.11.010
+J2  - FirePhysChem
+SN  - 2667-1344
+UR  - https://www.sciencedirect.com/science/article/pii/S2667134425000835
+KW  - Large language models
+KW  - Deep learning
+KW  - Data Engineering
+KW  - Data asset
+KW  - Energetic materials
+ER  - 
+
+TY  - JOUR
+TI  - Agentic AI: The age of reasoning—a review
+AU  - Nisa, Ume
+AU  - Shirazi, Muhammad
+AU  - Saip, Mohamed Ali
+AU  - Pozi, Muhammad Syafiq Mohd
+T2  - Journal of Automation and Intelligence
+AB  - Artificial intelligence has experienced a significant boom with the emergence of agentic AI, where autonomous agents are increasingly replacing human intervention, enabling systems to perceive, reason, and act independently to achieve specific goals. Despite its transformative potential, comprehensive information on agentic AI remains scarce in the literature. This paper provides the first comprehensive review of agentic AI, focusing on its evolution and three core aspects: patterns, types, and environments. The evolution of agentic AI is traced through five phases to the current era of multi-modal and collaborative agents, driven by advancements in reinforcement learning, neural networks, and large language models (LLMs). Five key patterns: tool use, reflection, ReAct, planning, and multi-agent collaboration (MAC) define how agentic AI systems interact and process tasks. These systems are categorized into seven categories, each tailored for specific operational styles and autonomy in decision making. The environments in which these agents operate are classified as static, dynamic, fully observable, partially observable, deterministic, stochastic, single-agent, and multi-agent, emphasizing the impact of environmental complexity on agent behavior. Agentic AI has revolutionized systems through autonomous decision making and resource optimization, yet challenges persist in aligning AI with human values, ensuring adaptability, and addressing ethical constraints. Future research focuses on multidomain agents, human–AI collaboration, and self-improving systems. This work provides researchers, practitioners, and policymakers with a structured approach to understanding and advancing the rapidly evolving landscape of agentic AI systems.
+DA  - 2025/08/28/
+PY  - 2025
+DO  - 10.1016/j.jai.2025.08.003
+J2  - Journal of Automation and Intelligence
+SN  - 2949-8554
+UR  - https://www.sciencedirect.com/science/article/pii/S2949855425000516
+KW  - Artificial intelligence
+KW  - Large language models (LLMs)
+KW  - Agentic AI
+KW  - Autonomous systems
+KW  - AI taxonomy
+KW  - Reasoning agents
+ER  - 
+
+TY  - JOUR
+TI  - Agent technologies in smart manufacturing: A comprehensive review of evolution, architectures, and edge–cloud deployment
+AU  - Hu, Kun
+AU  - Yao, Xifan
+AU  - Qiao, Fei
+T2  - Advanced Engineering Informatics
+AB  - As modern manufacturing systems demand increasing levels of complexity, flexibility, and intelligence, agent-based technologies are emerging as a key paradigm for enabling distributed control, adaptive decision-making, and collaborative autonomy. This paper presents a comprehensive review of the development trajectory and deployment pathways of agent systems in the context of smart manufacturing. Based on temporal evolution, the progression of agents is categorized into three major stages: Traditional Agents, AI Agents, and Agentic AI. To better elucidate the functional roles and technological advancements of various agent types within manufacturing systems, this study proposes a mapping framework grounded in the “cloud–edge–device” collaborative architecture. Four representative agent types are defined accordingly: Reactive Agents, Cooperative Agents, Cognitive Agents, and Agentic AI. Their core capabilities and typical application scenarios are systematically analyzed across different deployment layers. Furthermore, the paper synthesizes current research achievements, identifies critical technical challenges arising from trends such as Industry 5.0, large language models (LLMs), and cross-domain integration, and outlines future research directions. This review aims to provide a structured theoretical reference and a systematic cognitive framework for both research and practical implementation of agent technologies in smart manufacturing, thereby fostering the evolution of manufacturing systems toward greater autonomy, collaboration, and human-centricity.
+DA  - 2026/03/01/
+PY  - 2026
+DO  - 10.1016/j.aei.2025.104235
+VL  - 70
+SP  - 104235
+J2  - Advanced Engineering Informatics
+SN  - 1474-0346
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034625011280
+KW  - Industry 5.0
+KW  - Smart manufacturing
+KW  - Agentic AI
+KW  - Multi-agent systems
+KW  - Intelligent automation
+KW  - Cloud–edge–device architecture
+KW  - Cooperative control
+KW  - LLM-driven agents
+ER  - 
+
+TY  - JOUR
+TI  - Understanding state-of-the-art situation of transport planning strategies in earthquake-prone areas by using AI-supported literature review methodology
+AU  - Dingil, Ali Enes
+AU  - Pribyl, Ondrej
+T2  - Heliyon
+AB  - Aim
+This review aims to explore earthquake-based transport strategies in seismic areas, providing state-of-the-art insights into the components necessary to guide urban planners and policymakers in their decision-making processes.
+Outputs
+The review provides a variety of methodologies and approaches employed for the reinforcement planning and emergency demand management to analyze and evaluate the impact of seismic events on transportation systems, in turn to develop strategies for preparedness, mitigation, response, and recovery phases. The selection of the appropriate approach depends on factors such as the specific transport system, urbanization level and type, built environment, and critical components involved.
+Originality and value
+Besides providing a distinctive illustration of the integration of transportation and seismic literature as a valuable consolidated resource, this article introduces a novel methodology named ALARM for conducting state-of-the-art reviews on any topic, incorporating AI through the utilization of large language models (LLMs) built upon transformer deep neural networks, along with indexing data structures (in this study mainly OPEN-AI DAVINCI-003 model and vector-storing index). Hence, it is of paramount significance as the first instance of implementing LLMs within academic review standards. This paves the way for the potential integration of AI and human collaboration to become a standard practice under enhanced criteria for comprehending and analyzing specific information.
+DA  - 2024/07/15/
+PY  - 2024
+DO  - 10.1016/j.heliyon.2024.e33645
+VL  - 10
+IS  - 13
+SP  - e33645
+J2  - Heliyon
+SN  - 2405-8440
+UR  - https://www.sciencedirect.com/science/article/pii/S2405844024096762
+KW  - artificial intelligence
+KW  - Information retrieval
+KW  - AI-Supported review
+KW  - Earth-quake prone areas
+KW  - Seismic risk
+KW  - Transport planning
+KW  - Transport system
+ER  - 
+
+TY  - JOUR
+TI  - Artificial general intelligence for the upstream geoenergy industry: A review
+AU  - Li, Jimmy Xuekai
+AU  - Zhang, Tiancheng
+AU  - Zhu, Yiran
+AU  - Chen, Zhongwei
+T2  - Gas Science and Engineering
+AB  - Artificial General Intelligence (AGI) is set to profoundly impact the traditional upstream geoenergy industry (i.e., geothermal energy, oil and gas industry) by introducing unprecedented efficiencies and innovations. This paper explores AGI's foundational principles and its transformative applications, particularly focusing on the advancements brought about by large language models (LLMs) and extensive computer vision systems in the upstream sectors of the industry. The integration of Artificial Intelligence (AI) has already begun reshaping the upstream geoenergy landscape, offering enhancements in production optimization, downtime reduction, safety improvements, and advancements in exploration and drilling techniques. These technologies streamline logistics, minimize maintenance costs, automate monotonous tasks, refine decision-making processes, foster team collaboration, and amplify profitability through error reduction and actionable insights extraction. Despite these advancements, the deployment of AI technologies faces challenges, including the necessity for skilled professionals for implementation and the limitations of model training on constrained datasets, which affects the models' adaptability across different contexts. The advent of generative AI, exemplified by innovations like ChatGPT and the Segment Anything Model (SAM), heralds a new era of high-density innovation. These developments highlight a shift towards natural language interfaces and domain-knowledge-driven AI, promising more accessible and tailored solutions for the upstream geoenergy industry. This review articulates the vast potential AGI holds for tackling complex operational challenges within the upstream geoenergy industry, requiring near-human levels of intelligence. We discussed the promising applications, the hurdles of large-scale AGI model deployment, and the necessity for domain-specific knowledge in maximizing the benefits of these technologies.
+DA  - 2024/11/01/
+PY  - 2024
+DO  - 10.1016/j.jgsce.2024.205469
+VL  - 131
+SP  - 205469
+J2  - Gas Science and Engineering
+SN  - 2949-9089
+UR  - https://www.sciencedirect.com/science/article/pii/S2949908924002656
+KW  - Large language models (LLMs)
+KW  - Generative AI
+KW  - ChatGPT
+KW  - Artificial general intelligence (AGI)
+KW  - Multimodal
+KW  - Upstream geoenergy industry
+ER  - 
+
+TY  - JOUR
+TI  - Leveraging AI to improve evidence synthesis in conservation
+AU  - Berger-Tal, Oded
+AU  - Wong, Bob B.M.
+AU  - Adams, Carrie Ann
+AU  - Blumstein, Daniel T.
+AU  - Candolin, Ulrika
+AU  - Gibson, Matthew J.
+AU  - Greggor, Alison L.
+AU  - Lagisz, Malgorzata
+AU  - Macura, Biljana
+AU  - Price, Catherine J.
+AU  - Putman, Breanna J.
+AU  - Snijders, Lysanne
+AU  - Nakagawa, Shinichi
+T2  - Trends in Ecology & Evolution
+AB  - Systematic evidence syntheses (systematic reviews and maps) summarize knowledge and are used to support decisions and policies in a variety of applied fields, from medicine and public health to biodiversity conservation. However, conducting these exercises in conservation is often expensive and slow, which can impede their use and hamper progress in addressing the current biodiversity crisis. With the explosive growth of large language models (LLMs) and other forms of artificial intelligence (AI), we discuss here the promise and perils associated with their use. We conclude that, when judiciously used, AI has the potential to speed up and hopefully improve the process of evidence synthesis, which can be particularly useful for underfunded applied fields, such as conservation science.
+DA  - 2024/06/01/
+PY  - 2024
+DO  - 10.1016/j.tree.2024.04.007
+VL  - 39
+IS  - 6
+SP  - 548
+EP  - 557
+J2  - Trends in Ecology & Evolution
+SN  - 0169-5347
+UR  - https://www.sciencedirect.com/science/article/pii/S0169534724001046
+KW  - large language models
+KW  - artificial intelligence
+KW  - biodiversity conservation
+KW  - evidence synthesis
+KW  - systematic reviews
+ER  - 
+
+TY  - JOUR
+TI  - The future of radiology: The path towards multimodal AI and superdiagnostics
+AU  - Nensa, Felix
+T2  - European Journal of Radiology Artificial Intelligence
+AB  - The transformative power of artificial intelligence (AI) is reshaping radiology, medicine, and healthcare, marking radiology as a pioneering specialty in AI adoption. The digital nature of radiological data and standardized data formats positioned radiology as the ideal testing ground for clinical AI integration. While initial enthusiasm led to inflated expectations, fueled by linear thinking and the planning fallacy, AI has now matured into tools that augment, rather than replace, radiologists’ expertise. Radiologists’ role is evolving from image interpreters to diagnostic orchestrators in a multimodal era. The integration of imaging data with diverse sources such as genomics, pathology, and wearable sensors necessitates a shift to a systems-level perspective. This transformation demands not only technical literacy but also interdisciplinary collaboration to effectively synthesize AI-driven insights and mitigate cognitive overload. Radiologists must navigate uncertainty, adopt structured workflows, and communicate AI-supported findings clearly to maintain trust in diagnostics. The emergence of generative AI, particularly large language models, further streamlines AI adoption by enabling intuitive, human-centered interfaces. However, addressing the growing knowledge gap is crucial. Traditional radiology training must be overhauled to incorporate data science, bioinformatics, and systems biology, ensuring radiologists are prepared to lead multimodal diagnostics. Radiologists are uniquely positioned to spearhead this transition, leveraging AI to integrate diverse data streams, improve patient care, and foster collaboration across specialties. Proactive adaptation will secure radiologists’ central role in AI-driven medicine, safeguarding the human element in healthcare while advancing diagnostic precision.
+DA  - 2025/06/01/
+PY  - 2025
+DO  - 10.1016/j.ejrai.2025.100014
+VL  - 2
+SP  - 100014
+J2  - European Journal of Radiology Artificial Intelligence
+SN  - 3050-5771
+UR  - https://www.sciencedirect.com/science/article/pii/S305057712500012X
+KW  - LLM
+KW  - GenAI
+KW  - Multimodal AI
+KW  - Radiology
+KW  - Superdiagnostics
+ER  - 
+
+TY  - JOUR
+TI  - Internet-delivered cognitive behavioral therapy for insomnia: The future of insomnia treatment with large language models
+AU  - Lin, Chenxing
+AU  - Cheng, Chen
+AU  - Xia, Yu
+AU  - Wang, Ruoyun
+AU  - Zhang, Luying
+AU  - Han, Lintong
+AU  - Hai, Darong
+AU  - Dai, Chenyue
+AU  - Dai, Tianen
+AU  - Cao, Luhuan
+AU  - Zhu, Xingyu
+AU  - Chen, Hao
+AU  - Zeng, Li
+AU  - Ren, Chufan
+AU  - Yang, Dongren
+AU  - Wang, Yijun
+AU  - Zhang, Meijia
+AU  - Mo, Zefei
+AU  - Chen, Yinda
+AU  - Shuai, Jianwei
+AU  - Yu, Rongwen
+AU  - Peng, Yuming
+T2  - Sleep Medicine: X
+AB  - With the rise in the prevalence of insomnia, cognitive behavioral therapy for insomnia (CBT-I) has become an important non-pharmacological approach to the treatment of insomnia patients. Traditional CBT-I faces challenges such as low patient acceptance and long treatment cycles. To address these issues, Internet-delivered Cognitive Behavioral Therapy for Insomnia (eCBT-I) emerged as a digital treatment modality with greater flexibility, accessibility and cost-effectiveness. However, eCBT-I still faces issues such as digital literacy and patient engagement. With the development of artificial intelligence (AI) technology, especially the application of large language models (LLM), AI-driven CBT-I is becoming an important direction for future therapy. The LLM is able to provide personalized treatment recommendations based on patient feedback, improving treatment outcomes and patient engagement. This paper reviews the application status and challenges of CBT-I and eCBT-I, focuses on the potential and prospect of LLM in CBT-I therapy, and proposes future research directions, including multi-source data fusion and privacy protection issues, to promote the innovation and development of CBT-I.
+DA  - 2025/12/15/
+PY  - 2025
+DO  - 10.1016/j.sleepx.2025.100157
+VL  - 10
+SP  - 100157
+J2  - Sleep Medicine: X
+SN  - 2590-1427
+UR  - https://www.sciencedirect.com/science/article/pii/S2590142725000205
+KW  - Large language models
+KW  - Artificial intelligence
+KW  - Cognitive behavioral therapy for insomnia
+KW  - Insomnia treatment
+KW  - Internet-delivered cognitive behavioral therapy for insomnia
+ER  - 
+
+TY  - JOUR
+TI  - Integrating large language model and digital twins in the context of industry 5.0: Framework, challenges and opportunities
+AU  - Chen, Chong
+AU  - Zhao, Kuanhong
+AU  - Leng, Jiewu
+AU  - Liu, Chao
+AU  - Fan, Junming
+AU  - Zheng, Pai
+T2  - Robotics and Computer-Integrated Manufacturing
+AB  - In Industry 5.0, where human ingenuity is combined with cutting-edge technologies such as artificial intelligence (AI) and robotics to revolutionize manufacturing with a focus on sustainability and human well-being, Digital Twins (DT) have become essential to real-time optimization. However, the complexity of managing DT for large-scale systems poses challenges in terms of data transmission, analytics, and advanced applications, which can be potentially addressed by Large Language Model (LLM). This research firstly performs a literature review to study the roles and functions of LLM in DT in the context of Industry 5.0. Subsequently, we propose a framework named Interactive-DT for LLM-DT integration that reveals the technical pathway for how LLM can be effectively integrated and function within DT environments. Within this framework, the roles and functionalities of LLM at the edge layer, DT layer, and service layer are elaborated upon. Finally, the identified research gaps and prospects for the integration of LLM and DT are outlined and discussed. The research outcomes of this paper highlight the potential of LLM to augment DT capabilities through improved construction and operation, enhanced cloud-edge collaboration, and sophisticated data analytics, ultimately promoting industrial practices that are both efficient and aligned with human-centric and sustainability principles in Industry 5.0.
+DA  - 2025/08/01/
+PY  - 2025
+DO  - 10.1016/j.rcim.2025.102982
+VL  - 94
+SP  - 102982
+J2  - Robotics and Computer-Integrated Manufacturing
+SN  - 0736-5845
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584525000365
+KW  - Large language models
+KW  - Industry 5.0
+KW  - Digital twins
+KW  - Intelligent manufacturing
+ER  - 
+
+TY  - JOUR
+TI  - Exploring the roles of large language models in reshaping transportation systems: A survey, framework, and roadmap
+AU  - Nie, Tong
+AU  - Sun, Jian
+AU  - Ma, Wei
+T2  - Artificial Intelligence for Transportation
+AB  - Modern transportation systems face pressing challenges due to increasing demand, dynamic environments, and heterogeneous information integration. The rapid evolution of Large Language Models (LLMs) offers transformative potential to address these challenges. Extensive knowledge and high-level capabilities derived from pretraining evolve the default role of LLMs as text generators to become versatile, knowledge-driven task solvers for intelligent transportation systems. This survey first presents LLM4TR, a novel conceptual framework that systematically categorizes the roles of LLMs in transportation into four synergetic dimensions: information processors, knowledge encoders, component generators, and decision facilitators. Through a unified taxonomy, we systematically elucidate how LLMs bridge fragmented data pipelines, enhance predictive analytics, simulate human-like reasoning, and enable closed-loop interactions across sensing, learning, modeling, and managing tasks in transportation systems. For each role, our review spans diverse applications, from traffic prediction and autonomous driving to safety analytics and urban mobility optimization, highlighting how emergent capabilities of LLMs such as in-context learning and step-by-step reasoning can enhance the operation and management of transportation systems. We further curate practical guidance, including available resources and computational guidelines, to support real-world deployment. By identifying challenges in existing LLM-based solutions, this survey charts a roadmap for advancing LLM-driven transportation research, positioning LLMs as central actors in the next generation of cyber-physical-social mobility ecosystems. Online resources can be found in the project page: https://github.com/tongnie/awesome-llm4tr.
+DA  - 2025/07/01/
+PY  - 2025
+DO  - 10.1016/j.ait.2025.100003
+VL  - 1
+SP  - 100003
+J2  - Artificial Intelligence for Transportation
+SN  - 3050-8606
+UR  - https://www.sciencedirect.com/science/article/pii/S3050860625000031
+KW  - Large language models
+KW  - Generative AI
+KW  - Foundation models
+KW  - Intelligent transportation systems
+KW  - Survey
+KW  - Transportation management
+KW  - Vision-Language models
+ER  - 
+
+TY  - JOUR
+TI  - A review of recent artificial intelligence for traditional medicine
+AU  - Hou, Chengbin
+AU  - Gao, Yanzhuo
+AU  - Lin, Xinyu
+AU  - Wu, Jinchao
+AU  - Li, Ning
+AU  - Lv, Hairong
+AU  - Chu, William Cheng-Chung
+T2  - AI and Bioinformatics in TCM
+AB  - Traditional Medicine (TM) has played a crucial role in global healthcare due to its long history and holistic approach. Artificial Intelligence (AI) has emerged as a revolutionary technology, offering exceptional capabilities in areas such as data mining, pattern recognition, and decision-making. The integration of Artificial Intelligence for Traditional Medicine (AITM) presents a promising frontier in advancing medicine and healthcare. In this review, we explore AITM from two perspectives: recent AI techniques and TM applications. Specifically, we investigate how Machine Learning, Deep Learning, and Large Language Models are applied to TM, covering applications such as diagnosis (before, during, after) and research (drug research, structured knowledge, data analysis). By leveraging advanced algorithms and models, AI can improve decision-making efficiency, optimize diagnosis accuracy, enhance patient experience, and reduce costs. We anticipate this review can bridge the gap between AI and TM communities. And the goal is to foster collaboration and innovation between both communities, enabling them to exploit the state-of-the-art AI techniques to advance TM diagnosis and research, ultimately contributing to the enhancement of human health.
+DA  - 2025/05/01/
+PY  - 2025
+DO  - 10.1016/j.jtcme.2025.02.009
+VL  - 15
+IS  - 3
+SP  - 215
+EP  - 228
+J2  - Journal of Traditional and Complementary Medicine
+SN  - 2225-4110
+UR  - https://www.sciencedirect.com/science/article/pii/S2225411025000197
+KW  - Large language models
+KW  - Artificial intelligence
+KW  - Machine learning
+KW  - Deep learning
+KW  - AI for health
+KW  - AI for medicine
+KW  - Traditional medicine
+ER  - 
+
+TY  - JOUR
+TI  - The transformative role of artificial intelligence in dentistry: A comprehensive overview. Part 1: fundamentals of AI, and its contemporary applications in dentistry
+AU  - Samaranayake, Lakshman
+AU  - Tuygunov, Nozimjon
+AU  - Schwendicke, Falk
+AU  - Osathanon, Thanaphum
+AU  - Khurshid, Zohaib
+AU  - Boymuradov, Shukhrat A.
+AU  - Cahyanto, Arief
+T2  - International Dental Journal
+AB  - Artificial intelligence (AI) holds immense promise in revolutionising dentistry, spanning, diagnostics, treatment planning and educational realms. This narrative review, in two parts, explores the fundamentals and the multifaceted potential of AI in dentistry. The current article explores the profound impact of AI in dentistry, encompassing diagnostic tools, treatment planning, and patient care. The Part 2 of the article delves into the potential of AI in patient education, ethics and the FDI communique on AI in dentistry. The review begins by elucidating the historical context of AI, outlining its recent widespread use in various sectors, including medicine and dentistry. The narrative delves into the fundamental concepts of AI, which entails developing machines capable of executing tasks that typically necessitate human intellect. In the biomedical realm, AI has evolved from exploring computational models to constructing systems for clinical data processing and interpretation, aiming to enhance medical/dental decision-making. The discussion delves into the pivotal role of AI models in dentistry, such as Large Language Models (LLM), Large Vision Models (LVM), and Multimodality Models (MM), revolutionizing processes from clinical documentation to treatment planning. The narrative extends to the applications of AI in dental specialties such as periodontics, endodontics, oral medicine and pathology, restorative dentistry, prosthodontics, paediatric dentistry, forensic odontology, oral and maxillofacial surgery, orthodontics, and orofacial pain management. AI's role in improving treatment outcomes, diagnostic accuracy, and decision-making processes is evident across these specialties, showcasing its potential in transforming dental care. The review concludes by highlighting the need for continued validation, interdisciplinary collaboration, and regulatory frameworks to ensure the seamless integration of AI into dentistry, paving the way for enhanced patient outcomes and evidence-based practice in the field.
+DA  - 2025/04/01/
+PY  - 2025
+DO  - 10.1016/j.identj.2025.02.005
+VL  - 75
+IS  - 2
+SP  - 383
+EP  - 396
+J2  - International Dental Journal
+SN  - 0020-6539
+UR  - https://www.sciencedirect.com/science/article/pii/S0020653925000474
+KW  - Artificial intelligence
+KW  - AI,
+KW  - Challenge
+KW  - Dentistry
+KW  - Literacy
+KW  - Oral health
+KW  - Petient care
+ER  - 
+
+TY  - JOUR
+TI  - Examining the impact of large language models on design: Functions, strengths, limitations, and roles
+AU  - Zhou, Yehong
+AU  - Chen, Chun-Hsien
+T2  - Design and Artificial Intelligence
+AB  - Large Language Models (LLMs) are advancing design activities with human-like generative capabilities and context awareness, holding more significant potential compared to the previous discriminative AI. However, existing research frameworks studying the interaction between non-LLM AI and designers have yet to fully address the evolving dynamics and generative capacities introduced by LLMs, leaving a critical gap in understanding LLMs’ impact on design. Through a systematic literature review of 118 publications, this study investigates how LLMs support the entire design process—Discover, Define, Develop, and Deliver—with various functions including generating survey questionnaires and synthesizing evaluations, while revealing both the strengths and limitations as design tools or materials. Besides, we examine how LLMs influence the competencies of designers and discuss the potential for LLMs to augment or even transform the roles of the designer. This research highlights opportunities for future studies to enable LLMs to complement designers rather than replace them.
+DA  - 2025/06/01/
+PY  - 2025
+DO  - 10.1016/j.daai.2025.100017
+VL  - 1
+IS  - 2
+SP  - 100017
+J2  - Design and Artificial Intelligence
+SN  - 3050-7413
+UR  - https://www.sciencedirect.com/science/article/pii/S3050741325000175
+KW  - Large language models
+KW  - Design process
+KW  - Human–AI collaboration
+KW  - Systematic literature review
+ER  - 
+
+TY  - JOUR
+TI  - The ideal human care in green ICU: An integrated AI framework for future ICU care
+AU  - Arabfard, Masoud
+AU  - Jeffery, Alvin D.
+AU  - Moradian, SeyedTayeb
+AU  - He, Hong-Gu
+AU  - Pandian, Vinciya
+AU  - Vahedian-Azimi, Amir
+T2  - Intensive and Critical Care Nursing
+AB  - Background
+Intensive Care Units (ICUs) present a high-stakes environment where timely decision-making is critical for managing patients with life-threatening conditions. The continuous influx of complex data often challenges clinicians, increasing the risk of errors. Artificial Intelligence (AI) offers transformative potential to enhance ICU care by supporting data analysis, decision-making, and workflow efficiency.
+Objective
+This review aims to explore current applications of AI in ICUs, assess their impact on clinical outcomes, workflow optimization, and ethical considerations, and propose an Integrated AI Framework for enhanced critical care delivery.
+Methods
+A literature search was conducted across PubMed, Scopus, and Web of Science, focusing on studies published between 2014 and 2024. The data were synthesized using an inductive thematic analysis approach to evaluate AI’s impact on clinical outcomes and to identify key barriers to its integration.
+Results
+AI has demonstrated significant advancements in ICU care, including early detection of sepsis, prediction of cardiac arrest, and workflow optimization through decision support systems. Predictive models reduced sepsis-related mortality by up to 20%, while workflow enhancements improved medication accuracy by 30% and reduced adverse events by 25%. Advanced techniques such as natural language processing (NLP), large language models (LLMs), and multimodal data integration have further streamlined ICU operations. However, challenges remain, including algorithmic bias, data privacy concerns, and integration barriers.
+Proposed Model
+The Ideal Human Care in Green ICU model integrates advanced AI technologies with multidisciplinary collaboration to provide personalized, evidence-based, and patient-centered care. This model emphasizes ethical AI practices, transparency, and family engagement to ensure responsible implementation.
+Conclusion
+AI can transform ICU care by improving outcomes and workflows, but ethical, practical, and explainable challenges must be addressed through diverse, validated research.
+Implications for clinical practice
+AI integration in ICUs improves patient outcomes and workflows by enabling early detection and precise treatment, but ethical issues and real-world validation are crucial.
+DA  - 2025/12/01/
+PY  - 2025
+DO  - 10.1016/j.iccn.2025.104213
+VL  - 91
+SP  - 104213
+J2  - Intensive and Critical Care Nursing
+SN  - 0964-3397
+UR  - https://www.sciencedirect.com/science/article/pii/S0964339725002757
+KW  - Artificial Intelligence
+KW  - Clinical Decision Support
+KW  - Ethical AI
+KW  - Intensive Care Units
+KW  - Predictive Analytics
+KW  - Workflow Optimization
+ER  - 
+
+TY  - JOUR
+TI  - Leveraging large language models in next generation intelligent manufacturing: Retrospect and prospect
+AU  - Ma, Yunfei
+AU  - Zheng, Shuai
+AU  - Yang, Zheng
+AU  - Zheng, Pai
+AU  - Leng, Jiewu
+AU  - Hong, Jun
+T2  - Journal of Manufacturing Systems
+AB  - Industry 5.0, as the guiding ideology of the new generation intelligent manufacturing, points the way for global industrial transformation. It emphasizes the collaborative cooperation between humans, machines and intelligent systems, and places humans at the core of the industrial production process, aiming to create a more flexible, personalized and sustainable production paradigm. Large language model, as an advanced natural language processing technology, has received attention from researchers related to Industry 5.0 due to its ease of use and powerful language processing capability. LLM is considered to be one of the key enabling technologies to drive the development of Industry 5.0 and has great application potential. After a rigorous review of existing approaches, we find there is few existing survey papers that focuses on how LLM will drive the development of Industry 5.0 applications. Therefore, this paper provides a comprehensive review of the application of LLM in the field of Industry 5.0. Firstly, we conduct a literature review to explore the current state of research related to Industry 5.0. Subsequently, we analyze LLM-based technologies, synergizing LLMs with Industry 5.0 enablers and the applications of LLM in various domains of intelligent manufacturing. Finally, we explore the challenges of LLM in real-world scenarios and future research directions in the context of Industry 5.0. It is hoped that this study will contribute to the further development of LLM-based solutions in the context of Industry 5.0 and unite various efforts to achieve the vision of Industry 5.0.
+DA  - 2025/10/01/
+PY  - 2025
+DO  - 10.1016/j.jmsy.2025.07.019
+VL  - 82
+SP  - 809
+EP  - 840
+J2  - Journal of Manufacturing Systems
+SN  - 0278-6125
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612525001943
+KW  - Industry 5.0
+KW  - Large language model
+KW  - Human–robot collaboration
+KW  - Human centered intelligent manufacturing
+ER  - 
+
+TY  - JOUR
+TI  - Roles and potential of large language models in healthcare: A comprehensive review
+AU  - Lin, Chihung
+AU  - Kuo, Chang-Fu
+T2  - Biomedical Journal
+AB  - Large Language Models (LLMs) are capable of transforming healthcare by demonstrating remarkable capabilities in language understanding and generation. They have matched or surpassed human performance in standardized medical examinations and assisted in diagnostics across specialties like dermatology, radiology, and ophthalmology. LLMs can enhance patient education by providing accurate, readable, and empathetic responses, and they can streamline clinical workflows through efficient information extraction from unstructured data such as clinical notes. Integrating LLM into clinical practice involves user interface design, clinician training, and effective collaboration between Artificial Intelligence (AI) systems and healthcare professionals. Users must possess a solid understanding of generative AI and domain knowledge to assess the generated content critically. Ethical considerations to ensure patient privacy, data security, mitigating biases, and maintaining transparency are critical for responsible deployment. Future directions for LLMs in healthcare include interdisciplinary collaboration, developing new benchmarks that incorporate safety and ethical measures, advancing multimodal LLMs that integrate text and imaging data, creating LLM-based medical agents capable of complex decision-making, addressing underrepresented specialties like rare diseases, and integrating LLMs with robotic systems to enhance precision in procedures. Emphasizing patient safety, ethical integrity, and human-centered implementation is essential for maximizing the benefits of LLMs, while mitigating potential risks, thereby helping to ensure that these AI tools enhance rather than replace human expertise and compassion in healthcare.
+DA  - 2025/10/01/
+PY  - 2025
+DO  - 10.1016/j.bj.2025.100868
+VL  - 48
+IS  - 5
+SP  - 100868
+J2  - Biomedical Journal
+SN  - 2319-4170
+UR  - https://www.sciencedirect.com/science/article/pii/S2319417025000423
+KW  - Healthcare
+KW  - Large language models
+KW  - Artificial intelligence
+KW  - Clinical decision support
+KW  - Patient communication
+ER  - 
+
+TY  - JOUR
+TI  - SE perspective on llms: Biases in code generation, code interpretability, and code security risks
+AU  - Krasniqi, Rrezarta
+AU  - Xu, Depeng
+AU  - Vieira, Marco
+T2  - Acm Computing Surveys
+AB  - Large Language Models (LLMs) are transforming the world with their ability to generate diverse content, including code, but embedded biases raise significant concerns. In this perspective piece, we critique the wide-spreading view of LLMs as infallible tools by examining how biases in training data can lead to discriminatory code generation, opaque code interpretation, and heightened security risks, ultimately impacting the trustworthiness of LLM-generated software. Through a reflective analysis grounded in existing literature, including case studies and theoretical frameworks from software engineering and AI ethics, we examine the specific manifestations of bias in code generation, focusing on how training data contribute to these issues. We investigate the challenges associated with interpreting LLM-generated code, highlighting the lack of transparency and the potential for hidden biases, and explore the security risks introduced by biased LLMs, namely vulnerabilities that may be exploited by malicious actors. We provide several recommendations for mitigating these challenges, emphasizing the need to refine training data and involve humans-in-the-loop.
+CY  - New York, NY, USA
+DA  - 2025/12//
+PY  - 2025
+DO  - 10.1145/3774324
+VL  - 58
+IS  - 5
+J2  - ACM Comput. Surv.
+PB  - Association for Computing Machinery
+SN  - 0360-0300
+UR  - https://doi.org/10.1145/3774324
+KW  - Large language models
+KW  - software engineering
+KW  - code bias
+KW  - interpretability bias
+KW  - security implications
+ER  - 
+
+TY  - JOUR
+TI  - Assessing and advancing benchmarks for evaluating large language models in software engineering tasks
+AU  - Hu, Xing
+AU  - Niu, Feifei
+AU  - Chen, Junkai
+AU  - Zhou, Xin
+AU  - Zhang, Junwei
+AU  - He, Junda
+AU  - Xia, Xin
+AU  - Lo, David
+T2  - ACM Trans. Softw. Eng. Methodol.
+AB  - Large language models (LLMs) are gaining increasing popularity in software engineering (SE) due to their unprecedented performance across various applications. These models are increasingly being utilized for a range of SE tasks, including requirements engineering and design, code analysis and generation, software maintenance, and quality assurance. As LLMs become more integral to SE, evaluating their effectiveness is crucial for understanding their potential in this field. In recent years, substantial efforts have been made to assess LLM performance in various SE tasks, resulting in the creation of several benchmarks tailored to this purpose. This paper offers a thorough review of 291&nbsp;benchmarks, addressing three main aspects: what benchmarks are available, how benchmarks are constructed, and the future outlook for these benchmarks. We begin by examining SE tasks such as requirements engineering and design, coding assistant, software testing, AIOps, software maintenance, and quality management. We then analyze the benchmarks and their development processes, highlighting the limitations of existing benchmarks. Additionally, we discuss the successes and failures of LLMs in different software tasks and explore future opportunities and challenges for SE-related benchmarks. We aim to provide a comprehensive overview of benchmark research in SE and offer insights to support the creation of more effective evaluation tools.
+CY  - New York, NY, USA
+DA  - 2026/12//
+PY  - 2026
+DO  - 10.1145/3786771
+PB  - Association for Computing Machinery
+SN  - 1049-331X
+UR  - https://doi.org/10.1145/3786771
+N1  - Just Accepted
+KW  - Large Language Models
+KW  - Evaluation
+KW  - Software Engineering
+KW  - Benchmark
+ER  - 
+
+TY  - JOUR
+TI  - Advances, evaluation, and explainability of large language models in healthcare: a systematic review
+AU  - Amin, Syed Umar
+AU  - Guizani, Mohsen
+AU  - Hossain, M. Shamim
+T2  - ACM Trans. Multimedia Comput. Commun. Appl.
+AB  - Large Language Models (LLMs) have enormous potential in healthcare, but we also need to be careful and implement strong safety measures. These advanced computer systems can understand complex medical questions written in everyday language and often provide accurate medical information. This article explores how the field has evolved, from the first language models to the LLMs we have now, specifically designed or adjusted for use in the medical world. We explore how LLMs can make important language-related tasks in healthcare more efficient and effective, such as identifying medical terms, understanding how different pieces of information are connected, drawing conclusions from written text, sorting documents, and answering medical queries. We also shed light on new and exciting ways LLMs can use more than just text, like combining written information with images or other types of data. We compare some of the best recent LLMs and discuss how they can be used in everyday medical situations. We also measure how well these models perform in the biomedical field, explaining what each measurement tells us and where it falls short. Lastly, by discussing the biggest hurdles LLMs face in healthcare—things like generating incorrect information (hallucinations), unfair biases, protecting patient privacy, making sure the models are dependable, and fitting these new tools into how doctors and nurses already work. We also provide a roadmap for future research. We aim to present a clear and fair picture of what LLMs can offer healthcare right now and what's necessary to use them safely and dependably. This includes explaining how researchers are working to make these models easier for doctors and patients to understand. We followed the PRISMA research method to guide our review of the field, from early language models to current LLMs adapted for clinical use.
+CY  - New York, NY, USA
+DA  - 2025/12//
+PY  - 2025
+DO  - 10.1145/3786334
+PB  - Association for Computing Machinery
+SN  - 1551-6857
+UR  - https://doi.org/10.1145/3786334
+N1  - Just Accepted
+KW  - Large language model
+KW  - ChatGPT
+KW  - natural language processing
+KW  - generative AI
+KW  - multi-modal large language model
+KW  - healthcare
+ER  - 
+
+TY  - JOUR
+TI  - Domain specialization as the key to make large language models disruptive: A comprehensive survey
+AU  - Ling, Chen
+AU  - Zhao, Xujiang
+AU  - Lu, Jiaying
+AU  - Deng, Chengyuan
+AU  - Zheng, Can
+AU  - Wang, Junxiang
+AU  - Chowdhury, Tanmoy
+AU  - Li, Yun
+AU  - Cui, Hejie
+AU  - Zhang, Xuchao
+AU  - Zhao, Tianjiao
+AU  - Panalkar, Amit
+AU  - Mehta, Dhagash
+AU  - Pasquali, Stefano
+AU  - Cheng, Wei
+AU  - Wang, Haoyu
+AU  - Liu, Yanchi
+AU  - Chen, Zhengzhang
+AU  - Chen, Haifeng
+AU  - White, Chris
+AU  - Gu, Quanquan
+AU  - Pei, Jian
+AU  - Yang, Carl
+AU  - Zhao, Liang
+T2  - Acm Computing Surveys
+AB  - Large language models (LLMs) have significantly advanced the field of natural language processing (NLP), providing a highly useful, task-agnostic foundation for a wide range of applications. However, directly applying LLMs to solve sophisticated problems in specific domains meets many hurdles, caused by the heterogeneity of domain data, the sophistication of domain knowledge, the uniqueness of domain objectives, and the diversity of the constraints (e.g., various social norms, cultural conformity, religious beliefs, and ethical standards in the domain applications). Domain specification techniques are key to making large language models disruptive in many applications. Specifically, to solve these hurdles, there has been a notable increase in research and practices conducted in recent years on the domain specialization of LLMs. This emerging field of study, with its substantial potential for impact, necessitates a comprehensive and systematic review to summarize better and guide ongoing work in this area. In this article, we present a comprehensive survey on domain specification techniques for large language models, an emerging direction critical for large language model applications. First, we propose a systematic taxonomy that categorizes the LLM domain-specialization techniques based on the accessibility to LLMs and summarizes the framework for all the subcategories as well as their relations and differences to each other. Second, we present an extensive taxonomy of critical application domains that can benefit dramatically from specialized LLMs, discussing their practical significance and open challenges. Last, we offer our insights into the current research status and future trends in this area.
+CY  - New York, NY, USA
+DA  - 2025/10//
+PY  - 2025
+DO  - 10.1145/3764579
+VL  - 58
+IS  - 3
+J2  - ACM Comput. Surv.
+PB  - Association for Computing Machinery
+SN  - 0360-0300
+UR  - https://doi.org/10.1145/3764579
+KW  - Large language models
+KW  - natural language processing
+KW  - domain specialization
+ER  - 
+
+TY  - JOUR
+TI  - A systematic survey of text summarization: From statistical methods to large language models
+AU  - Zhang, Haopeng
+AU  - Yu, Philip S.
+AU  - Zhang, Jiawei
+T2  - Acm Computing Surveys
+AB  - Text summarization research has undergone several significant transformations with the advent of deep neural networks, pre-trained language models (PLMs), and recent large language models (LLMs). This survey thus provides a comprehensive review of the research progress and evolution in text summarization through the lens of these paradigm shifts. It is organized into two main parts: (1) a detailed overview of datasets, evaluation metrics, and summarization methods before the LLM era, encompassing traditional statistical methods, deep learning approaches, and PLM fine-tuning techniques, and (2) the first detailed examination of recent advancements in benchmarking, modeling, and evaluating summarization in the LLM era. By synthesizing existing literature and presenting a cohesive overview, this survey also discusses research trends, open challenges, and proposes promising research directions in summarization, aiming to guide researchers through the evolving landscape of summarization research.
+CY  - New York, NY, USA
+DA  - 2025/06//
+PY  - 2025
+DO  - 10.1145/3731445
+VL  - 57
+IS  - 11
+J2  - ACM Comput. Surv.
+PB  - Association for Computing Machinery
+SN  - 0360-0300
+UR  - https://doi.org/10.1145/3731445
+KW  - large language model
+KW  - deep learning
+KW  - Summarization
+KW  - dataset
+ER  - 
+
+TY  - JOUR
+TI  - A survey of adaptation of large language models to idea and hypothesis generation: Downstream task adaptation, knowledge distillation approaches and challenges
+AU  - Oyelade, Olaide N
+AU  - Wang, Hui
+AU  - Rafferty, Karen
+T2  - Acm Computing Surveys
+AB  - Idea and hypothesis generation are creative processes that demand a significant level of reasoning. Methods such as brainstorming, analytical reasoning, inductive reasoning and other forms of reasoning have proven useful in advancing research in this domain. Machine learning techniques have been widely investigated to address these challenging tasks. However, they are limited and have insufficient reasoning required for these tasks, making the emergence of language models reignite research in this direction. Large language models (LLMs) have debuted as the current state-of-the-art for achieving impressive generative tasks, and to support language understanding. Models such as the BERT, BARD, GPT and LLaMa have architectural layouts which are mostly transformer network based. These models headline impressive results in downstream tasks such as text classification, sentiment analysis, language inference, question answering, text summarization and named entity recognition among others. However, the need to adapt these models to the emerging downstream tasks of idea and hypothesis generation have uncovered a new research opportunity. In this study, systematic literature review is carried out to provide understanding on how LLMs have been applied to the classical downstream tasks and to then motivate adaptation of LLMs to idea and hypothesis generation. Furthermore, the study examines techniques applied to customization and knowledge distillation with the aim of contextualizing these methods to solve idea and hypothesis generation. We then explored the limitations of LLM-based research efforts to idea and hypothesis generation. A detailed and technical discussion of the findings of the study is presented, and we provide a high-level novel conceptual framework to describe and summarize our findings. Also, potential insights to combining knowledge graphs, causal inference, logic reasoning and LLMs distillation in idea and hypothesis generation are discussed. Finally, challenges in these research areas on adaptation of LLMs to idea and hypothesis generation are discussed.
+CY  - New York, NY, USA
+DA  - 2025/12//
+PY  - 2025
+DO  - 10.1145/3774628
+VL  - 58
+IS  - 6
+J2  - ACM Comput. Surv.
+PB  - Association for Computing Machinery
+SN  - 0360-0300
+UR  - https://doi.org/10.1145/3774628
+KW  - Large language models (LLMs)
+KW  - and knowledge distillation
+KW  - hypothesis generation
+KW  - idea generation
+KW  - language model customization
+KW  - transformer algorithms
+ER  - 
+
+TY  - JOUR
+TI  - Generative AI for self-adaptive systems: State of the art and research roadmap
+AU  - Li, Jialong
+AU  - Zhang, Mingyue
+AU  - Li, Nianyu
+AU  - Weyns, Danny
+AU  - Jin, Zhi
+AU  - Tei, Kenji
+T2  - ACM Trans. Auton. Adapt. Syst.
+AB  - Self-adaptive systems (SASs) are designed to handle changes and uncertainties through a feedback loop with four core functionalities: monitoring, analyzing, planning, and execution. Recently, generative artificial intelligence (GenAI), especially the area of large language models, has shown impressive performance in data comprehension and logical reasoning. These capabilities are highly aligned with the functionalities required in SASs, suggesting a strong potential to employ GenAI to enhance SASs. However, the specific benefits and challenges of employing GenAI in SASs remain unclear. Yet, providing a comprehensive understanding of these benefits and challenges is complex due to several reasons: limited publications in the SAS field, the technological and application diversity within SASs, and the rapid evolution of GenAI technologies. To that end, this article aims to provide researchers and practitioners a comprehensive snapshot that outlines the potential benefits and challenges of employing GenAI’s within SAS. Specifically, we gather, filter, and analyze literature from four distinct research fields and organize them into two main categories to potential benefits: (i) enhancements to the autonomy of SASs centered around the specific functions of the MAPE-K feedback loop, and (ii) improvements in the interaction between humans and SASs within human-on-the-loop settings. From our study, we outline a research roadmap that highlights the challenges of integrating GenAI into SASs. The roadmap starts with outlining key research challenges that need to be tackled to exploit the potential for applying GenAI in the field of SAS. The roadmap concludes with a practical reflection, elaborating on current shortcomings of GenAI and proposing possible mitigation strategies.†
+CY  - New York, NY, USA
+DA  - 2024/09//
+PY  - 2024
+DO  - 10.1145/3686803
+VL  - 19
+IS  - 3
+PB  - Association for Computing Machinery
+SN  - 1556-4665
+UR  - https://doi.org/10.1145/3686803
+KW  - Large Language Model
+KW  - Generative AI
+KW  - survey
+KW  - diffusion model
+KW  - MAPE
+KW  - Self-Adaptive Systems
+ER  - 
+
+TY  - JOUR
+TI  - The emerged security and privacy of LLM agent: A survey with case studies
+AU  - He, Feng
+AU  - Zhu, Tianqing
+AU  - Ye, Dayong
+AU  - Liu, Bo
+AU  - Zhou, Wanlei
+AU  - Yu, Philip S.
+T2  - Acm Computing Surveys
+AB  - Inspired by the rapid development of Large Language Models (LLMs), LLM agents have evolved to perform complex tasks. LLM agents are now extensively applied across various domains, handling vast amounts of data to interact with humans and execute tasks. The widespread applications of LLM agents demonstrate their significant commercial value; however, they also expose security and privacy vulnerabilities. At the current stage, comprehensive research on the security and privacy of LLM agents is highly needed. This survey aims to provide a comprehensive overview of the newly emerged privacy and security issues faced by LLM agents. We begin by introducing the fundamental knowledge of LLM agents, followed by a categorization and analysis of the threats. We then discuss the impacts of these threats on humans, environment, and other agents. Subsequently, we review existing defensive strategies, and finally explore future trends. Additionally, the survey incorporates diverse case studies to facilitate a more accessible understanding. By highlighting these critical security and privacy issues, the survey seeks to stimulate future research towards enhancing the security and privacy of LLM agents, thereby increasing their reliability and trustworthiness in future applications.
+CY  - New York, NY, USA
+DA  - 2025/12//
+PY  - 2025
+DO  - 10.1145/3773080
+VL  - 58
+IS  - 6
+J2  - ACM Comput. Surv.
+PB  - Association for Computing Machinery
+SN  - 0360-0300
+UR  - https://doi.org/10.1145/3773080
+KW  - Large language models
+KW  - LLM agent
+KW  - defense
+KW  - privacy preservation
+KW  - security
+ER  - 
+
+TY  - JOUR
+TI  - Modality deep-learning frameworks for fake news detection on social networks: A systematic literature review
+AU  - Mostafa, Mohamed
+AU  - Almogren, Ahmad S
+AU  - Al-Qurishi, Muhammad
+AU  - Alrubaian, Majed
+T2  - Acm Computing Surveys
+AB  - Fake news on social networks is a challenging problem due to the rapid dissemination and volume of information, as well as the ease of creating and sharing content anonymously. Fake news stories are problematic not only for the credibility of online journalism, but also due to their detrimental real-world consequences. The primary research objective of this study is to identify recent state-of-the-art deep learning methods used to detect fake news in social networks. This article presents a systematic literature review of deep learning-based fake news detection models in social networks. The methodology followed a rigorous approach, including predefined criteria for study selection of deep learning modalities. This study focuses on the types of deep learning modalities: unimodal (refers to the use of a single model for analysis or modeling purposes) and multimodal models (refers to the integration of multiple models). The results of this review reveal the strengths and weaknesses of modalities approaches, as well as the limitations of low-resource languages datasets. Furthermore, it provides insights into future directions for deep learning models and different fact-checking techniques. At the end of this study, we discuss the problem of fake news detection in the era of large language models in terms of advantages, drawbacks, and challenges.
+CY  - New York, NY, USA
+DA  - 2024/11//
+PY  - 2024
+DO  - 10.1145/3700748
+VL  - 57
+IS  - 3
+J2  - ACM Comput. Surv.
+PB  - Association for Computing Machinery
+SN  - 0360-0300
+UR  - https://doi.org/10.1145/3700748
+KW  - deep learning
+KW  - multimodal
+KW  - text classification
+KW  - fake news detection
+KW  - modality architectures
+KW  - Social computing
+KW  - unimodal
+ER  - 
+
+TY  - JOUR
+TI  - A bibliometric review of large language models research from 2017 to 2023
+AU  - Fan, Lizhou
+AU  - Li, Lingyao
+AU  - Ma, Zihui
+AU  - Lee, Sanggyu
+AU  - Yu, Huizi
+AU  - Hemphill, Libby
+T2  - ACM Transactions on Intelligent Systems and Technology
+AB  - Large language models (LLMs), such as OpenAI's Generative Pre-trained Transformer (GPT), are a class of language models that have demonstrated outstanding performance across a range of natural language processing (NLP) tasks. LLMs have become a highly sought-after research area because of their ability to generate human-like language and their potential to revolutionize science and technology. In this study, we conduct bibliometric and discourse analyses of scholarly literature on LLMs. Synthesizing over 5,000 publications, this article serves as a roadmap for researchers, practitioners, and policymakers to navigate the current landscape of LLMs research. We present the research trends from 2017 to early 2023, identifying patterns in research paradigms and collaborations. We start with analyzing the core algorithm developments and NLP tasks that are fundamental in LLMs research. We then investigate the applications of LLMs in various fields and domains, including medicine, engineering, social science, and humanities. Our review also reveals the dynamic, fast-paced evolution of LLMs research. Overall, this article offers valuable insights into the current state, impact, and potential of LLMs research and its applications.
+CY  - New York, NY, USA
+DA  - 2024/10//
+PY  - 2024
+DO  - 10.1145/3664930
+VL  - 15
+IS  - 5
+J2  - ACM Trans. Intell. Syst. Technol.
+PB  - Association for Computing Machinery
+SN  - 2157-6904
+UR  - https://doi.org/10.1145/3664930
+KW  - large language models
+KW  - Bibliometric analysis
+KW  - discourse analysis
+KW  - scholarly collaboration networks
+KW  - topic modeling
+ER  - 
+
+TY  - JOUR
+TI  - Towards trustworthy AI: A review of ethical and robust large language models
+AU  - Ferdaus, Md Meftahul
+AU  - Abdelguerfi, Mahdi
+AU  - Loup, Elias
+AU  - N. Niles, Kendall
+AU  - Pathak, Ken
+AU  - Sloan, Steven
+T2  - Acm Computing Surveys
+AB  - Large Language Models (LLMs) are advancing rapidly and promising transformation across fields but pose challenges in oversight, ethics, and user trust. This review addresses trust issues like unintentional harms, opacity, vulnerability, misalignment with values, and environmental impact, all of which affect trust. Factors undermining trust include societal biases, opaque processes, misuse potential, and technology evolution challenges, especially in finance, healthcare, education, and policy. Recommended solutions include ethical oversight, industry accountability, regulation, and public involvement to reshape AI norms and incorporate ethics into development. A framework assesses trust in LLMs, analyzing trust dynamics and providing guidelines for responsible AI development. The review highlights limitations in building trustworthy AI, aiming to create a transparent and accountable ecosystem that maximizes benefits and minimizes risks, offering guidance for researchers, policymakers, and industry in fostering trust and ensuring responsible use of LLMs. We validate our frameworks through comprehensive experimental assessment across seven contemporary models, demonstrating substantial improvements in trustworthiness characteristics and identifying important disagreements with existing literature. Both theoretical foundations and empirical validation are provided in comprehensive supplementary materials.
+CY  - New York, NY, USA
+DA  - 2026/01//
+PY  - 2026
+DO  - 10.1145/3777382
+VL  - 58
+IS  - 7
+J2  - ACM Comput. Surv.
+PB  - Association for Computing Machinery
+SN  - 0360-0300
+UR  - https://doi.org/10.1145/3777382
+KW  - Large language models
+KW  - responsible AI
+KW  - AI ethics
+KW  - AI safety
+KW  - bias detection
+KW  - cross-cultural validation
+KW  - temporal consistency
+KW  - trustworthy AI
+ER  - 
+
+TY  - JOUR
+TI  - A survey of reasoning with foundation models: Concepts, methodologies, and outlook
+AU  - Sun, Jiankai
+AU  - Zheng, Chuanyang
+AU  - Xie, Enze
+AU  - Liu, Zhengying
+AU  - Chu, Ruihang
+AU  - Qiu, Jianing
+AU  - Xu, Jiaqi
+AU  - Ding, Mingyu
+AU  - Li, Hongyang
+AU  - Geng, Mengzhe
+AU  - Wu, Yue
+AU  - Wang, Wenhai
+AU  - Chen, Junsong
+AU  - Yin, Zhangyue
+AU  - Ren, Xiaozhe
+AU  - Fu, Jie
+AU  - He, Junxian
+AU  - Wu, Yuan
+AU  - Liu, Qi
+AU  - Liu, Xihui
+AU  - Li, Yu
+AU  - Dong, Hao
+AU  - Cheng, Yu
+AU  - Zhang, Ming
+AU  - Heng, Pheng Ann
+AU  - Dai, Jifeng
+AU  - Luo, Ping
+AU  - Wang, Jingdong
+AU  - Wen, Ji-Rong
+AU  - Qiu, Xipeng
+AU  - Guo, Yike
+AU  - Xiong, Hui
+AU  - Liu, Qun
+AU  - Li, Zhenguo
+T2  - Acm Computing Surveys
+AB  - Reasoning, a crucial ability for complex problem-solving, plays a pivotal role in various real-world settings such as negotiation, medical diagnosis, and criminal investigation. It serves as a fundamental methodology in the field of Artificial General Intelligence (AGI). With the ongoing development of foundation models, there is a growing interest in exploring their abilities in reasoning tasks. In this article, we introduce seminal foundation models proposed or adaptable for reasoning, highlighting the latest advancements in various reasoning tasks, methods, and benchmarks. We then delve into the potential future directions behind the emergence of reasoning abilities within foundation models. We also discuss the relevance of multimodal learning, autonomous agents, and super alignment in the context of reasoning. By discussing these future research directions, we hope to inspire researchers in their exploration of this field, stimulate further advancements in reasoning with foundation models, e.g., Large Language Models (LLMs), and contribute to the development of AGI.
+CY  - New York, NY, USA
+DA  - 2025/06//
+PY  - 2025
+DO  - 10.1145/3729218
+VL  - 57
+IS  - 11
+J2  - ACM Comput. Surv.
+PB  - Association for Computing Machinery
+SN  - 0360-0300
+UR  - https://doi.org/10.1145/3729218
+KW  - Reasoning
+KW  - foundation models
+KW  - AI agent
+KW  - multimodal
+KW  - artificial general intelligence
+ER  - 
+
+TY  - JOUR
+TI  - Leveraging large language models in next generation intelligent manufacturing: Retrospect and prospect
+AU  - Ma, Yunfei
+AU  - Zheng, Shuai
+AU  - Yang, Zheng
+AU  - Zheng, Pai
+AU  - Leng, Jiewu
+AU  - Hong, Jun
+T2  - JOURNAL OF MANUFACTURING SYSTEMS
+DA  - 2025/10//undefined
+PY  - 2025
+DO  - 10.1016/j.jmsy.2025.07.019
+VL  - 82
+SP  - 809
+EP  - 840
+SN  - 0278-6125
+AN  - WOS:001545855600002
+Y2  - 2025/08/16/
+ER  - 
+
+TY  - JOUR
+TI  - MechGPT, a language-based strategy for mechanics and materials modeling that connects knowledge across scales, disciplines, and modalities
+AU  - Buehler, Markus J.
+T2  - APPLIED MECHANICS REVIEWS
+DA  - 2024/03/01/
+PY  - 2024
+DO  - 10.1115/1.4063843
+VL  - 76
+IS  - 2
+SN  - 0003-6900
+AN  - WOS:001200739600001
+Y2  - 2024/04/17/
+ER  - 
+
+TY  - JOUR
+TI  - Fine-tuning large language models to improve accuracy and comprehensibility of automated code review
+AU  - Yu, Yongda
+AU  - Rong, Guoping
+AU  - Shen, Haifeng
+AU  - Zhang, He
+AU  - Shao, Dong
+AU  - Wang, Min
+AU  - Wei, Zhao
+AU  - Xu, Yong
+AU  - Wang, Juhong
+T2  - ACM TRANSACTIONS ON SOFTWARE ENGINEERING AND METHODOLOGY
+DA  - 2025/01//undefined
+PY  - 2025
+DO  - 10.1145/3695993
+VL  - 34
+IS  - 1
+SN  - 1049-331X
+AN  - WOS:001418053800003
+Y2  - 2025/02/20/
+ER  - 
+
+TY  - JOUR
+TI  - Integrating large language model and digital twins in the context of industry 5.0: Framework, challenges and opportunities
+AU  - Chen, Chong
+AU  - Zhao, Kuanhong
+AU  - Leng, Jiewu
+AU  - Liu, Chao
+AU  - Fan, Junming
+AU  - Zheng, Pai
+T2  - ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING
+DA  - 2025/08//undefined
+PY  - 2025
+DO  - 10.1016/j.rcim.2025.102982
+VL  - 94
+SN  - 0736-5845
+AN  - WOS:001426221700001
+Y2  - 2025/02/26/
+ER  - 
+
+TY  - JOUR
+TI  - A survey of large language model-augmented knowledge graphs for advanced complex product design
+AU  - Liang, Xinxin
+AU  - Wang, Zuoxu
+AU  - Liu, Jihong
+T2  - JOURNAL OF MANUFACTURING SYSTEMS
+DA  - 2025/06//undefined
+PY  - 2025
+DO  - 10.1016/j.jmsy.2025.04.016
+VL  - 80
+SP  - 883
+EP  - 901
+SN  - 0278-6125
+AN  - WOS:001484227700001
+Y2  - 2025/05/15/
+ER  - 
+
+TY  - JOUR
+TI  - Large language models in medical chatbots: Opportunities, challenges, and the need to address AI risks
+AU  - Chow, James C. L.
+AU  - Li, Kay
+T2  - INFORMATION
+DA  - 2025/06/27/
+PY  - 2025
+DO  - 10.3390/info16070549
+VL  - 16
+IS  - 7
+SN  - 2078-2489
+AN  - WOS:001535399100001
+Y2  - 2025/08/01/
+ER  - 
+
+TY  - JOUR
+TI  - Evaluating large language models and agents in healthcare: Key challenges in clinical applications
+AU  - Chen, Xiaolan
+AU  - Xiang, Jiayang
+AU  - Lu, Shanfu
+AU  - Liu, Yexin
+AU  - He, Mingguang
+AU  - Shi, Danli
+T2  - INTELLIGENT MEDICINE
+DA  - 2025/05//undefined
+PY  - 2025
+DO  - 10.1016/j.imed.2025.03.002
+VL  - 5
+IS  - 2
+SP  - 151
+EP  - 163
+SN  - 2667-1026
+AN  - WOS:001512558500008
+Y2  - 2025/07/01/
+ER  - 
+
+TY  - JOUR
+TI  - Large language models' trustworthiness in the light of the EU AI act-a systematic mapping study
+AU  - Billah, Md Masum
+AU  - Hamjaya, Harry Setiawan
+AU  - Shiralizade, Hakima
+AU  - Singh, Vandita
+AU  - Inam, Rafia
+T2  - APPLIED SCIENCES-BASEL
+DA  - 2025/07/08/
+PY  - 2025
+DO  - 10.3390/app15147640
+VL  - 15
+IS  - 14
+SN  - 2076-3417
+AN  - WOS:001549341200001
+Y2  - 2025/08/22/
+ER  - 
+
+TY  - JOUR
+TI  - Generative AI in medicine and healthcare: Moving beyond the 'peak of inflated expectations'
+AU  - Zhang, Peng
+AU  - Shi, Jiayu
+AU  - Boulos, Maged N. Kamel
+T2  - FUTURE INTERNET
+DA  - 2024/12//undefined
+PY  - 2024
+DO  - 10.3390/fi16120462
+VL  - 16
+IS  - 12
+SN  - 1999-5903
+AN  - WOS:001384353900001
+Y2  - 2025/01/01/
+ER  - 
+
+TY  - JOUR
+TI  - Psycholinguistic analyses in software engineering text: A systematic mapping study
+AU  - Sajadi, Amirali
+AU  - Damevski, Kostadin
+AU  - Chatterjee, Preetha
+T2  - INFORMATION AND SOFTWARE TECHNOLOGY
+DA  - 2026/01//undefined
+PY  - 2026
+DO  - 10.1016/j.infsof.2025.107913
+VL  - 189
+SN  - 0950-5849
+AN  - WOS:001600707100001
+Y2  - 2025/10/31/
+ER  - 
+
+TY  - JOUR
+TI  - Co-coding classroom dialogue: A single researcher case study of ChatGPT-assisted analysis in science education
+AU  - Shin, Eunhye
+T2  - JOURNAL OF COMPUTER ASSISTED LEARNING
+DA  - 2025/08//undefined
+PY  - 2025
+DO  - 10.1111/jcal.70089
+VL  - 41
+IS  - 4
+SN  - 0266-4909
+AN  - WOS:001539437000037
+Y2  - 2025/08/03/
+ER  - 
+
+TY  - CONF
+TI  - Human and machine: How software engineers perceive and engage with AI-assisted code reviews compared to their peers
+AU  - A. Alami
+AU  - N. Ernst
+T2  - 2025 IEEE/ACM 18th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)
+AB  - The integration of artificial intelligence (AI) continues to increase and evolve, including in software engineering (SE). This integration involves processes traditionally entrusted to humans, such as coding. However, the impact on sociotechnical processes like code review remains underexplored. In this interview-based study (20 interviewees), we investigate how software engineers perceive and engage with Large Language Model (LLM)-assisted code reviews compared to human peerled reviews. In this inherently human-centric process, we aim to understand how software engineers navigate the introduction of AI into collaborative workflows. We found that engagement in code review is multi-dimensional, spanning cognitive, emotional, and behavioral dimensions. The introduction of LLM-assisted review impacts some of these attributes. For example, there is less need for emotional regulation and coping mechanisms when dealing with an LLM compared to peers. However, the cognitive load sometimes is higher in dealing with LLM-generated feedback due to its excessive details. Software engineers use a similar sense-making process to evaluate and adopt feedback suggestions from their peers and the LLM. However, the LLM feedback adoption is constrained by trust and lack of context in the review. Our findings contribute to a deeper understanding of how AI tools are impacting SE socio-technical processes and provide insights into the future of AI-human collaboration in SE practices.
+C3  - 2025 IEEE/ACM 18th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE)
+DA  - 2025/04/27/28
+PY  - 2025
+DO  - 10.1109/CHASE66643.2025.00016
+SP  - 63
+EP  - 74
+SN  - 2574-1837
+KW  - Collaboration
+KW  - Large language models
+KW  - Large Language Models
+KW  - Reviews
+KW  - Codes
+KW  - Human-AI collaboration
+KW  - Software engineering
+KW  - Navigation
+KW  - Software
+KW  - Code Review
+KW  - Cognitive load
+KW  - Encoding
+KW  - LLM-supported software engineering
+KW  - Regulation
+ER  - 
+
+TY  - JOUR
+TI  - Methods and techniques of agentic software engineering: A systematic literature review
+AU  - N. Otoum
+AU  - N. Elkhalili
+T2  - IEEE Access
+AB  - The development of agentic software engineering (ASE) is shifting the software development process, specifically by adopting autonomous agents into the fundamental software development process, where autonomous agents using large language models (LLMs) and artificial intelligence (AI) make decisions, write code, and collaborate across the entire software development lifecycle. The systematic review is a summary of literature on the agentic software engineering methodologies, frameworks, and techniques published in 2022-2025. We identify and compare methods based on autonomous coding, multi-agent systems, iterative refinement, and human-agent collaboration, drawing on 61 high-quality studies. We find that LLM-based agents show substantial potential in automated software engineering and that recent work is exploring new trends in agent cooperation, reasoning systems, and tool integration. We recognize such key challenges as the coordination procedures, reliability, explainability, and the ethical issues. This review characterizes the emerging role of agentic software engineering in improving the productivity of developers, the quality of their code, and the automation of their processes, and it offers a structured roadmap for future research. With the rapid evolution of the field, agentic approaches will tend to transform the conception, creation, and maintenance of software and provide more autonomous, adaptive, and intelligent systems.
+DA  - 2026///
+PY  - 2026
+DO  - 10.1109/ACCESS.2026.3652325
+SP  - 1
+EP  - 1
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Software development management
+KW  - Codes
+KW  - Autonomous agents
+KW  - Software engineering
+KW  - Automation
+KW  - systematic review
+KW  - Systematic literature review
+KW  - Software
+KW  - multi-agent systems
+KW  - code generation
+KW  - Multi-agent systems
+KW  - Maintenance
+KW  - Protocols
+KW  - autonomous agents
+KW  - agentic software engineering
+KW  - software automation
+ER  - 
+
+TY  - CONF
+TI  - From prompt to action: A comprehensive review of LLM autonomous agents
+AU  - Z. Rafique
+AU  - M. Wasim
+AU  - M. Hussain
+AU  - M. Hussain
+AU  - M. I. Memon
+T2  - 2025 IEEE International Conference on Wireless for Space and Extreme Environments (WiSEE)
+AB  - Large Language Models (LLMs) have quickly pushed the frontiers of autonomous agents with advanced reasoning, natural language interaction, and tool chaining in complex worlds. With LLM-based agents arising in domains like digital assistants, autonomous robots, and mission planning, it is more critical than ever to have a deep understanding of their construction, strengths, and weaknesses—especially for safety-critical and adversarial domains like space systems. This article presents an overview of the most recent developments in autonomous agents built with LLMs. We categorize modern architectures, single-agent and multi-agent architectures, and their most prominent functional modules—perception, reasoning, planning, and action. We present new functionality facilitated by LLMs, including zero-shot generalization, dynamic tool use, and human-AI collaboration, and criticize their drawbacks in real-world use, e.g., hallucination, limited resources, and safety. Besides, we discuss future standards and metrics for LLM agents, including how to measure dependability and robustness in hostile environments. Lastly, we present open research challenges highlighting the necessity of stable, efficient, and robust LLM-based agents deployable in wireless, remote, and hostile environments. This survey aims to offer researchers and practitioners a brief overview of the status quo with LLM-based autonomous agents and inspire future work bridging current gaps between general-purpose language intelligence and domain-specific autonomous systems.
+C3  - 2025 IEEE International Conference on Wireless for Space and Extreme Environments (WiSEE)
+DA  - 2025/10/14/16
+PY  - 2025
+DO  - 10.1109/WiSEE57913.2025.11229863
+SP  - 1
+EP  - 6
+SN  - 2380-7636
+KW  - Agent
+KW  - Cognition
+KW  - Surveys
+KW  - Planning
+KW  - Reviews
+KW  - Autonomous agents
+KW  - LLM
+KW  - Artificial Intelligence
+KW  - Safety
+KW  - Robustness
+KW  - Standards
+KW  - Wireless communication
+KW  - GPT-4
+KW  - GPT-3
+KW  - Space missions
+ER  - 
+
+TY  - CONF
+TI  - Quality assurance for LLM-generated test cases: A systematic literature review
+AU  - H. Edirisinghe
+AU  - D. Wickramaarachchi
+T2  - 2024 8th SLAAI International Conference on Artificial Intelligence (SLAAI-ICAI)
+AB  - The rapid advancements in artificial intelligence have transformed software testing, with Large Language Models (LLMs) emerging as powerful tools for automating test case generation. This paper explores Quality Assurance (QA) for LLM-generated test cases in black-box testing through a systematic literature review. Though LLMs are increasingly used for test case generation, challenges in ensuring their quality remain. Following PRISMA guidelines, relevant studies were selected from databases focusing on critical quality attributes, QA frameworks, metrics, and challenges. LLMs demonstrate high efficiency but face numerous issues. A recommendation for future research is given on addressing standardized metrics and improving human-AI collaboration for enhanced testing outcomes.
+C3  - 2024 8th SLAAI International Conference on Artificial Intelligence (SLAAI-ICAI)
+DA  - 2024/12/18/19
+PY  - 2024
+DO  - 10.1109/SLAAI-ICAI63667.2024.10844968
+SP  - 1
+EP  - 6
+KW  - Collaboration
+KW  - Large language models
+KW  - Software testing
+KW  - Databases
+KW  - Systematic literature review
+KW  - Quality assurance
+KW  - Measurement
+KW  - large language models (LLMs)
+KW  - Focusing
+KW  - evaluation metrics
+KW  - Guidelines
+KW  - Faces
+KW  - black-box testing
+KW  - Quality Assurance (QA)
+KW  - test case generation
+ER  - 
+
+TY  - CONF
+TI  - Agentic AI: A survey of autonomous agents, architectures, and emerging applications
+AU  - S. Deshmukh
+AU  - M. Kuri
+AU  - V. Vanarote
+AU  - M. Nimbalkar
+AU  - P. Chandre
+AU  - S. Yadav
+T2  - 2025 IEEE 5th International Conference on ICT in Business Industry & Government (ICTBIG)
+AB  - Artificial intelligence has progressed from taskspecific systems toward more autonomous and adaptive agents capable of complex decision-making. Agentic AI, characterized by goal-driven autonomy, reasoning, and collaboration, represents a paradigm shift in how intelligent systems are designed and deployed. Unlike conventional AI, which relies on predefined models or narrow optimizations, Agentic AI integrates perception, planning, and action with adaptive learning and social coordination, enabling agents to operate in dynamic, uncertain, and multi-agent environments. This paper provides a comprehensive survey of Agentic AI, spanning classical architectures such as belief-desire-intention (BDI) models, reinforcement learning agents, and emerging frameworks powered by large language models (LLMs) and hybrid approaches. Applications across healthcare, finance, cybersecurity, robotics, smart cities, and knowledge management are systematically reviewed, with a focus on their strengths, limitations, and scalability. A comparative taxonomy is presented to classify agents by autonomy, learning mechanisms, and collaboration strategies. Key challenges—including reliability, explainability, coordination overhead, and ethical governance are analyzed, alongside the risks of emergent behaviors and adversarial exploitation. Finally, future research directions are outlined, emphasizing the need for trustworthy, scalable, and socially aligned Agentic AI. This survey offers researchers and practitioners a structured foundation for advancing next-generation intelligent agent systems.
+C3  - 2025 IEEE 5th International Conference on ICT in Business Industry & Government (ICTBIG)
+DA  - 2025/12/12/13
+PY  - 2025
+DO  - 10.1109/ICTBIG68706.2025.11323264
+SP  - 1
+EP  - 8
+KW  - Collaboration
+KW  - Medical services
+KW  - Surveys
+KW  - Taxonomy
+KW  - Adaptation models
+KW  - Reinforcement learning
+KW  - Scalability
+KW  - Agentic AI
+KW  - LLM Agents
+KW  - Autonomous Agents
+KW  - Multi-Agent Systems
+KW  - Robot kinematics
+KW  - Ethics
+KW  - AI Governance
+KW  - Hybrid Architectures
+KW  - Smart cities
+ER  - 
+
+TY  - JOUR
+TI  - Toward edge general intelligence with multiple-large language model (multi-LLM): Architecture, trust, and orchestration
+AU  - H. Luo
+AU  - Y. Liu
+AU  - R. Zhang
+AU  - J. Wang
+AU  - G. Sun
+AU  - D. Niyato
+AU  - H. Yu
+AU  - Z. Xiong
+AU  - X. Wang
+AU  - X. Shen
+T2  - IEEE Transactions on Cognitive Communications and Networking
+AB  - Edge computing enables real-time data processing closer to its source, thus improving the latency and performance of edge-enabled AI applications. However, predictive AI models often fall short when dealing with complex, dynamic tasks that require advanced reasoning and multimodal data processing. This survey explores the integration of multi-LLMs (Large Language Models) to address these challenges in edge computing, where multiple specialized LLMs collaborate to enhance task performance and adaptability in resource-constrained environments. We review the transition from conventional edge AI models to single LLM deployment and, ultimately, to multi-LLM systems. The survey discusses enabling technologies such as dynamic orchestration, resource scheduling, and cross-domain knowledge transfer that are key for multi-LLM implementation. A central focus is on trusted multi-LLM systems, ensuring robust decision-making in environments where reliability and privacy are crucial. We also present multimodal multi-LLM architectures, where multiple LLMs specialize in handling different data modalities, such as text, images, and audio, by integrating their outputs for comprehensive analysis. Finally, we highlight future directions, including improving resource efficiency, trustworthy governance multi-LLM systems, while addressing privacy, trust, and robustness concerns. This survey provides a valuable reference for researchers and practitioners aiming to leverage multi-LLM systems in edge computing applications.
+DA  - 2025/12//
+PY  - 2025
+DO  - 10.1109/TCCN.2025.3612760
+VL  - 11
+IS  - 6
+SP  - 3563
+EP  - 3585
+J2  - IEEE Transactions on Cognitive Communications and Networking
+SN  - 2332-7731
+KW  - Cognition
+KW  - Collaboration
+KW  - Reliability
+KW  - Artificial intelligence
+KW  - Surveys
+KW  - Computational modeling
+KW  - Adaptation models
+KW  - Reviews
+KW  - Privacy
+KW  - Model compression
+KW  - edge computing
+KW  - Large language model (LLM)
+KW  - multimodal LLM
+KW  - trustworthy LLM system
+KW  - multiple LLMs
+ER  - 
+
+TY  - JOUR
+TI  - A comprehensive survey on LLM-powered recommender systems: From discriminative, generative to multi-modal paradigms
+AU  - D. Nawara
+AU  - R. Kashef
+T2  - IEEE Access
+AB  - Large Language Models (LLMs) have become transformative tools in Natural Language Processing (NLP). They are increasingly being integrated into recommendation systems to address existing limitations such as data sparsity, novelty, cold start, and long-tail challenges. Unlike traditional recommendation techniques that rely on user-item interaction matrices, LLMs provide context-aware reasoning and multi-modal processing capabilities. However, existing research mainly focuses on fine-tuning and prompt engineering strategies without fully exploring hybrid models, retrieval-augmented generation (RAG), graph-enhanced recommendations, and evaluation methodologies. This survey offers a comprehensive and structured examination of LLM-based recommendation systems, categorizing them into discriminative, generative, hybrid, graph-enhanced, and multimodal paradigms. Additionally, we explore adaptive fine-tuning techniques, prompt engineering strategies, and retrieval-augmented generation (RAG) approaches that improve LLM performance in personalized recommendations. We also examine evaluation methodologies, including LLM-as-a-Judge frameworks, benchmark limitations, and fairness considerations. Finally, we present a detailed discussion of open challenges, such as hallucination, scalability, bias, and privacy, highlighting critical research gaps and opportunities for future exploration. This survey aims to guide researchers in navigating the evolving landscape of LLM-driven recommendation systems.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3599832
+VL  - 13
+SP  - 145772
+EP  - 145798
+J2  - IEEE Access
+SN  - 2169-3536
+KW  - Surveys
+KW  - Adaptation models
+KW  - Real-time systems
+KW  - Large language models (LLMs)
+KW  - Accuracy
+KW  - Recommender systems
+KW  - Collaborative filtering
+KW  - Automobiles
+KW  - Electronic commerce
+KW  - retrieval-augmented generation (RAG)
+KW  - Motion pictures
+KW  - discriminative learning
+KW  - evaluation metrics
+KW  - Filtering
+KW  - LLM-as-a-judge
+KW  - multi-modal paradigms
+KW  - recommendation systems
+ER  - 
+
+TY  - JOUR
+TI  - On the effectiveness of LLM-as-a-judge for code generation and summarization
+AU  - G. Crupi
+AU  - R. Tufano
+AU  - A. Velasco
+AU  - A. Mastropaolo
+AU  - D. Poshyvanyk
+AU  - G. Bavota
+T2  - IEEE Transactions on Software Engineering
+AB  - Large Language Models (LLMs) have been recently exploited as judges for complex natural language processing tasks, such as Q&A (Question & Answer). The basic idea is to delegate to an LLM the assessment of the “quality” of the output provided by an automated technique (often another LLM) for tasks for which: (i) quantitative metrics would only tell part of the story, and; (ii) a large-scale human-based evaluation would be too expensive. LLMs-as-a-judge, if proven effective for a specific task, can also unlock new possibilities for automation, with several LLMs proposing a solution for a given instance of the task (e.g., an answer to a question) and others judging and deciding what is the best output to show the user. We study the effectiveness of LLMs-as-a-judge for two code-related tasks, namely code generation and code summarization. The rationale for choosing these tasks is two-fold. First, quantitative metrics are usually not enough for the assessment of code summarizers/generators. For example, it is well documented that metrics such as BLEU are quite weak proxies for the quality of the generated summaries. Second, even state-of-the-art techniques still struggle with handling complex instances of these tasks (e.g., summarizing a quite long / complex function), making them good candidates for benefiting from more advanced solutions envisioning collaboration among LLMs. For code generation, we check whether eight LLMs are able to judge the correctness of 1,405 Java methods and 1,281 Python functions generated by the same LLMs or implemented by humans. For code summarization, we compare the judgment of five LLMs to those provided by ninehumans for $\sim$∼ 1.2k summaries, related to both Java and Python functions. Our findings show that GPT-4-turbo is the best LLM in terms of judging capabilities for both tasks, with “smaller” LLMs featuring tens of billions parameters not being able to cope with judging tasks. However, even the best-performing LLM frequently misjudges the correctness of the code and summary quality.
+DA  - 2025/08//
+PY  - 2025
+DO  - 10.1109/TSE.2025.3586082
+VL  - 51
+IS  - 8
+SP  - 2329
+EP  - 2345
+J2  - IEEE Transactions on Software Engineering
+SN  - 1939-3520
+KW  - Reliability
+KW  - Training
+KW  - Reviews
+KW  - Chatbots
+KW  - Codes
+KW  - AI4SE
+KW  - Software
+KW  - Measurement
+KW  - Benchmark testing
+KW  - Electronic mail
+KW  - LLM-as-a-judge
+KW  - empirical study
+KW  - Java
+KW  - large language models for code
+ER  - 
+
+TY  - CONF
+TI  - Brief state of the art on human-AI in software engineering: Impact, ethical challenges, and academic evolution
+AU  - Y. V. Morales M.
+AU  - B. D. Valenzuela R.
+AU  - R. S. Salgado
+AU  - G. G. Serna
+AU  - N. A. C. Sánchez
+T2  - 2024 13th International Conference On Software Process Improvement (CIMPS)
+AB  - This article presents a brief state of the art on the integration of artificial intelligence (AI) in software engineering, focusing on its impact, emerging ethical challenges, and the academic evolution required to address these changes. Through a systematic literature review based on the PRISMA methodology and the analysis of case studies, it explores how AI, particularly large language models (LLMs), is transforming key processes such as code generation, program verification, and integration with DevOps practices, thereby improving software productivity and quality. However, these advances entail significant ethical challenges, such as the introduction of biases, lack of transparency in automated decisions, and excessive reliance on automation, raising concerns about privacy and security. This study highlights the importance of reformulating curricula, developing models for academic institutions that integrate an ethical approach to AI teaching, and fostering collaboration with the industry. This work offers a comprehensive vision that combines the technical, ethical, and educational aspects necessary for the responsible implementation of AI. Finally, directions for future research centered on developing more transparent AI technologies and creating robust ethical frameworks to ensure effective synergy between humans and AI in software engineering are identified.
+C3  - 2024 13th International Conference On Software Process Improvement (CIMPS)
+DA  - 2024/10/16/18
+PY  - 2024
+DO  - 10.1109/CIMPS65195.2024.11095939
+SP  - 117
+EP  - 124
+KW  - Collaboration
+KW  - Large language models
+KW  - Artificial intelligence
+KW  - Software engineering
+KW  - Human-AI
+KW  - Privacy
+KW  - Software
+KW  - DevOps
+KW  - Large Language Models (LLM)
+KW  - Software Engineering
+KW  - Ethics
+KW  - Security
+KW  - Productivity
+KW  - Artificial Intelligence (AI)
+ER  - 
+
+TY  - CONF
+TI  - Security, privacy, and ethical challenges of artificial intelligence in large language model scope: A comprehensive survey
+AU  - T. T. Nguyen
+AU  - H. T. T. Vu
+AU  - H. N. Nguyen
+T2  - 2024 1st International Conference On Cryptography And Information Security (VCRIS)
+AB  - Artificial intelligence (AI) models like ChatGPT and LLama have changed how we understand and create human-like language. They understand language well, can generate text like a person, know the context, and solve problems effectively. This makes them useful in many areas like search engines, customer service, and translation. Recently, these models have also caught the attention of the security field, uncovering weaknesses in security and proving useful for security tasks. This paper offers an extensive review of the security, privacy, and ethical issues associated with AI, focusing on LLMs and their impact on various domains. We explore the vulnerabilities of LLMs, propose poten-tial defense mechanisms, and highlight the broader implications of AI on human society. This survey intends to offer a clear perspective for researchers and practitioners, and policymakers on responsibly developing and deploying AI technologies.
+C3  - 2024 1st International Conference On Cryptography And Information Security (VCRIS)
+DA  - 2024/12/03/4
+PY  - 2024
+DO  - 10.1109/VCRIS63677.2024.10813382
+SP  - 1
+EP  - 6
+KW  - Artificial intelligence
+KW  - Surveys
+KW  - Large Language Model
+KW  - Computational modeling
+KW  - Translation
+KW  - ChatGPT
+KW  - Artificial Intelligence
+KW  - Privacy
+KW  - Training data
+KW  - Prevention and mitigation
+KW  - Ethics
+KW  - Security
+KW  - Cryptography
+KW  - LLM Ethical
+KW  - LLM Privacy
+KW  - LLM Security
+ER  - 
+
+TY  - CONF
+TI  - Multi-agent reinforcement learning with LLMs: A comprehensive review of communication, coordination, and policy adaptation
+AU  - D. H. Arachchige
+AU  - S. M. Peiris
+T2  - 2025 3rd International Conference on Business Analytics for Technology and Security (ICBATS)
+AB  - Emphasizing natural language communication for better interpretability and coordination, this paper analyzes present developments and problems in including Large Language Models (LLMs) into Multi-Agent Reinforcement Learning (MARL) systems. It critically assesses current MARL models and points out notable flaws, primarily the underuse of LLM capabilities for coordination and human-interpretable communication in partially observable environments. Reviewing methods like centralized critics, textual and vector-based observations, and policy optimization strategies helps the article highlight areas for more investigation to improve agent collaboration and scalability.
+C3  - 2025 3rd International Conference on Business Analytics for Technology and Security (ICBATS)
+DA  - 2025/05/01/2
+PY  - 2025
+DO  - 10.1109/ICBATS66542.2025.11258284
+SP  - 1
+EP  - 6
+KW  - Large Language Models
+KW  - Multi-Agent Reinforcement Learning
+KW  - Centralized Critic
+KW  - Text-based Environments
+ER  - 
+
